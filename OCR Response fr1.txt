@@ -1,0 +1,28 @@
+OCR Response:
+{
+  "Persons": [
+    "Rachid Behna",
+    "Yéssi",
+    "Yechli Djizahi",
+    "Zaki",
+    "Ali",
+    "Youssef Youssef Labrun",  
+    "Kamel"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Rue de l’Église Maronite",
+    "Rue Neuve",
+    "Aguia",
+    "Aboucir"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [],
+  "extracted_text": "Très cher Yéssi,\n\nNotre lettre en date du 13 ci- Yechli Djizahi. J’ai passé dans mon livre les recouvrements suivant la lettre de Zaki. J’espère qu’il nous a envoyé le bordereau des recouvrements de la semaine ainsi que ses commandes et j’attends de vos nouvelles demain.\n\nAli est bien et rentre chez lui un moment, mais il n’a pas d’argent et le Monsieur est en voyage. J’espère obtenir le troisième prospect !!\n\nYoussef Youssef Labrun va se chercher un ticket et, quand même, pour la Balle Roman ; hier, elle se manie sur le payé de 2 000. Il a écrit provisoirement pour le paiement du solde pour demain.\n\nSuivant vos désirs, j’attends vous lire après que Kamel suit le cours à Aguia. Il a demandé aujourd’hui une lettre le sept et Zake lui a répondu qu’il attend la réponse d’Aboucir.",
+  "language": "fr",
+  "Translation_to_English": "Very dear Yéssi,\n\nOur letter dated the 13th, Yechli Djizahi. I have entered in my book the collections following Zaki’s letter. I hope he has sent us the list of this week’s collections along with his orders and I am waiting for your news tomorrow.\n\nAli is fine and has gone back home for a while, but he has no money and the gentleman is travelling. I nevertheless hope to obtain the third prospect!!\n\nYoussef Youssef Labrun is going to look for a ticket and, in any case, for the Roman Ball; yesterday it was dealing with the payment of 2,000. He has 
+provisionally written for settlement of the balance for tomorrow.\n\nAccording to your wishes, I am waiting to hear from you after Kamel finishes the errand in Aguia. He asked today for letter number seven and Zake answered him that he is waiting for the reply from Aboucir."
+}

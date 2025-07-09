@@ -1,0 +1,28 @@
+{
+  "Persons": [
+    "Costrelli",
+    "Laffol",
+    "Armand Malgan",
+    "Bucky Labal"
+  ],
+  "Places": [],
+  "companies": [
+    "Messieurs Maglath"
+  ],
+  "commodities": [
+    {
+      "name": "Elént 34 U",
+      "date": "April 37 (exact year not stated)",
+      "price": "72.5"
+    },
+    {
+      "name": "Tunisian Naphtha",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Fabrique Tabac Mélaves. J'écris cet après-midi chez Costrelli, mais sans aucune disposition sur le marché; ils ne le peuvent savoir. Ils ne veulent personne pour ventiler une bonne commande. Nouvelle chemise. J'irais on à la fin; vous pourriez arriver à un franc si toutefois de vos nouvelles. Tous votre gouvern aujourd'hui. Laffol a obtenu sur le marché les ch. Elént 34 U, 72.5, avril 37, le 39.\n\nSur livre. Notez que Armand Malgan m'a écrit plus et lorsque vous en aurez besoin, nous irons à deviser chez Messieurs Maglath. Naphtène tunisien. Peu d'avis concernant la pièce théâtre de 20 M. livres sur le porteur et organisé le recensement.\n\nBucky Labal. Je t'ai confirmé hier nos provisions arrivées au cas où, autre par via. Contrat 30 H. en État 34 V à 72.2nd 33 …\n\nMarché inconvertible. Hier on m'a assuré sérieusement que la situation demeure d'une tranquillité que mes clients n'ont pas besoin de craindre. Je n'ai pas de chemin de revenir. Je vous confirmerai ce mercredi. Je prie de revenir de suite autant que tout bien effets sont prochains.",
+  "language": "fr",
+  "Translation_to_English": "Tobacco Factory Mélaves. I am writing this afternoon at Costrelli's, but without any instruction regarding the market; they cannot know. They do not want anyone to spread a good order. New shirt. I will go there in the end; you could reach one franc if however from your news. All your government today. Laffol obtained on the market the certificates Elént 34 U, at 72.5, April 37, the 39.\n\nOn book. Note that Armand Malgan wrote to me further and when you need it, we will go to draw it up at Messrs Maglath. Tunisian naphtha. Few opinions concerning the lot of 20 million pounds on the bearer and the census was organized.\n\nBucky Labal. I confirmed to you yesterday our supplies arrived just in case, via another route. Contract 30 H. in State 34 V at 72.2nd 33 …\n\nInconvertible market. Yesterday they seriously assured me that the situation remains calm enough that my clients do not need to worry. I have no way back. I will confirm this to you on Wednesday. I ask to return immediately as soon as everything is ready.",
+  "date": ""
+}
