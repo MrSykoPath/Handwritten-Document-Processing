@@ -1,0 +1,34 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Youssef Sarraj",
+    "Salem Tannous",
+    "Wadih El Azar",
+    "Habib El Hout",
+    "Saadallah Bahjat",
+    "Amin Makarious",
+    "Ibrahim Al Lou",
+    "Ibrahim Bahjat",
+    "Ilyas Matar"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Saint Anne Oil",
+      "date": "21 May 1936",
+      "price": "2444 (currency not specified)"
+    }
+  ],
+  "extracted_text": "راشيد بهنا\nتاجر\nالإسكندرية - القاهرة\nالسيد\nيوسف سراج المحترم\nبالإسكندرية\nتحية و بعد\nأفيدكم علمًا و تبعًا لمخابراتي الشفهية معكم، أن زميلنا السيد سالم طنوس بلغنا اليوم أن الكمية المذكورة علبًا مفردًا تسلمت مبلغ 2440 وديعتكم سنرسل لكم غدًا.\nأما سعر 29 تشرتين ثاني بدينام في الإسكندرية و وصلت له نهاية المشاورة، و الشحنة لم تصل بعد إلا أنه مترتب عليه نصف حسابكم قد كشفته كثير بعد تعب و جهد، فشاء تدبير الله و قيد فواتير الطريقين فنرجو تسلم الأمور يوم الاثنين.\nأما ما يتعلق بشحن غراس الزيتون و إرسال الفاتورة للجليل العلم لم تقبل بعد و لكن من الجيّد تعيين موزع النفط على السكان و رأيتم تعيين حبيب الحوت لاستلام الفاتورة، و تم إيداع النقود مساء اليوم الخميس الموافق 21 أيار.\nأما بقية المخابرة فأفيدكم علمًا بأن شحنة الصادرات غادرت رأس التين على الباخرة في أقل من أربع عشرة ساعة.\nأما شحنة العلم فبلغني أنكم تعتبون للأمر سأسترجع بريدي بكلمة قصيرة وصلت حضرتكم غدًا صباحًا.\nأمين مكاريوس، عشرين صر اللحظات، تاشا من احوال بداعكم الى 127 و إبراهيم اللو و إبراهيم بحاج و الياس مطر الى امير جنبًا لترام الشحن لم نقبض المبلغ و تم توقيعه\nأما سالت عليه جيابرا سبابير فقد سلمنا مبلغ 2444 و الباقي تسددناه من سند و السندات الباقي و الفواتير 35 - 26. هذا المجموع حوالات الشحنة و يوجد سند آخر و أحد سره صدر القضاء و الانتهاء من هذا المبلغ ينتهي بعد اسبوعين.",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna\nMerchant\nAlexandria - Cairo\nMr.\nYoussef Sarraj, esteemed,\nIn Alexandria,\nGreetings, and after,\nI inform you, following my oral communications with you, that our colleague Mr. Salem Tannous informed us today that the quantity mentioned in individual boxes was received for the amount of 2440. Your deposit will be sent to you tomorrow.\nAs for the price on 29th of the second Tishreen in Alexandria, it reached the end of the consultation, and the shipment has not arrived yet, but half of your account has been settled after much effort and trouble. By God's arrangement, the invoices for the two routes have been recorded, so matters will be received on Monday.\nWith regard to the shipment of olive seedlings and sending the invoice to the Galilee, it has not yet been accepted, but it would be good to appoint an oil distributor among the residents, and you have considered appointing Habib El Hout to receive the invoice. The funds were deposited this Thursday evening, corresponding to May 21.\nAs for the rest of the message, I inform you that the export shipment departed from Ras El Tin on the ship in less than fourteen hours.\nAs for the science shipment, I was informed that you are awaiting the matter. I will reply to you by mail with a short note which will reach you tomorrow morning.\nAmin Makarious, twenty of the moments, Tasha from the situations, your receivables to 127, and Ibrahim Al Lou, Ibrahim Bahjat, and Ilyas Matar to Amir next to the tram, we did not receive the amount and the receipt was signed.\nAs for Jabrah Sababir, we have delivered the amount of 2444, the rest we paid by bond, and the remaining bonds and invoices 35 - 26. This is the sum of the shipment remittances, and there is another bond, and one of its secret was issued by the judicial decision, and this amount will be completed after two weeks.",
+  "date": "21 May 1936"
+}
+```

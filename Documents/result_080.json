@@ -1,0 +1,43 @@
+Certainly! Here is the extracted and structured data according to your schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Youssef Mizrahi",
+    "Zaki"
+  ],
+  "Places": [
+    "Alexandria",
+    "Rue de l'Eglise Maronite",
+    "Cairo",
+    "Rue Neuve",
+    "Banque Lyo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "unknown (transaction/commodity not specified)",
+      "date": "29 March 1936",
+      "price": "10000"
+    },
+    {
+      "name": "unknown (deposit)",
+      "date": "within the week (devant la semaine)",
+      "price": "19000"
+    }
+  ],
+  "extracted_text": "Rachid Behna Négociant Alexandrie Rue de l’Eglise Maronite, N°1 TÉLÉPH. 446.40 Adresse Télégraphique: ‘BEHNA_ALEXANDRIE’ LE CAIRE Rue Neuve, N°49 TÉLÉPH. N° 50-223 B.P. 120 Adresse Télégraphique: ‘ANHBE_LE CAIRE’ Le Caire, 29 Mars 1936\n\nMes chers Frères,\nVotre lettre en date d’hier.\nCorresp. Caisse. — Ce faut un reçu avisl à la B. D. de la somme de £ 10 000.- encaissés recu, par Y. Mizrahi.\nJ’ai passé dans mon livre les versements suivans la lettre. Photo de Zaki.\nCe matin Zaki, a été au magasin et il a encaissé £ 10 000. que l’employé lui a remis. Et après midi Zaki est repassé à la rue Clot Bey et il a vu Youssef Mizrahi qui lui a dit qu’il verserait demain à la Banque Lyo. 19 000. £ dans certainement devant la semaine.\nIl venait à l’instant de me téléphoner me répétant la même chose et me disant qu’il va le cent.\nce soir une longue lettre vous enverra les encaissements d’hier & aujourd’hui ainsi que la commande.\nFlan à cause de livraison dis. me disant qu’en même nous ne gagnons pas beaucoup dans le Der. il samal qui c’est un client qui vent la même et lui faire plaisir. J’ai à vous écrire pour l’autre.",
+  "language": "fr",
+  "Translation_to_English": "Rachid Behna Merchant Alexandria, Rue de l'Eglise Maronite, No.1 TEL: 446.40 Telegraphic Address: 'BEHNA_ALEXANDRIE' Cairo, Rue Neuve, No.49 TEL: 50-223 B.P. 120 Telegraphic Address: 'ANHBE_LE CAIRE' Cairo, 29 March 1936. My dear brothers, Your letter dated yesterday. Correspondence fund — A receipt is needed regarding the sum of £10,000 received, by Youssef Mizrahi. I have entered into my book the following deposits per the letter. Photo of Zaki. This morning, Zaki went to the store and collected £10,000 that the employee handed him. And in the afternoon, Zaki returned to Clot Bey Street and saw Youssef Mizrahi, who told him he would deposit £19,000 to Banque Lyo certainly by the week. He just telephoned me repeating the same thing and saying he will do so this evening. A long letter will send you yesterday’s and today’s deposits as well as the order. Flan about the delivery said that we do not earn much in... he is a customer who wants the same and to please him. I am writing to you about the other.",
+  "date": "29 March 1936"
+}
+```
+
+**Notes:**
+- Commodity “name” was not explicit, but financial transactions (deposits/receipts) are mentioned.
+- All names, places, and amounts were transcribed in full.
+- The language is French, and translation is provided.
+- If any specific commodity is identified in a later part of the document, it can be updated accordingly.

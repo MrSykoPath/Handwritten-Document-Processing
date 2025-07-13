@@ -1,0 +1,35 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Monsieur Gitikail",
+    "D. H. Labat",
+    "H. Saur",
+    "J. Bourek"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Bohr (red)",
+      "date": "",
+      "price": "7910"
+    },
+    {
+      "name": "Bohr (orange)",
+      "date": "",
+      "price": "7118"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nVoudrez la carte encore oubli :\nson Monsieur Gitikail.\nla D. H. Labat\nla H. Saur\nla J. Bourek\nCe fait les H...., on vous rendra les 20 Ch. -\nSincèrement. J'espère vous envoyer demain le 7/39, enregistrement de la semaine.\nLa J. Bourek. Je l'ai vu vendredi et Voudrez bien noter l'en cas que après vous avez consulté.\nJ'ai chiffré contre 341 ch. 7.-\nMarché. Il y a eu un petit mouvement a cause que les négociants ont des craintes pour l'import, ils faghoul. Et les Ch. H. Jen ont fait une réduction de 500, mais encore j'ai une conviction que ils pourraient ça finir bon service...\nL'Unique Cabas Méthode. Ils croivent de voir le Tchikoura... rien stockent qui regarde. J'avais une commande de\n5000 Bohr rouge, c 7910.\n5000 orange, c 7118.\net je croirai pour une autre commande sur le noir. Kachoura ne s'il avait consenti cela, on ne le dit pas. D'ailleurs, mais je n'aurai pas eu de Bohr, encore d'ici. Il aucune nouvelle d'une augmentation de la Bochara.",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\nWould you like the card again, forgot:\nhis Mr. Gitikail.\nD. H. Labat\nH. Saur\nJ. Bourek\nThis is for the H..., you will be refunded the 20 Ch.-\nSincerely. I hope to send you tomorrow the 7/39, week's recording.\nJ. Bourek. I saw him on Friday, and please note in case after you have consulted.\nI calculated against 341 ch. 7.-\nMarket. There was a small movement because the traders are worried about imports, they refrain. And the Ch. H. Jen made a reduction of 500, but I still have a conviction that it could end up being useful service...\nThe Unique Cabas Method. They believe to see the Tchikoura... nothing in stock to be concerned with. I had an order of\n5000 Bohr red, at 7910.\n5000 orange, at 7118.\nAnd I believe for another order on black. Kachoura, if he had agreed to this, it is not said. Besides, I did not get any Bohr, still here. No news of an increase in Bochara.",
+  "date": ""
+}
+```
+**Notes:**
+- Some names and terms are written unclearly in the handwriting (such as “Ch.” or “H....” and “Tchikoura”), so these are best guesses based on the letter’s legibility.
+- No explicit dates are present in the text; "7/39" appears to be a product code or reference, not a date.
+- Commodities (Bohr red and orange) are given with their respective quantities and prices.
+- The letter is in French.
+- Structured attribute values are in English per your instruction. Only "extracted_text" retains the original French.

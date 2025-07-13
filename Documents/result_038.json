@@ -1,0 +1,30 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "J. Mizrahi",
+    "Zaki",
+    "Joseph Mizrahi",
+    "Samuel Giraud",
+    "Salomon"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Banque Lomas"
+  ],
+  "commodities": [
+    {
+      "name": "Cigarettes",
+      "date": "12 June 1936",
+      "price": "46.5 to 47.90 francs"
+    }
+  ],
+  "extracted_text": "Alexandrie le 12 Juin 1936. Très chers Frères, Votre lettre en dat d’hier. Conseil Lomas. Reçu un reçu sur la B.O. de la somme de 7,300.- montant souss par J. Mizrahi. Joseph Mizrahi n’a pas encore livré les reconnaissances couvrant la dite order de Zaki. Zaki a passé un curier, mais il n’y avait pas d’argent, car Mizrahi a tenu dans les villages et hier soir, c’est ce qu’il nous téléphone ce soir. Je vous enverrai à la fin de la lettre. Aujourd’hui Samuel Giraud et Salomon vend ses tabacs avec une augmentation. Les J.L.S. Forte, les cigarettes américaines ont aussi augmenté de 46.5 à 47.90 francs aux cigarettes, différentes encore aucune augmentation pour aujourd’hui. Mais ça viendra, Laure Stahl qui achett de voir ce que les autres vont faire. Je vous tiendrai au courant. Samuel Giraud et Salomon vent la salle Hassan Kheir aux augmentations; il a dit à Zaki, s’il faut qu’il travaille, c’est les clients qui paye.",
+  "language": "fr",
+  "Translation_to_English": "Alexandria, 12 June 1936. Dearest Brothers, Your letter of yesterday. Lomas Council. I received a receipt on the B.O. for the sum of 7,300, amount received by J. Mizrahi. Joseph Mizrahi has not yet delivered the acknowledgements covering Zaki's order. Zaki sent a courier, but there was no money, because Mizrahi kept it in the villages, and last night, that is what he telephoned to us this evening. I will send it to you at the end of the letter. Today Samuel Giraud and Salomon are selling their tobacco with an increase. The J.L.S. Forte, the American cigarettes, have also increased from 46.5 to 47.90 francs per cigarette. The others, no increase yet today. But it will come, Laure Stahl is waiting to see what others will do. I will keep you informed. Samuel Giraud and Salomon sell the Hassan Kheir room with the increases; he told Zaki, if he has to work, it is the customers who pay.",
+  "date": "12 June 1936"
+}
+```

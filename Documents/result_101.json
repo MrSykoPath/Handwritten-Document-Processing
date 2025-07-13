@@ -1,0 +1,25 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "cotton",
+      "date": "22 May 1936",
+      "price": "2000"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nNÉGOCIANT\nALEXANDRIE - LE CAIRE\nتليفون رقم ٤٤٤٨ الاسكندرية ص . ب. ١٩١٩ صندوق البريد\nرشيد بهنا تاجر باسكندرية و القاهرة\nتوقيعنا: بهنا\n٢٢ ماي ١٩٣٦\nحضرة به المولم رشيد بك بهنا المحترم. بعد التحية نحيلكم بطيه شيك على بنك مصر بمبلغ الفين صاغ (كمقدم) لقيمة طبلية القطن التي اشتريناها منكم هذا الموسم. ويصير تسوية الحساب بعد وزن وتسليم البضاعة. ارجوكم ارسال البضاعة في اقرب وقت ممكن وافادتنا بهذه العملية.\nوتفضلوا بقبول فائق التحية والاحترام.\nتوقيع",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna\nMerchant\nAlexandria - Cairo\nPhone number 4448 Alexandria P.O. Box 1919\nRachid Behna, merchant in Alexandria and Cairo\nOur signature: Behna\n22 May 1936\nDear Mr. Rachid Bek Behna, respected. After greetings, we are sending you herein a check on Banque Misr for an amount of two thousand qirsh (as an advance) for the value of the cotton bale that we bought from you this season. The account will be settled after weighing and delivering the goods. Please send the goods as soon as possible and inform us regarding this operation.\nWith our highest regards and respect.\nSignature",
+  "date": "22 May 1936"
+}
+```

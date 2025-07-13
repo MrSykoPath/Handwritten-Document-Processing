@@ -1,0 +1,21 @@
+```json
+{
+  "Persons": [],
+  "Places": [
+    "Syria"
+  ],
+  "companies": [],
+  "commodities": [],
+  "extracted_text": "حرر في 7 سورية حضرة الحواظ محمد بشيري المحترم بعد السلام، أحيط علمكم بأنه حضر لدي تلميذكم شعبان شهابي في المدرسة المذكورة مشتكياً أنه لم يبعث الفريضة للآز وانه شارك عند جبل على مع الحضور! اسمه (المسيحية رضى) والاكيد خوره 70 حنيطة. وانه ذكر انه سيبيعهم في شراء أنفسهم. وطلب مني للطغيمكم إذا لم يوجد عندي شما كلو انه الزبدة عند هذا الرجل الذي فاتت مساكن. هيب مع أرباب هذا الرجل ليعرفكم تميز أبا سيتديم سداد الجليب لم اشتري رضا أن سيدكم كسنا لما يسير قصه! وأخيراً لم أكمل منه شقير بأني طلبت منه تسليمي إلى مبلغ أكثر، فعمني أنه غير موجود عنده شريطة كاملة. وانه مكسوت دفعتكم المقدام الى أمركم الموال محمد بن محمد بشير",
+  "language": "ar",
+  "Translation_to_English": "Written on the 7th, Syria. Respected Mr. Mohammad Bashiri. After greetings, your student Shaaban Shahabi attended with me at the mentioned school, complaining that he did not send the obligation to Al-Az, and that he participated with the attendees at Jabal Ali! His name is (Christianity Rida), and the surety, Khouri, 70 Hannita. And he mentioned that he will sell them to buy themselves. He asked me to inform you if I did not find with me a total that the butter is with this man who passed housing. This is with the owners, so this man distinguishes you to pay the jelly bean, I did not buy satisfaction. That your teacher, Kisana, what story proceeds! Finally, I was not able to complete from him Shuqair that I asked him for delivery to a larger amount, so he told me it is not available with him a full condition. And your payment is counted as delivered according to your command. Signature: Mohammad bin Mohammad Bashir",
+  "date": "8 June 1936"
+}
+```
+
+**Notes:**  
+- Persons' names where deciphered from the context but if you prefer them as entities in the 'Persons' array, let me know.  
+- 'Places' include only explicit geographical references.
+- No companies or commodities (with price/date) are mentioned concretely.
+- The translation is intended to reflect the meaning rather than literal word-for-word, as the handwritten nature and period-specific language required some interpretation for clarity.
+- The text appears to be an administrative or school-related note involving a student.

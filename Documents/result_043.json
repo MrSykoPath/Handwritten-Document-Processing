@@ -1,0 +1,40 @@
+Certainly! Here is the extracted text structured in a JSON format according to your schema:
+
+```json
+{
+  "Persons": [
+    "Joseph Caires",
+    "Mizahi",
+    "Costaelli",
+    "Joseph Mizahi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Rue de l'Eglise Maronite",
+    "Cairo",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "Rachid Behna",
+    "Fabrique Tabacs Milazzo"
+  ],
+  "commodities": [
+    {
+      "name": "oranges",
+      "date": "16 June 1936",
+      "price": "7000"
+    },
+    {
+      "name": "Tabacs",
+      "date": "16 June 1936",
+      "price": "not specified"
+    }
+  ],
+  "extracted_text": "Votre lettre en date d’hier... Joseph Caires. Ete, fourni un reçu sur la B.O. de la somme de 7000, montant remis par J. Mizahi, Fabrique Tabacs Milazzo. Noté que Costaelli vous a envoyé ce demain pour prendre livraison des 5000 kilos oranges rabaissés de la commande du Mardi. J’espère demain vous envoyer la cru-soude de Joseph Mizahi. J’ai parlé dans mon livre les deux reçus, suivant la lettre arabe de Zaki. Nota que vous n’avez rien désorare; Labin en caisse de son magasin cette après-midi L30 que j’espère vous envoyer demain. Il y a eu une augmentation depuis ce matin de la B.O. sur Kilo de Tabocs. C’est entendu surtout pour les Milazzo, on bien il faut augmenter le prix; ou diminuer du poids. J’y espère que vous ne serez pas lésés, pour cette augmentation. J’attends de vos nouvelles et j’espère qu’elles seront bonnes.",
+  "language": "fr",
+  "Translation_to_English": "Your letter dated yesterday... Joseph Caires. A receipt has been provided on the bill of exchange for the amount of 7000, amount handed over by J. Mizahi, Fabrique Tabacs Milazzo. Note that Costaelli will send tomorrow to take delivery of about 5000 kilos of oranges reduced from the Tuesday order. I hope to send you tomorrow the crude soda from Joseph Mizahi. I have recorded in my book the two receipts, according to Zaki's Arabic letter. Note that you have nothing outstanding; Labin in his store this afternoon 30 pounds which I hope to send you tomorrow. There has been an increase since this morning in the bill of exchange on the kilo of Tobacco. This applies especially to Milazzo; either we have to increase the price, or reduce the weight. I hope you will not be disadvantaged by this increase. I await your news and I hope it will be good.",
+  "date": "16 June 1936"
+}
+```
+
+Let me know if you want more details, additional fields, or a refined translation.

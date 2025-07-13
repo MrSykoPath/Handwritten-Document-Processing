@@ -1,0 +1,21 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Cairo"
+  ],
+  "companies": [],
+  "commodities": [
+    { "name": "fish (pêche)", "date": "13 September", "price": "Bas 84.55 livres" },
+    { "name": "gélats (possibly gelatin or a product)", "date": "20 September", "price": "760 livres" },
+    { "name": "gélats", "date": "16 September", "price": "920 livres" },
+    { "name": "Bas", "date": "15 September", "price": "84.55 Co 46" }
+  ],
+  "extracted_text": "RACHID BEHNA\nSabat Peres. Reçu la pêche pour les 13/9 Bas 84.55 L. Livré et du banc, conformes. Je recommanderai.\nAbdel Baki. Reçu la pêche pour les 20/9. Gélats M. 760 Livres du Basi et originau. Je recommanderai.\nMarché. Tranquille en caisses surtout cette semaine; que c’est la dernière du mois et c’est un calme complet, et une chaleur souffrante, et avec ça pas de demandes des articles d’été. Allah akbar le Ramadan. S’arrange, ça devient effrayant, aucune bonne vente pour personne, et le belpasso s’en va aussi de la marché. Labrousse Juin n’oublie! Annonce.\nRemise Cheikhali. Ne l’ai vendu et lui livré de Caire et vous prière de m’envoyer la pêche pour 1955 - 16/9 gélat lot 920 L 44.\nHussein Saour. Ne l’ai vendu et lui livré du Caire et vous prière de m’envoyer la pêche pour 29449 - 15/9 Bas n. 84.55 Co 46.\nTous autres jours aujourd’hui. Bien à vous. Rachid Behna",
+  "language": "fr",
+  "Translation_to_English": "Rachid Behna\nSabat Peres. Received the fish for the 13/9 Bas 84.55 pounds. Delivered from the bank, conforming. I will recommend.\nAbdel Baki. Received the fish for the 20/9. Gélats M. 760 pounds of Bas and original. I will recommend.\nMarket. Quiet in boxes especially this week; since it is the last of the month and it is complete calm, and stifling heat, and with that no requests for summer articles. Allah is the greatest, Ramadan. It's getting frightening, no good sales for anyone, and belpasso is leaving the market as well. Labrousse June don't forget! Announcement.\nRemittance Cheikhali. Sold and delivered from Cairo and kindly send me the fish for 1955 - 16/9 gélat lot 920 L 44.\nHussein Saour. Sold and delivered from Cairo and kindly send me the fish for 29449 - 15/9 Bas no. 84.55 Co 46.\nAll other days today. Yours sincerely. Rachid Behna",
+  "date": "13 September, 20 September, 16 September, 15 September (year not explicitly stated, context mentions 1955)"
+}
+```

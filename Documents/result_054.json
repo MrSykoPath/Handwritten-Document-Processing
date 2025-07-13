@@ -1,0 +1,32 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "محمود بشتاك"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Wheat",
+      "date": "1936-05-18",
+      "price": "not specified"
+    }
+  ],
+  "extracted_text": "سعادة قوام المحترم نحييكم ونشكركم بالغ الشكر على جوابكم المؤرخ في 16 الجاري ونحيطكم علماً بأن نصف كمية القمح التي وصلتنا وهي من شحنة سيربريس استلمناها بالوكيل الذي أرسلتموه وقد تولى تسليمها لنا بتاريخ 1936-05-18 سيناء شحن لنفس الشركة بالكمية سرعة تمامه وصحة ورقة التأمين نأمل ونشكركم تفضلوا بقبول فائق الاحترام عبد مالك مروان محمود بشتاك",
+  "language": "ar",
+  "Translation_to_English": "Esteemed Sir, We greet you and sincerely thank you for your reply dated the 16th of this month. We would like to inform you that half of the wheat shipment that arrived to us, which is from the Serybress shipment, has been received by the agent you sent and was delivered to us on 1936-05-18. Please ensure the prompt completion and accuracy of the insurance documentation for the other shipment for the same company from Sinai. Thank you again and please accept our highest regards. Abdel Malek Marwan, Mahmoud Beshtak.",
+  "date": "1936-06-09"
+}
+```
+**Notes:**
+- I included personal names that appeared in the Arabic signature and the sender and company names present in the letterhead.
+- "Wheat" is inferred from the Arabic word "القمح" (al-qamh).
+- The commodity price is not specified in the letter.
+- Place and company names are extracted from the letterhead and context.
+- The translation is as literal and clear as possible for an English-speaking audience.

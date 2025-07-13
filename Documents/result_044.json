@@ -1,0 +1,49 @@
+Here is a structured JSON extraction as requested:
+
+```json
+{
+  "Persons": [
+    "Maurice Nahmias",
+    "Joseph Levy",
+    "Meyer Levy"
+  ],
+  "Places": [
+    "Japan",
+    "Brisée",
+    "Le Progrès Egyptien"
+  ],
+  "companies": [
+    "Le Progrès Egyptien"
+  ],
+  "commodities": [
+    {
+      "name": "Ch. classique",
+      "date": "",
+      "price": "3000 f."
+    },
+    {
+      "name": "Ch. cup corde",
+      "date": "",
+      "price": "3000 f."
+    },
+    {
+      "name": "Ch. chez vous",
+      "date": "",
+      "price": "2000 f."
+    }
+  ],
+  "extracted_text": "Dépêche Japon. Note que vous avez cable au Japon d’acheter 100 ca. de chaque article 341, 345, 7161, 7798 ainsi que 5 pièces Hambre No 28M. Note que vous l’avez même dit de faire en ensemble pour réduire la prix. Note que vous avez réduit la commande des Ch. 7161 et 7798 et d’accord. Je veux vous fournir au courant d’une conversation où j’ai eu avec Maurice Nahmias que Joseph Levy est en train de lui expédier du Ch. japonais, et au Meyer Levy le garanthi. Il a eu en ce moment à la Brisée 3000 f. Ch. classique, 3000 f. a cup corde 341, 2000 f. chez vous avec une antépulle mais auriez que à 10 %. Il est confondu et il d’un limitée de 3 à 350 au la poches originales du Japon et il m’a conté que la Ch. Isaak Kinhwaiche il a une critre ordinaire 76.4. comme notre ligne d’cont. Je radratis a un avis que vous avez tenu conversation avec lui sur les échantillons et la brisé et de votre connaissance acchr. 9.9. cases ici. Vous pouvez lui téléphoner à la Progrès Egyptien Demander Mr. Nahmias du journal. Il lui prend un rendez-vous qui il veut vous voir. Téléphonie lui c’est 12.80 a.m. Il a rendu le semaine passée 2 ca. à droite ou poches aire 30 à Linde feige... comme cela sera à bourse pas bien d’ain augmenter à chacun. nous achetés films marquant....",
+  "language": "fr",
+  "Translation_to_English": "Japan Dispatch. Note that you have cabled Japan to buy 100 cases of each item 341, 345, 7161, 7798 as well as 5 pieces of Hamburg No. 28M. Note that you even said to do it together to reduce the price. Note that you have reduced the order of Ch. 7161 and 7798 and agreed. I want to inform you of a conversation I had with Maurice Nahmias, where Joseph Levy is in the process of sending him Japanese Ch., and Meyer Levy guarantees it. He currently has at Brisée: 3000 francs classic Ch., 3000 francs cup cord 341, 2000 francs at your place with a preliminary pull but you would only have at 10%. He is confused and it is a limited batch of 3 to 350 in the original pockets from Japan, and he told me that the Isaak Kinhwaiche Ch. has an ordinary criterion of 76.4 like our current line. I refer you to a notice that you had a conversation with him about the samples and the Brisée and your knowledge approximately 9.9 cases here. You can call him at Le Progrès Egyptien, ask for Mr. Nahmias from the newspaper. He will make an appointment if he wants to see you. Call him, it is 12.80 a.m. He delivered last week 2 cases on the right or pockets about 30 at Linde feige... as this will not be well received in the market to increase each. We buy marked films....",
+  "date": ""
+}
+```
+
+**Notes:**
+- Dates in the text are mostly item numbers, not actual dates, so the "date" field is left empty.
+- Companies and places are interpreted by context (Brisée, Le Progrès Egyptien).
+- Persons are full names as written.
+- Commodities are listed with their full descriptions and prices as available.
+- Extracted text is exactly as in the image.
+- Language marked as “fr” for French.
+- Translation is provided in full for the entire text.

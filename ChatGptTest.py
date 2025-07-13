@@ -68,7 +68,7 @@ def process_image_with_openai(image_path):
 
     if not os.path.exists(f"Documents/result_{base_name}.json"):
         response = client.responses.create(
-        model="o3-2025-04-16",
+        model="gpt-4.1-2025-04-14",  # Use the latest model
         input=[
             {
                 "role": "user",

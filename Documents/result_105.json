@@ -1,0 +1,25 @@
+The image is significantly faded and difficult to read, but I will do my best to extract and structure any visible content according to your requirements.
+
+---
+
+```json
+{
+  "Persons": [],
+  "Places": [],
+  "companies": [],
+  "commodities": [],
+  "extracted_text": "سجل ديواني\nالامر",
+  "language": "ar",
+  "Translation_to_English": "Registry Office\nOrder",
+  "date": ""
+}
+```
+
+---
+
+### Notes:
+- **extracted_text**: The visible words are in Arabic and say "سجل ديواني" (Registry Office) and "الامر" (the order/command).
+- **language**: Arabic.
+- **Translation_to_English**: Provided.
+- No people, companies, places, or commodities are mentioned, and there is no clear date visible in the image.
+- If you have a higher quality or less faded image, more accurate extraction may be possible.

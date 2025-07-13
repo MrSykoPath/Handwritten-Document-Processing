@@ -1,0 +1,70 @@
+Certainly! Here is the extracted text and structured data according to your schema:
+
+---
+
+### Extracted Text (French):
+
+```
+RACHID BEHNA
+
+G. Ch Labart. J'ai lue vente Viarle clos, compris fou 
+et il a a confirulé
+
+15 ch. enf. 2845 a P.
+Sur 1 août 3941, a Y.
+Veuillez les lui noter en cas d'acceptation..
+Georges Dikhal. Deux 2 temps il m'avait payé 
+et pour eux a ch. enf. 3941. Inscrivez lui, j'ai 
+pour la convance à Y. - Veuillez les timbrer, in
+Chausable BHOU. N'étant l'échéantion pour le. 
+Notez ici:
+classes entre pour aujourd'hui.
+
+Rachid Behan 
+```
+
+---
+
+### JSON structured according to your schema
+
+```json
+{
+  "Persons": [
+    "G. Ch Labart",
+    "Georges Dikhal",
+    "Rachid Behan"
+  ],
+  "Places": [
+    "P.",
+    "Y."
+  ],
+  "companies": [
+    "RACHID BEHNA"
+  ],
+  "commodities": [
+    {
+      "name": "vente Viarle clos",
+      "date": "15 ch. enf. 2845",
+      "price": ""
+    },
+    {
+      "name": "",
+      "date": "1 août 3941",
+      "price": ""
+    },
+    {
+      "name": "",
+      "date": "",
+      "price": "Chausable BHOU"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\n\nG. Ch Labart. J'ai lue vente Viarle clos, compris fou \net il a a confirulé\n\n15 ch. enf. 2845 a P.\nSur 1 août 3941, a Y.\nVeuillez les lui noter en cas d'acceptation..\nGeorges Dikhal. Deux 2 temps il m'avait payé \net pour eux a ch. enf. 3941. Inscrivez lui, j'ai \npour la convance à Y. - Veuillez les timbrer, in\nChausable BHOU. N'étant l'échéantion pour le. \nNotez ici:\nclasses entre pour aujourd'hui.\n\nRachid Behan",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\n\nG. Ch Labart. I have read the Viarle clos sale, including everything, and it has been confirmed.\n\n15 ch. enf. 2845 in P.\nOn August 1, 3941, in Y.\nPlease record them for him in case of acceptance...\nGeorges Dikhal. Twice he paid me and for them in ch. enf. 3941. Register for him, I have for conveyance to Y. - Please stamp them, in Chausable BHOU. If not applicable for the. Note here:\nclasses entered for today.\n\nRachid Behan",
+  "date": "Main dates mentioned: 15 ch. enf. 2845, 1 août 3941"
+}
+```
+
+---
+
+Let me know if you need further structuring or details!

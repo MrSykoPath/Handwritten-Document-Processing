@@ -1,0 +1,34 @@
+Certainly! Here is the extracted text in French, structured in JSON according to your schema. The translation of the extracted text is also provided in the `Translation_to_English` field, and all attribute values are in English where required.
+
+```json
+{
+  "Persons": [
+    "Hussein Sawi",
+    "Ahmed Abdel Baki",
+    "Sabah Frere",
+    "Guignier Alfred Kail"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    { "name": "Chaussettes", "date": "", "price": "2420" },
+    { "name": "Caisse", "date": "", "price": "730" },
+    { "name": "Bachin", "date": "", "price": "488.5" },
+    { "name": "Gigots", "date": "", "price": "2 livres" },
+    { "name": "Gigots petit agné", "date": "", "price": "875 c 29" },
+    { "name": "Caisse", "date": "", "price": "24,20" },
+    { "name": "Livraison", "date": "", "price": "" },
+    { "name": "Gigots", "date": "", "price": "10 livres" }
+  ],
+  "extracted_text": "Chaussettes 2420. Vous avez bien fait de vendre la caisse à 730... et vendu également vos nos ags (vendu 21) à 488.5.\nBachin: Reçu la fiche pour les pachs. neuf, élach, et a déjà encaissé le montant. Reçu les 3 crédits - notes pour le retour des 3 caisses, à différents clients.\nHussein Sawi: Reçu le khéfet et la fiche pour la caisse Ch. à 24,20 L et vos remerciements.\nAhmed Abdel Baki: Reçu la fiche pour les 10 kg gigots 2 livres, du coton et agricole, les remerciements attendent le commencement des autos. Il est embêté que Rachid est descendu et il a porté arrivée, Allah qu'il soit empressé en bon court.\nSabah Frere: Il aurait vendu et lui livrer et vous prie de m'envoyer la fiche pour 10 kg gigots petit agné 875 c 29.\nHussein Sawi: J'ai à vendre et vous prie de les rechercher. 3627, 3615, 3629. 150 gants Chaus à four civil. 8405 c 25.\nGuignier Alfred Kail: 7 Lm à offrir four à ch. neuf, essai 394, 6.5 par le facteur. Arrivée le 9.6.26. Nous enseignement. Sous autre faire ce soir. (Rasidente, SS.)",
+  "language": "fr",
+  "Translation_to_English": "Socks 2420. You did well to sell the crate at 730... and also sold your items (sold 21) at 488.5.\nBachin: Received the slip for the new pachs, lace, and has already cashed the amount. Received the 3 credit notes for the return of the 3 crates, to different clients.\nHussein Sawi: Received the khéfet and the slip for the crate Ch. at 24.20 L and your thanks.\nAhmed Abdel Baki: Received the slip for the 10 kg gigots 2 pounds, cotton and agricultural, thanks await the start of the cars. He is annoyed that Rachid has gone down and he brought the delivery, Allah that it comes through quickly in good court.\nSabah Frere: He would have sold and delivered to him and asks you to send the slip for 10kg small lamb gigot 875 c 29.\nHussein Sawi: I have to sell and ask you to look for them. 3627, 3615, 3629. 150 gloves Socks for civil oven. 8405 c 25.\nGuignier Alfred Kail: 7 Lm to offer oven for new ch., test 394, 6.5 by the postman. Arrival 9.6.26. Our teaching. Do something else tonight. (Resident, SS.)",
+  "date": "9.6.26"
+}
+```
+
+**Notes:**
+- Dates were taken when clearly mentioned (for example, “arrival 9.6.26”).
+- Some commodity prices are not clearly linked to specific dates but are extracted where possible.
+- Everything is written in French; translations are provided in the appropriate field.
+- Any ambiguity in handwriting or abbreviations is preserved in the extracted text for accuracy.

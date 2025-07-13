@@ -1,0 +1,23 @@
+Here is the extracted text from the image and its structured representation in the requested JSON format:
+
+```json
+{
+  "Persons": [],
+  "Places": ["Hijaz"],
+  "companies": [],
+  "commodities": [],
+  "extracted_text": "Hijaz. Je viens de lui téléphoner et il m’a dit avoir encore téléphoné. Il va me donner les détails, il m’a promis de vous écrire ce soir et l’envoyer direct (suivant qu’il obtient demain matin).\nBaril",
+  "language": "fr",
+  "Translation_to_English": "Hijaz. I just called him and he told me he called again. He will give me the details, he promised to write to you this evening and send it directly (depending on what he gets tomorrow morning).\nBaril",
+  "date": ""
+}
+```
+
+- **Persons**: No specific full names of persons mentioned.
+- **Places**: "Hijaz" is mentioned.
+- **companies**: None found.
+- **commodities**: None mentioned.
+- **extracted_text**: Full French text as in the image.
+- **language**: "fr" (French)
+- **Translation_to_English**: Provided for the entire text.
+- **date**: No explicit date mentioned in the text.

@@ -1,0 +1,36 @@
+Here is the extracted and structured information from the image according to your provided schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi",
+    "Monsieur Slaimine",
+    "Bachir Labidi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Fabrique Colas Mélasses",
+      "date": "7 May 1936",
+      "price": ""
+    },
+    {
+      "name": "Sole of the item with Delfoum",
+      "date": "",
+      "price": "800"
+    }
+  ],
+  "extracted_text": "ALEXANDRIE\nRue de l’Eglise Maronite, N°1\nTELÉPH. 44-46\nTéléph. No. 22573\nAdresse Télégraphique: \"BEHNA, ALEXANDRIE.\"\nRachid Behna\nNÉGOCIANT\n7 MAI 1936\nLE CAIRE\nRue Neuve, N° 49\nTELEPH. N° 50-723\nB.P. 120\nAdresse Télégraphique: \"ANNEXE LE CAIRE\"\nLe Caire\nAlexandrie le 7 Mai\n1936\nTrès cher Paris,\nVotre lettre en date d'hier.\nJoseph Mizrahi. Nos qu'ils vous a envoyé un reçu pour la B.D.M de soumission de 13850. Selon détails contenus dans la lettre March de Laks et ce qu’il a en suspicion de 2146.4. J'ai passé donc livré la poche pour les 2 H. Michael. Laks est passé ce matin à mon magasin et il a encaissé de son employé 98500. Que j'espère vous les envoyer demain. Sinon, je après-demain. Les Israélites ont la fête de la Pentecôte et je ne sais si ce Monsieur Slaimine j’ai eu, sur le marché, qui vous chètes Israélits particulièrement, devraient Lundi.\nFabrique Colas Mélasses. J'espère qu'ils ais envoyé la commande et Allard. Pour vendredi, vous aurez une autre forte commande.\nEtat 829. Il suffit que vous ne voulez pas augmenter le compte des clients d’Alexandrie. Note également que vous leur avez livré le sole de l’article avec Delfoum. Bachir Labidi a reçu 2 de votre article dernièrement et ça lui accord 800. la y...",
+  "language": "fr",
+  "Translation_to_English": "ALEXANDRIA\nStreet of the Maronite Church, No. 1\nTEL. 44-46\nPhone No. 22573\nTelegraphic Address: \"BEHNA, ALEXANDRIA.\"\nRachid Behna\nMERCHANT\n7 MAY 1936\nCAIRO\nNew Street, No. 49\nTEL. No. 50-723\nP.O. Box 120\nTelegraphic Address: \"ANNEXE LE CAIRE\"\nCairo\nAlexandria 7 May\n1936\nVery dear Paris,\nYour letter dated yesterday.\nJoseph Mizrahi. We have sent you a receipt for the B.D.M submission of 13,850. According to the details contained in the letter from March de Laks and what is under suspicion of 2146.4. So I have therefore delivered the bag for the 2 H. Michael. Laks came by my shop this morning and his employee has cashed 98,500. I hope to send them to you tomorrow. If not, the day after tomorrow. The Israelites have the Pentecost holiday and I do not know if this Monsieur Slaimine I met in the market, who particularly buys Israelites, should (buy) Monday.\nColas Molasses Factory. I hope they sent the order and Allard. By Friday, you will have another strong order.\nState 829. It is enough that you do not want to increase the account of clients from Alexandria. Also note that you delivered to them the sole of the article with Delfoum. Bachir Labidi recently received 2 of your articles and that amounted to 800. ...",
+  "date": "7 May 1936"
+}
+```
+If you need more clarification or another extraction, please let me know!

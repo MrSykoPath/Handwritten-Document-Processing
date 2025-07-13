@@ -1,0 +1,44 @@
+Here is the extracted text in a structured JSON format according to your schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Monsieur Mizrahi",
+    "Yaki",
+    "Sakko",
+    "Joseph Mizrahi",
+    "Loulou Yakov Cohen"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Marchandise (General Merchandise)",
+      "date": "30 Mai 1936",
+      "price": "£E 5.500"
+    },
+    {
+      "name": "Marchandise (General Merchandise)",
+      "date": "30 Mai 1936",
+      "price": "£E 4.700"
+    },
+    {
+      "name": "Marchandise (General Merchandise)",
+      "date": "30 Mai 1936",
+      "price": "£E 1.710 et £E 1.12"
+    }
+  ],
+  "extracted_text": "Rachid Behna\nNégociant\nALEXANDRIE\nRue de l’Eglise Mar. Ortho., No 1\nTéléph. N. 44-80\nTéléphonique No. 22378\nAdresse Télégraphique:\n'BEHNA-ALEXANDRIE'\nLE CAIRE\nRue Neuve, No 49\nTéléph. N 50-723\nTel. B.P. 120\nAdresse Télégraphique:\n'ANHBE-LE CAIRE'\nCaire, Alexandrie le 30 Mai 1936\nMes Chers Amis,\nVotre lettre en date d’hier…\nBanque Suisse : j’ai fait un reçu sur la B.O. de la somme de £E 5.500. montant remis par J. Mizrahi, Joseph Mizrahi. Je vous enverrai tous demain avec les remerciements. J’ai reçu aussi la lettre de Sakko.\nYaki est passé chez lui et il a trouvé £E 4.700. que j’espère vous envoyer demain… Nous n’a pas de réponse de Yaki, et on n’a eu aucune nouvelle de lui, ni de son téléphone ce soir. Je vous écrirai à ce sujet à la fin de la lettre.\nLoulou Yakov Cohen paye le déficit et la penche de la salle. Et Yaki a remis le montant que j’espère vous envoyer demain avec les remerciements de J. Mizrahi.\nMrs. Farag a fini. Yaki s’est là voir et je vais écrire à ce sujet. Il a vu une poche pour des Cambes, toujours chez Ginedil. Montant £E 1.710 et £E 1.12… Votre 2 quittances…",
+  "language": "fr",
+  "Translation_to_English": "Rachid Behna\nMerchant\nALEXANDRIA\nRue de l’Eglise Mar. Ortho., No 1\nTelephone No. 44-80\nPhone No. 22378\nTelegraphic Address:\n'BEHNA-ALEXANDRIA'\nCAIRO\nRue Neuve, No 49\nTelephone No 50-723\nTel. B.P. 120\nTelegraphic Address:\n'ANHBE-CAIRO'\nCairo, Alexandria, 30 May 1936\nMy dear friends,\nYour letter dated yesterday…\nSwiss Bank: I made a receipt on the bill of exchange for the sum of £E 5,500, amount handed over by Mr. Mizrahi, Joseph Mizrahi. I will send you all tomorrow with thanks. I also received Sakko’s letter.\nYaki went to see him and found £E 4,700, which I hope to send you tomorrow… We have received no reply from Yaki, and no news from him either by phone this evening. I will write to you on this subject at the end of the letter.\nLoulou Yakov Cohen pays the deficit and the rent for the hall. And Yaki has handed over the amount which I hope to send you tomorrow with Joseph Mizrahi's thanks.\nMrs. Farag has finished. Yaki went to see her and I will write to you about this. He also saw a pocket for Cambes, still at Ginedil's. Amount £E 1,710 and £E 1.12… Your two receipts…",
+  "date": "30 May 1936"
+}
+```
+
+Let me know if you need any other structuring or details extracted!

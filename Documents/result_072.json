@@ -1,0 +1,48 @@
+Here is the extracted text and its analysis in structured JSON format according to your schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "G. A. Balland",
+    "Benjamin Mikhail",
+    "Labouri Verni",
+    "Ch. Behna"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "unknown commodity (not specified)",
+      "date": "13.5.36",
+      "price": "750"
+    },
+    {
+      "name": "unknown commodity (not specified)",
+      "date": "19.5.36",
+      "price": "2400"
+    },
+    {
+      "name": "unknown commodity (not specified)",
+      "date": "unknown",
+      "price": "350"
+    },
+    {
+      "name": "unknown commodity (not specified)",
+      "date": "unknown",
+      "price": "24.5"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nSalut! ce soir suis très bien, mais G.A. Balland m’a tranquillisé, car je n’ai pas de fièvre; mais vous auriez eu! Malgré, il m’a dit qu’il me faut pas être négligent. Si vous pouvez, calmez Balland qui à l’instant se trouve là et tout, ça ce n'est rien, il a peur du cœur. Mais grâce à Dieu, nous sommes enfin bon. Hallal tout arrive bien avec votre activité. J’essaie. Puis, faut un chèque de 3055.5 livres.\nLachin 13.5.36         750.-\n             19.5.36     2400.-\n                             350-\n                             24.5\n                         3055.5\n\nVeillez aux accus. réception :\nBenjamin Mikhail. Je lui ai vendu et bien prié de son expédition.\nLabouri Verni. Il faut bien voir près de sa vente.\nA en Ch. Behna: 2420 à 10.-",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\nHello! This evening I am very well, but G.A. Balland reassured me, as I have no fever; but you would have! However, he told me that I should not be negligent. If you can, calm Balland who at the moment is there and everything, it's nothing, he is afraid for his heart. But thanks to God, we are finally fine. Hallal, everything turns out well with your activity. I am trying. Then, need a cheque for 3055.5 pounds.\nLachin 13.5.36         750.-\n             19.5.36     2400.-\n                             350-\n                             24.5\n                         3055.5\n\nWatch for acknowledgments of receipt:\nBenjamin Mikhail. I have sold to him and strongly requested his shipment.\nLabouri Verni. Need to check his sale closely.\nTo Ch. Behna: 2420 at 10.-",
+  "date": "1936-05-19"
+}
+```
+
+**Notes:**
+- The text is predominantly in French.
+- No explicit places or company names are referenced — only persons.
+- Commodities are referenced in amounts (likely monetary, as “livres”), but not specified by type.
+- When commodity names are not given, they are marked as "unknown commodity (not specified)".
+- Some of the handwriting is ambiguous, best efforts were made for fidelity.

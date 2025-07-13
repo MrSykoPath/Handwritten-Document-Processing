@@ -1,0 +1,32 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Abdelsalam",
+    "Youssef Zarif"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Rice",
+      "date": "15/9/1936",
+      "price": "87995"
+    },
+    {
+      "name": "Beans",
+      "date": "15/9/1936",
+      "price": "450"
+    }
+  ],
+  "extracted_text": "ALEXANDRIE Rue de l'Eglise Maronile, N°1 TELEPH. 44-46 Téléphone No. 2573 Adresse Télégraphique 'BEHNA. ALEXANDRIE' Rachid Behna NÉGOCIANT Alexandrie, le B.P. 1919 LE CAIRE Rue Neuve, N° 49 TELEPH. N° 50-723 B.P. 120 Adresse Télégraphique 'ANNEB.LE.CAIRE' يونيو 16 سنة 1936 1917 حضرة الفاضل السيد عبد السيد المحترم بعد السلام و تحية تعقيباً على جوابكم الكريم رقم ٢٥٩١ ومرسل بيد حاملها حضرة السيد زبدة له صنف نظافة ارسلت زبدة زراعية وجبنها صفرة وامارسها مخصوصة للبنات. شحنت عبوة الجبني ونوالها عامل علي مباشر ما حصلتين على فاتورتة. زبده موليرا على كذا 4474 39/9/15 فاتورة 159 ٨٧٩٩٥ ٤٥٠ أما الجبن الارشدة فاستلمت زبدة ونولات نصف طن زبدة حلب بيد الشاحنة. النولون ٢١٧٥ م.س. شكرين سلامون، حصلت على فاتورة الجبنه الرشيدية ٥٩١٩. ووجدتة الصنف شيك نول صرفه ويتحمل عليه على كرتينين من فلاحين مزارعين المحطة. وصباح عبوة الجبن اذا لم يلزمك ارجعها حالاً. المعمل ساعد الدهان المستعجل. فاعتق بكمال الجباره ودعوتي بدوام على باكر. يوسف زريف لم تربح على طحين وحصلت عليها بعد جلبين. تحية سترى كرامي باكر. ختام جوابكم.",
+  "language": "ar",
+  "Translation_to_English": "ALEXANDRIA Rue de l'Eglise Maronite, No. 1 TELEPH. 44-46 Telephone No. 2573 Telegraph Address 'BEHNA. ALEXANDRIA' Rachid Behna MERCHANT Alexandria, B.P. 1919 CAIRO Rue Neuve, No. 49 TELEPH. No. 50-723 B.P. 120 Telegraph Address 'ANNEB.LE.CAIRE' June 16, 1936 1917 To the honorable Mr. Abdelsalam, After greetings, in follow up to your valued letter No. 2591 and delivered by the bearer Mr. Zbeda for a hygiene type, I have sent agricultural butter and cheese, and their packing is especially for girls. I shipped a package of cheese and its delivery was handled by a regular worker. I haven't received your invoice for: Molira butter as follows 4474 dated 39/9/15 Invoice 159 87995 450 As for the cheese of 'Rashidiya', I received the butter and freight for half a ton of Aleppo butter via the shipment. Freight was 2175 milliemes. Thank you, Salamon. I received the invoice for Rashidiya cheese 5919. I found this type chic; its charge is to be borne upon two boxes from the farmers at the station. If you do not need the cheese box, kindly return it immediately. The factory rushed the painting job. Please provide full effort, and I wish you perpetual prosperity. Youssef Zarif, you did not profit from flour and received it after two tries. My regards to your generosity. Until tomorrow. End of your reply.",
+  "date": "1936-06-16"
+}
+```

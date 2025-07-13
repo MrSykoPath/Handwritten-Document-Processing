@@ -1,0 +1,19 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [],
+  "extracted_text": "رشيد بهنا نيقوسيان\n\nالإسكندرية\n\nشارع كنيسة المارونية رقم ١\n\nتلفون ٤٤٠٠\n\nرقم التلغراف ٢٢٨٧٣\n\nعنوان التلغراف بهنا اسكندرية\n\n\n\nالقاهرة\n\nشارع جديدة رقم ٤٩\n\nتلفون ٥٠٧٢٣\n\nب. ب. ١٢٠\n\nعنوان التلغراف أنهب. القاهرة\n\nالإسكندرية في ...١٩٣....\n\nحضرة صاحب القوام الشيخ زين العابدين المحترم.\n\nبعد التحية، نشكركم على جوابكم الكريم المرسل بيد السيد .... نأسف بأنكم لم تسألوا اليوم المكتب الذي عنده بوليصات شحن محررة، ومبلغنا نتيجة المراجعة معهم وسنبلغكم حالما نعلم نتيجة هذا الامر.\n\nرسلنا حالاً بمبلغ خمسمائة جنيه، بإذن الله سنؤيده لكم، باشكر.\n\nفاستلموه، سلامنا، وحدة السعادة. \n\nالشيخ زين: يلاحظ طول المدة طلبت سعر الجريد (الشمسي) مع ذلك المتعهدين لم يسلموه بل يطلبوا للمزارع فقط للقتل ودون بيان الكمية المطلوبة مع معرفة سعره على عدد كل جلد جديد. وعلينا قسم على ذلك إذا شئتم تصنعوه أو أن توردوا شهر سبتمبر الآتي للبنان وهذه صورة سعر الجريد لو فيه فايدة، وعلمنا أن الشام سيبيعوه في ساحة الحراجات، وكتبت المسألة لمن يكتب هؤلاء الإدارة الحراجات وننتظر المسألة عن هذه الاعداد لنقضي الامر القيادات المرصودة للبيع هذا العدد ٥٣١.",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna, merchant\n\nAlexandria\n\nRue de l'Eglise Maronite, No. 1\n\nTelephone 4400\n\nTelegram number 22873\n\nTelegraph address: Behna Alexandria\n\nCairo\n\nRue Neuve, No. 49\n\nTelephone 50723\n\nP.O. Box 120\n\nTelegraph address: ANHEB. LE CAIRE\n\nAlexandria, ...193....\n\nTo the respected Sheikh Zain Al-Abidin,\n\nGreetings, and thank you for your kind reply sent by Mr. .... We regret that you did not inquire today at the office that has the shipping policies, and we will inform you as soon as we learn the result of this matter.\n\nWe have immediately sent the amount of five hundred pounds, God willing, we will confirm it for you, thanks.\n\nPlease receive it, our regards and best wishes.\n\nSheikh Zain: Note the long duration, I requested the price of the (solar) palm fronds, yet the suppliers did not deliver it but only request from the farmers for slaughtering, without specifying the required amount while knowing its price for each new skin. And we have a section of that, so if you wish, you can manufacture it or provide it next September to Lebanon. This is a price list for the palm fronds in case it is beneficial, and we learned that the Levant will sell it in the auction yard, and I wrote to those who run the auction administration regarding this issue and await their response on these quantities so we can fulfill the commands for this supply intended for sale, number 531.",
+  "date": "1936-06-08"
+}
+```

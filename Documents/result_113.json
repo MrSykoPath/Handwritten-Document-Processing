@@ -1,0 +1,63 @@
+Here is the extracted text from the image, along with a translation and structured JSON data following your specified schema:
+
+---
+
+**Extracted Text (French, as in original):**
+```
+RACHID BERNA
+
+Lama Demadario. Bien reçu le ticket & la facture pour les 50 kg poste Cap 812 et bon jour G. Mercier nouvel ll.
+Notez que la caisse contient 100 kg et je laisserai les 50 kg restants.
+Encaussement! J’espère vous envoyer demain la somme de 440 F que j’ai encaisser aujourd’hui de Alger Varnas & Y. Salmon.
+Merci. Encore Mr. Milscabe et personne n’est content de Victor de Borre se plaignent beaucoup surtout dans les articles en email, il dit que tout les clients à Paris sont en faillite, que le local gèle à Luxembourg ils sont aussi calmes.
+Hame Marchand, qui a dit que nous allons au commencement d’une crise comme en 1921 si on ne pas vendre des marchandises et de beaucoup plus difficile que vendre à homme surtout qui n’a déjà sur d’une basse sur marchand japonaise. 
+Chaque fois il a sur de nos clients surtout à Paris fin juillet, il ne sont pas liquider à sa tête il me conseille d’être très prudent et de ne pas se presser, et je veux pas, car ainsi la marchandise à faune valeur, mais les clients aujourd’hui in in n’ont pas ...
+```
+
+---
+
+## JSON Output
+
+```json
+{
+  "Persons": [
+    "Rachid Berna",
+    "G. Mercier",
+    "Alger Varnas",
+    "Y. Salmon",
+    "Victor de Borre",
+    "Mr. Milscabe",
+    "Hame Marchand"
+  ],
+  "Places": [
+    "Paris",
+    "Luxembourg",
+    "Alger"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Merchandise (likely enamel articles, as referenced)",
+      "date": "July (fin juillet)",
+      "price": "440 Francs"
+    },
+    {
+      "name": "Caisse (box) of 100 kg (50 kg already sent)",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "RACHID BERNA\n\nLama Demadario. Bien reçu le ticket & la facture pour les 50 kg poste Cap 812 et bon jour G. Mercier nouvel ll.\nNotez que la caisse contient 100 kg et je laisserai les 50 kg restants.\nEncaussement! J’espère vous envoyer demain la somme de 440 F que j’ai encaisser aujourd’hui de Alger Varnas & Y. Salmon.\nMerci. Encore Mr. Milscabe et personne n’est content de Victor de Borre se plaignent beaucoup surtout dans les articles en email, il dit que tout les clients à Paris sont en faillite, que le local gèle à Luxembourg ils sont aussi calmes.\nHame Marchand, qui a dit que nous allons au commencement d’une crise comme en 1921 si on ne pas vendre des marchandises et de beaucoup plus difficile que vendre à homme surtout qui n’a déjà sur d’une basse sur marchand japonaise. \nChaque fois il a sur de nos clients surtout à Paris fin juillet, il ne sont pas liquider à sa tête il me conseille d’être très prudent et de ne pas se presser, et je veux pas, car ainsi la marchandise à faune valeur, mais les clients aujourd’hui in in n’ont pas ...",
+  "language": "fr",
+  "Translation_to_English": "RACHID BERNA\n\nLama Demadario. Received the ticket and the invoice for the 50 kg shipment Cap 812 and greetings to G. Mercier new ll.\nNote that the crate contains 100 kg and I will leave the remaining 50 kg.\nPayment! I hope to send you tomorrow the amount of 440 Francs that I collected today from Alger Varnas & Y. Salmon.\nThank you. Again Mr. Milscabe and no one is satisfied with Victor de Borre complain a lot especially regarding the enamel articles, he says that all the clients in Paris are bankrupt, and the place is cold in Luxembourg, they are quiet as well.\nHame Marchand, who said that we are at the beginning of a crisis like in 1921 if we don't sell merchandise and it's much more difficult than selling to a man especially who already has a lower base on Japanese goods.\nEach time he has news from our clients especially in Paris end of July, they are not liquidating in his opinion he advises me to be very careful and not to rush, and I don't want to, because otherwise the goods lose value, but the clients today still have not ...",
+  "date": "End of July (fin juillet, mentioned in the text)"
+}
+```
+
+---
+
+### Notes:
+- The date is not explicitly given but "fin juillet" (end of July) is mentioned as the period related to client liquidation.
+- The persons, places, and commodities are interpreted from context and referenced names.
+- The translation is as faithful as possible but some sections of the handwritten text are ambiguous.
+- The letter is discussing transactions, possible difficulties in selling merchandise, and concerns over a market crisis similar to that of 1921, with some references to specific places and individuals.

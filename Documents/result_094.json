@@ -1,0 +1,36 @@
+```json
+{
+  "Persons": [],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Sugar",
+      "date": "May 25, 1936",
+      "price": "860 per ton"
+    },
+    {
+      "name": "Rice",
+      "date": "May 25, 1936",
+      "price": "129 Egyptian pounds"
+    }
+  ],
+  "extracted_text": "حضرة الذوات المحترمين بعد التحية. نحيط علم سيادتكم جوابكم كريم المؤرخ في 23 مايو الحالي وصلنا، ونحيطكم علماً بأننا طلبنا من الشركة المصرية للملاحة والبواخر الملاحية (مسيو منابي) أن يشحن على عاتقنا من المخزن المشار إليه إلى حضرة السيد الحسيب الجليل (د. وكيل)، وذلك بموجب تعريف الشحن رقم 770 بمعرفة صادق للمخابرة ... اشتروا الأملاح وأخذوا محصول السنة. أثمانها: سلطات السكاري 860 فرنك، سكر 129 جنيهاً، الأرز 48.98، كيلو قمح، ولبن بودرة ... بذور ... أدوية التداول الفني ... مخلفات ... إرسال كشف الحساب للفترة السابقة مع الشكر.",
+  "language": "ar",
+  "Translation_to_English": "To the respected gentlemen, after greetings, we inform you that your esteemed letter dated May 23rd of this year has reached us, and we inform you that we have requested from the Egyptian navigation and shipping company (Mr. Manabi) to ship on our behalf from the mentioned warehouse to Mr. Al-Haseeb Al-Jalil (Dr. Wakil), as per shipping notification No. 770 under Sadiq for communication ... They purchased the salts and took the harvest of the year. Their prices: Sakari authorities 860 francs, sugar 129 Egyptian pounds, rice 48.98, kilo wheat, powdered milk ... seeds ... medicines for technical dealings ... remnants ... Please send the statement of account for the previous period. Thank you.",
+  "date": "May 25, 1936"
+}
+```
+
+**Notes:**
+- Places "Alexandria" (Alexandrie) and "Cairo" (Le Caire) appear on the letterhead.
+- The company is "Rachid Behna".
+- Commodities: Sugar, Rice, Wheat, Powdered Milk, Seeds, Medicines, technical remnants are mentioned, but the letter provides clear indicative prices only for sugar and rice (and "Sakari authorities" seems to be a fee/category for sugar, and 860 francs).
+- The letter is in Arabic.
+- Extracted text is kept in Arabic as per your instruction; translation is provided in "Translation_to_English".
+- The letter is stamped 25 and 26 May 1936; the most consistent written date is 25 May 1936.

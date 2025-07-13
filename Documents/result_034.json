@@ -1,0 +1,23 @@
+```json
+{
+  "Persons": [],
+  "Places": [
+    "Alexandria",
+    "Le Caire"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [],
+  "extracted_text": "رشيد بهنا\nنيسسيون\nالاسكندرية شارع الكنيسة المارونية رقم واحد تلفون 22378\nتلغراف بهنا اسكندرية\nالقاهرة شارع جديد رقم 49 تلفون 50-723 تلغراف أنهب القاهرة\n\nحضرة الأديب رشيد باشا المحترم\nبيروت\nبعد التحية، تفسر العزيز ورد على جوابكم الكريم آملاً أن تكونوا بسعادة. أشار كمال أفندي الحداد للكيلو للكيلو كذا بازالته من الجمرك.\nويرجى تبليغنا.\n\nعبده خليل: حدثني أن المحامي لم يصل للبنان.\nكرمكم نبيل، وديع أيضا. أسأل واحد ناجح صور وأرجو سرعة\n\nتاريخه لم تأتوا بعد الى لبنان.\nرمضان كريم : سأكتب للسيد وأزيدكم\n\nعبد الرحيم ودومس\n\nتقديري،",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna\nMerchant\nAlexandria, Rue de l’Eglise Maronite No. 1, Telephone 22378\nTelegram: Behna Alexandria\nCairo, Rue Neuve No. 49, Telephone 50-723, Telegram: Anheb Cairo\n\nDear Mr. Rashid Pasha,\nBeirut\nGreetings, thank you for your esteemed reply to my letter, hoping you are well. Kamal Effendi Haddad informed me about the kilogram—please clear it from customs.\nPlease inform us.\n\nAbdo Khalil: He told me that the lawyer has not arrived in Lebanon.\nYour generosity is noble, and so is Wadie’s. I asked a successful photographer, and I hope for a quick response.\n\nAs of its date, you have not come yet to Lebanon.\nBlessed Ramadan: I will write to the gentleman and add you.\n\nAbdel Rahim and Doumis\n\nMy appreciation,",
+  "date": "14 June 1932"
+}
+```
+**Notes on extraction and translation:**
+- The companies attribute lists "Rachid Behna" as per the letterhead.
+- The places attribute includes both Alexandria and Cairo as found in the header.
+- No prices or commodities are explicitly mentioned in the letter body.
+- The extracted_text is provided in Arabic as written, with the translation in English.
+- The date of the letter appears to be 14 June 1932 (١٤ يونيو ١٩٣٢).

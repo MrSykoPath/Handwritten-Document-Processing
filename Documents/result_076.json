@@ -1,0 +1,31 @@
+Here is the extracted text in JSON format according to your schema:
+
+```json
+{
+  "Persons": ["G. Thiebault", "Jacques Direct"],
+  "Places": [],
+  "companies": ["Fabrique de Tabacs Hélacas"],
+  "commodities": [
+    {
+      "name": "oranges",
+      "date": "",
+      "price": "5000"
+    },
+    {
+      "name": "tabac",
+      "date": "",
+      "price": "29.20"
+    }
+  ],
+  "extracted_text": "Fabrique de Tabacs Hélacas. Hier au soir heu avez livrées 5000 à Chape et au lundi à Beaufret, les soldes sont 5000 oranges. Aujourd'hui ils ont prevues 5000 oranges. Seulement nous ils ont dit que vendredi ils espèrent passer une bonne commande. J'étais chez eux, elle [illisible] avait été bien en relevé les 30 Août di Beaufret, c.d.: ils veulent qu'on augmente les droits un paquet par des ventes pour revenir à la bordée de novembre. Il reprend la place que ça occupe aujourd'hui sur Matrain à la même avrée une arrivée projet; mais plus court... G. Thiebault et de Richel grande vente aussi qui va marcher [illisible] le 21 [illisible]. Ch. a vendu de l'article 29.20. Ils en on livré la 3è. On l'attachera ici en preuve la reconnaissance. Nouveau Latin. Ils ont confirmé en cas que je ne pourrais avoir [illisible] la ch. enff. 341 et que le Tabac serait arrivé le 9.6.32. Jacques Direct. Ils ont confirmé en cas qu'ils ne vous confiaient la ch. enff. 341 et que le Tabac arrivait le 9.6.32. Je crois que demain je vous enverrai des chiffres entrants qui pourront dans votre [illisible] en le client on n'est prevu, c'est bon. D. E. Fourniel parole.",
+  "language": "fr",
+  "Translation_to_English": "Tobacco Factory Hélacas. Last night you delivered 5000 to Chape and on Monday to Beaufret, the balances are 5000 oranges. Today they have planned 5000 oranges. But they told us that on Friday they hope to place a good order. I was at their place, she [illegible] had taken stock on August 30 from Beaufret, that is to say: they want us to increase the rights one package per sale to return to the level of November. He retakes the spot it occupies today on Matrain at the same rate with a project arrival; but shorter... G. Thiebault and from Richel big sale too which will operate [illegible] on the 21st [illegible]. Ch. has sold item 29.20. They delivered the 3rd. We will attach it here as acknowledgment. New Latin. They confirmed that if I could not get [illegible] the shipment 341, and if the tobacco arrived on 9.6.32. Jacques Direct. They confirmed that if they did not trust you with shipment 341 and if the tobacco arrived on 9.6.32. I think that tomorrow I will send you figures coming in which could [illegible] in the client, nothing is planned, that is good. D. E. Fourniel word.",
+  "date": ""
+}
+```
+
+**Notes:**
+- Some handwritten text is not fully clear (noted as [illegible]).
+- Dates such as 9.6.32 are included as seen in the text, though the year and parsing may need attention based on historical/document context.
+- No clear location was mentioned besides company names and individuals. If there are locations in the illegible parts, please provide a clearer image or further context.
+- All commodity and company/persons names are written in full as requested.

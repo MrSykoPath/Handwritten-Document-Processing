@@ -1,0 +1,27 @@
+```json
+{
+  "Persons": [
+    "Joseph Mizrahi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna",
+    "Comp. Saida",
+    "Fabrique Caples Meladas"
+  ],
+  "commodities": [
+    {
+      "name": "Oranges",
+      "date": "27/03/1926",
+      "price": "70000"
+    }
+  ],
+  "extracted_text": "ALEXANDRIE\nRue de l'Eglise Maronite, No 1\nTELEPH. 44-46\nTéléphonie No. .... Adresse Télégraphique: \"BEHNA.ALEXANDRIE\"\nR.C. Alexandre No. 1554 Le Caire No. 10503\nRachid Behna NÉGOCIANT\nLE CAIRE\nRue Neuve, No 49\nTELEPH. No 60-723\nB.P.120\nAdresse Télégraphique: \"ANHEB.LE CAIRE\"\nLe Caire, le 1 Juin 1926\nAlexandrie\nB.P. 1919\nMes chers Frères,\nVotre lettre en date d'hier.\nCi-joint un reçu sur la B.O. de la Comp. Saida. Ci-joint un reçu sur la B.O. de la Comp. Saida. montant remis par J. Mizrahi.\nJoseph Mizrahi. J'espère qu'il vous a écrit. Zaki l'a passé ce matin au magasin et a encaissé 16000, que j'espère vous be envoyé demain.\nJe n'ai aucune nouvelle de el Menani, si j'ai un téléphone je vous enverrai à la fin de la lettre.-\nFabrique Caples Meladas. J'étais mur, même voir Vasselin cet après-midi et il insiste qu'il a envoyé la commande de 1000 boîtes oranges en date du 27.3.26, et il m'a montré la note de commande.\nVasselin - hier, avons ouvert des paquets de différents qualités et vous les avons pesés et le poids a donné satisfaction; même l'emballage intérieur du bourget et l'orange & quand des verts, ce daté du 27.3.26, et tous nouveaux comme emballage intérieur. - Notez que vous trouvez le même impostes de Vente de l'orange ou de Vert.",
+  "language": "fr",
+  "Translation_to_English": "ALEXANDRIA\nRue de l'Eglise Maronite, No 1\nPHONE 44-46\nTelephone No. .... Telegraph Address: 'BEHNA.ALEXANDRIE'\nR.C. Alexandria No. 1554 Cairo No. 10503\nRachid Behna, MERCHANT\nCAIRO\nRue Neuve, No 49\nPHONE No 60-723\nP.O. Box 120\nTelegraph Address: 'ANHEB.LE CAIRE'\nCairo, June 1st, 1926\nAlexandria\nP.O. Box 1919\nMy dear brothers,\nYour letter dated yesterday.\nEnclosed is a receipt on the B.O. of the Saida Company. Enclosed is a receipt on the B.O. of the Saida Company. amount paid by J. Mizrahi.\nJoseph Mizrahi. I hope he wrote to you. Zaki passed by the warehouse this morning and has received 16,000, which I hope will be sent to you tomorrow.\nI have no news from El Menani, if I have a telephone update I will send it to you at the end of the letter.\nCaples Meladas Factory. Yesterday I even saw Vasselin in the afternoon and he insists he sent the order of 1,000 boxes of oranges dated 27.3.26, and he showed me the order note.\nVasselin - yesterday, we opened packets of different qualities and weighed them for you and the weight was satisfactory; even the inner packaging of the bourget and the orange and as for the green ones, dated 27.3.26, and all new as inner packaging. - Note that you will find the same stamps of Sales of the Orange or the Green.",
+  "date": "01/06/1926"
+}
+```

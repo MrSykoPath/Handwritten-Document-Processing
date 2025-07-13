@@ -1,0 +1,42 @@
+Here is the extracted information in the specified JSON format:
+
+```json
+{
+  "Persons": [
+    "Abdel-Baki Ismail",
+    "Abdel-Baki Ahmed"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Chaussettes",
+      "date": "",
+      "price": "2420 D"
+    },
+    {
+      "name": "Gilets enfants 7041",
+      "date": "",
+      "price": "262"
+    },
+    {
+      "name": "Gilets ap. ecrue",
+      "date": "",
+      "price": "760 c 30"
+    }
+  ],
+  "extracted_text": "Gilets No. 829\nReçu la qté comme vous m'avez déjà écrit, elle est bien. J'ai comme haute qualité, mais le marché ici ne paye pas votre prix et je souhaite que vous arriviez à les placer à Alexandrie. Chaussettes 2420 D. D'accord d'attendre la réponse d'Alexandrie. Le facteur.\nAujourd'hui j'ai vu les ch. 716-747. Ils sont dans une boîte large et 1/2 dz. réunis en 3 balles. Ça ne fait aucune différence, finir, on préfère de beaucoup que ça sorte en 2/1 la boîte. Georgette Mukhari. Y en a à confirmer sous engagement 1 an ch. enfant 716/6 No. les 3/1.\nAbdel-Baki Ismail. Rien à l'encrat et la poche pour les 10 gilets enfants 7041 = 262 et pour janvier le remboursement.\nAbd. Baki Ahmed. Aujourd'hui le ministre est venu, c'est vendredi. Cette une demain vais acheter ce que vous demandez et il va le expédier.\nJe ne vous beaucoup remercié, mais le marché me rend malade et les envois coûteux.\n722... envoyaument. Ceci ! Bon courage.\nSabeltr. Y en a à vendre. Livraison du Caire et vous puis fin envoyez la poche pour 13949 - 10 dz. Les ap. 860 c. C. 4 G T.\nAbd. Baki Ahmed. Y en a à vendre et livraison du Caire et envoyez-moi la poche pour\n688 - 10 dz. Gilets ap. ecrue 760 c 30.\nL'an autre 688 - 10 dz. 760 c 30. -",
+  "language": "fr",
+  "Translation_to_English": "Vests No. 829\nReceived the quantity as you had already written; it is good. I have high quality, but the market here does not pay your price, and I wish you could manage to place them in Alexandria. Socks 2420 D. Agreed, waiting for the response from Alexandria. The agent.\nToday I saw the ch. 716-747. They are in a large box and 1/2 dozen, joined in 3 bales. That makes no difference, however, we much prefer that it goes in 2/1 the box. Georgette Mukhari. There is one to confirm under a one-year commitment, children's ch. 716/6 No. the 3/1.\nAbdel-Baki Ismail. Nothing for the shipment and the bag for the 10 children's vests 7041 = 262 and for January the reimbursement.\nAbdel-Baki Ahmed. Today the Minister came, it's Friday. Maybe tomorrow he will buy what you asked for and he will send it.\nThank you very much, but the market makes me sick and shipments are expensive.\n722... shipment. This! Good luck.\nSabeltr. There are some to sell. Delivery from Cairo and then send the bag for 13949 - 10 dozen. The ap. 860 c. C. 4 G T.\nAbdel-Baki Ahmed. There are some to sell and delivery from Cairo and send me the bag for\n688 - 10 dozen. Ecru vests 760 c 30.\nNext year 688 - 10 dozen. 760 c 30. -",
+  "date": ""
+}
+```
+
+**Notes:**
+- Some names and company names were not very clear from the handwriting, so if you need a revision for adjusted names, let me know.
+- Dates are referenced (like "today" and "January") but not explicitly stated in the text.
+- The JSON uses English for attribute values, except for the raw extracted text as per your instruction.
+- If more context or corrections are needed, please provide further guidance!

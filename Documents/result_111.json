@@ -1,0 +1,32 @@
+```json
+{
+  "Persons": [
+    "Joseph Mizrahi",
+    "Youssef Salomon"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Silk",
+      "date": "19 May 1936",
+      "price": "50%"
+    },
+    {
+      "name": "Taffetas",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Alexandrie \nRue de l’Eglise Maronite, N°1 \nTéléph 44-40\nTéléphone 2246 Adresse Télégraphique: “BEHNA_ALEXANDRIE”\nRachid Behna\nNégociant\n19 MAI 1936\nLe Caire\nRue Neuve, N°49 Téléph. N° 50-723 B.P. 120\nAdresse Télégraphique: “ANHES-LE CAIRE”\nAlexandrie, le 19 Mai 1936\nMon cher Ami,\nVotre lettre en date du 16 c.t., Joseph Mizrahi. J’ai noté dans mon livre les mouvements afférents à la lettre Arab de Taffetas que vous achetiez aujourd’hui 50% de Simonds.\nJ’espère également que vous avez reçu les détails des encaissements de la fruitissamine.\nJe n’ai pas de nouvelles de lin aujourd’hui. Je vous écrirai en cas qu’il me téléphone plus tard. Samuel Youssef Salomon. Il a payé ce matin le crédit de la facture dévorée; il a demandé une balle de Taffetas. Vous trouverez les détails dans sa lettre séparée.\nAdou Frangie & Cie. Ils ont payé une à valeur qui va facturer autour de 2.000. Et le père a dit à Taffetas qu’il lui dira plus tard pour l’Ordre Nigami. Je ne sais si il a acheté du Khalik ou bien si l’a dit ça pour la forme, et que Behna lui donnera une petite de Nigami provisoirement.",
+  "language": "fr",
+  "Translation_to_English": "Alexandria\nRue de l’Eglise Maronite, No. 1\nTelephone 44-40\nTelephone 2246 Telegraphic Address: “BEHNA_ALEXANDRIE”\nRachid Behna\nTrader\n19 MAY 1936\nCairo\nRue Neuve, No. 49 Telephone No. 50-723 P.O. Box 120\nTelegraphic Address: “ANHES-LE CAIRE”\nAlexandria, May 19, 1936\nMy dear friend,\nYour letter dated the 16th inst., Joseph Mizrahi. I have recorded in my book the movements relating to the Arab letter of Taffetas, that you bought today at 50% from Simonds.\nI also hope that you have received the details of the fruitissamine collections.\nI have no news about lin today. I will write to you in case he calls me later. Samuel Youssef Salomon. He paid this morning the credit for the devoured invoice; he asked for a bale of taffeta. You will find the details in his separate letter.\nAdou Frangie & Co. They have paid one at value which will invoice around 2,000. And the father told Taffetas that he would tell him later for the Nigami order. I do not know if he bought Khalik or if he said that just for form’s sake, and that Behna will give him a little of Nigami temporarily.",
+  "date": "19 May 1936"
+}
+```
+If you need a deeper breakdown of any content or further clarification, let me know!

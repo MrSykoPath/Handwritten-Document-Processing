@@ -1,0 +1,19 @@
+Here is the extracted text and structured data in JSON format according to your schema. Please note that due to the handwritten and unclear nature of the document, some words might be partially interpreted:
+
+```json
+{
+  "Persons": [],
+  "Places": [],
+  "companies": [],
+  "commodities": [],
+  "extracted_text": "Je soussigné Laure, J'ai lu ou Vendue et Monfirme de au expédition. Ch. Pierre 21-20, 186. Laucourt, Paris ce jour. Reçu de Mr. B.",
+  "language": "fr",
+  "Translation_to_English": "I, the undersigned Laure, have read or sold and confirm the shipment. Ch. Pierre 21-20, 186. Laucourt, Paris this day. Received from Mr. B.",
+  "date": "21-20, 186" 
+}
+```
+
+**Notes:**
+- The handwriting is challenging to read, and some words or details may be incomplete or unclear.
+- No clear mention of persons (except possibly signatories), places, companies, or commodities that can be reliably extracted.
+- The date as written appears to be "21-20, 186" (perhaps intended to be "21 or 20, 186x"), but no further context for the century or month is provided in the visible portion.

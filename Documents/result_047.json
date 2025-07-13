@@ -1,0 +1,36 @@
+Sure! Here is the extracted text, structured JSON output, and English translation:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Zaki"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "boxes of white and black",
+      "date": "10th June 1936",
+      "price": "10,000"
+    },
+    {
+      "name": "Japanese socks",
+      "date": "10th June 1936",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Alexandrie Rue de l'Eglise Maronite, N°1 Téléph. 24-40 Téléphone No. 2275 Adresse Télégraphique: BEHNA-ALEXANDRIE Rachid Behna COMMERCANT Alexandrie, le 10 Juin 1936. Mes chers Frères, Votre lettre en date d'hier... Compte Saine. Ceci fuit un reçu sur la B.O. de la somme de 10,000. montant reçu par J. Mizrahi. Joseph Mizrahi. Il a trouvé les echevements traversent la lettre Bede de Zaki. Aujourd'hui Zaki est arrivé à son magasin et il a encaissé 10 000 que j'espère vous estoppez devan... J'espère que Gilgrech vous écrira au sujet de les echevements. Tahique Kabas Milasra. Dès que la commande est arrivée et que vous avez livré et encaissé 5,000 boîtes rouges et 5,000 boîtes noires et qu'aujourd'hui vous livrerez le reste à 5,000 boîtes noires. J'espère vendredi vous envoyer une nouvelle commande. Chaussettes du Japon. Je vous ai écrit hier mon opinion à ce sujet et je crois que vous aurez été bien revue aussi, car les articles de chaussettes enfants sont très difficiles à être fabriqués en Egypte et je crois qu'il en faut. El commande Gilgrech la paye mon augmentation si donnée.",
+  "language": "fr",
+  "Translation_to_English": "Alexandria Street of the Maronite Church, No. 1 Tel. 24-40 Telephone No. 2275 Telegraphic Address: BEHNA-ALEXANDRIA Rachid Behna MERCHANT Alexandria, June 10, 1936. My dear brothers, Your letter dated yesterday... Healthy account. This was a receipt on the B.O. for the sum of 10,000. amount received by J. Mizrahi. Joseph Mizrahi. He found that the settlements went through the letter Bede of Zaki. Today Zaki arrived at his store and cashed 10,000 which I hope you will stop beforehand... I hope that Gilgrech will write to you about the settlements. Tahique Kabas Milasra. As soon as the order arrived and you delivered and cashed 5,000 boxes of red and 5,000 boxes of black and that today you will deliver the rest to 5,000 black boxes. I hope Friday to send you a new order. Japanese socks. I wrote to you yesterday my opinion on this subject and I think you will also have a good review, because children's sock items are very difficult to make in Egypt and I think there is a need. The Gilgrech order will pay my increase if granted.",
+  "date": "10 June 1936"
+}
+```
+
+If you need further breakdown or context for any element, please let me know!

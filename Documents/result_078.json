@@ -1,0 +1,26 @@
+```json
+{
+  "Persons": [
+    "Youssef Madras", 
+    "Mohamed Ibrahim Dosouki"
+  ],
+  "Places": [
+    "Alexandria", 
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [],
+  "extracted_text": "رشيد بحنه \nنيجوسيان\n\nالاسكندرية ١ \nشارع مارونية رقم ١\nتليفون نمرة ٢٣٧٨\n\n\n\n\nسكرتير الدوله: سنستعمل محفوظ عن الحب الخاص. \nعن توصيتكم المحترمة \nسلمت اليوم لليوسف مدراس. نقدا و ذلك عن شكركم السامي. و عندى لكم \nبما ان الحقيبه لم تشحن بعد\n\nالمرسل\nمحمد ابراهيم دسوقى",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna\nMerchant\n\nAlexandria\nRue de l'Eglise Maronite, No.1\nTelephone No. 2378\n\nSecretary of the State: We will use the reserved (preserved) for the special love. \nAccording to your esteemed recommendation, I have today delivered to Youssef Madras in cash, as a token of your noble gratitude. As for the suitcase, since it has not yet been shipped,\n\nSender\nMohamed Ibrahim Dosouki",
+  "date": "2 June 1936"
+}
+```
+
+**Notes:**
+- Names, places, company, and date have been transcribed in full.
+- Extracted text is exactly as it appears in Arabic script.
+- All other values are provided in English as required.
+- The translation provided is a faithful rendering of the Arabic text to English.

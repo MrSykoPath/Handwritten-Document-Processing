@@ -1,0 +1,23 @@
+```json
+{
+  "Persons": [],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "cottonseed oil",
+      "date": "7 Shawwal 1354 Hijri / 18 May 1936",
+      "price": "755,50"
+    }
+  ],
+  "extracted_text": "رشيد بهنا\nتليفون ٤٤٤٨\nالاسكندرية، ١١ \nصندوق البوسطة ١٩١٩\nبالاسكندرية و القاهرة\nتاجر مواد غذائية وبضائع مختلفة\n\n١٧ ماي ١٩٣٦\n١٨ ماي ١٩٣٦\n\nبعد السلام و التحية نعلمكم بأن أمر العمسم: \nالمرسل إليكم سابقا لدينا و استلمه مخزننا\nبالإسكندرية عدا ٣ صناديق حلوى و العجين. \nنخبركم اليوم أن الصناديق الثلاثة المرسلة للمعرض التجاري بالمنصورة، \nوصلت في السابع من شوال سنة ١٣٥٤ هـ الموافق ١٨/٥/١٩٣٦ نمرة ٧٥٥٥٠\n\nنرجو إبلاغ العميل و عند عدم العلم بهم أرجو إخطارنا لأعاده إرسال الصناديق المذكورة\n\n\n\nمدير المخزن الرئيسي\n\nتوقيع: رشيد بهنا",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna\nTelephone 4448\nAlexandria, 11\nP.O. Box 1919\nIn Alexandria and Cairo\nDealer in foodstuffs and various goods\n\n17 May 1936\n18 May 1936\n\nAfter greetings and regards, we inform you that the shipment sent to you previously has been received by our warehouse in Alexandria except for 3 boxes of sweets and dough.\nToday, we inform you that the three boxes sent to the trade fair in Mansoura \narrived on the 7th of Shawwal, 1354 Hijri, equivalent to 18/5/1936, number 75550.\n\nPlease inform the client, and if you do not know them, kindly notify us so we can resend the mentioned boxes.\n\nGeneral Warehouse Manager\n\nSignature: Rachid Behna",
+  "date": "18 May 1936"
+}
+```

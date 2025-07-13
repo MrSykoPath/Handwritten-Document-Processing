@@ -1,0 +1,115 @@
+Certainly! Here is the extracted text and the structured JSON according to your schema:
+
+---
+
+**Extracted Text (Arabic):**
+```
+ALEXANDRIE
+Rue de l’Eglise Maronite, N 1
+TELEPH. N° 44.40
+Téléphone N° 22573
+Adresse Télégraphique:
+“BEHNA_ALEXANDRIE”
+
+Rachid Behna
+NÉGOCIANT
+
+LE CAIRE
+Rue Neuve, N° 49
+TELEPH. N° 50-723
+P. P. 120
+Adresse Télégraphique:
+“ANHEB_LE CAIRE”
+
+Alexandrie, le             193_
+بسم الله الرحمن الرحيم
+تاريخ ٩ يونيه ١٩٣٦
+
+جناب الفاضل حبيب بك المحترم
+بالقاهرة
+
+بعد التحية والتقدير نشكر لكم خطابكم المؤرخ ٣٠ مايو الماضي الذي تسلمناه 
+بواسطة السيد أفندي محمد علي سالم وحملناه لسعادة
+طلعت باشا حرب المحترم
+
+ونفيدكم بأنه إذا حضر إلينا مرسل من جانبكم مع الكمبيالة التي أشرتم إليها نكون في استعداد تام لدفع المبلغ الوارد بالكمبيالة وتسليم وصل على الوجه المذكور، وذلك
+بالإشتراك مع أستاذي سعادة أفندي هلال أفندي عبد العزيز البركاني
+وتقبلوا فائق الاحترام
+
+نرجو موافاتنا بالإفادة إذا كنتم قد أرسلتكم لنا أي كمبيالات لم نحن لم نستلمها حتى الآن
+
+١٤ / ٦ / ١٩٣٦
+
+نشكركم على الأمانة التي أرسلتم بها سند تبليغ ............. ١٢٥٠ جنيها
+تقبلوا تحياتنا القلبية والسلام عليكم ورحمة الله وبركاته
+
+أخوكم
+رشيد بهنا
+(توقيع)
+ملحوظة
+اذا لم تصل سعادتكم هذا الخطاب فنحن عدنا فاضين
+```
+
+---
+
+**English Translation:**
+```
+In the name of God, the Most Gracious, the Most Merciful
+Date: 9 June 1936
+
+To the esteemed Mr. Habib Bey, in Cairo
+
+After greetings and appreciation, we thank you for your letter dated 30 May last, which we received through Mr. Muhammad Ali Salem, and we have delivered it to His Excellency Talaat Pasha Harb.
+
+We inform you that if someone comes to us on your behalf with the bill you referred to, we will be fully prepared to pay the amount stated in the bill and deliver a receipt as mentioned, in conjunction with my esteemed teacher His Excellency Hilal Effendi Abdel Aziz Al-Barakani.
+
+Please accept our utmost respect.
+
+Kindly inform us if you have sent us any bills that we have not received until now.
+
+14/6/1936
+
+We thank you for the trust with which you sent the notification bond ... 1250 Egyptian pounds. Please accept our heartfelt greetings and may peace, mercy, and blessings of God be upon you.
+
+Your brother,
+Rachid Behna
+(signature)
+Note:
+If you have not received this letter, we have returned it empty.
+```
+
+---
+
+**Structured JSON:**
+
+```json
+{
+  "Persons": [
+    "Habib Bey",
+    "Muhammad Ali Salem",
+    "Talaat Pasha Harb",
+    "Hilal Effendi Abdel Aziz Al-Barakani",
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Cairo",
+    "Alexandria"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Notification bond",
+      "date": "14 June 1936",
+      "price": "1250 Egyptian pounds"
+    }
+  ],
+  "extracted_text": "بسم الله الرحمن الرحيم\nتاريخ ٩ يونيه ١٩٣٦\nجناب الفاضل حبيب بك المحترم\nبالقاهرة\nبعد التحية والتقدير نشكر لكم خطابكم المؤرخ ٣٠ مايو الماضي الذي تسلمناه بواسطة السيد أفندي محمد علي سالم وحملناه لسعادة طلعت باشا حرب المحترم\nونفيدكم بأنه إذا حضر إلينا مرسل من جانبكم مع الكمبيالة التي أشرتم إليها نكون في استعداد تام لدفع المبلغ الوارد بالكمبيالة وتسليم وصل على الوجه المذكور، وذلك بالاشتراك مع أستاذي سعادة أفندي هلال أفندي عبد العزيز البركاني\nوتقبلوا فائق الاحترام\nنرجو موافاتنا بالإفادة إذا كنتم قد أرسلتكم لنا أي كمبيالات لم نحن لم نستلمها حتى الآن\n١٤ / ٦ / ١٩٣٦\nنشكركم على الأمانة التي أرسلتم بها سند تبليغ ............. ١٢٥٠ جنيها\nتقبلوا تحياتنا القلبية والسلام عليكم ورحمة الله وبركاته\nأخوكم رشيد بهنا (توقيع)\nملحوظة اذا لم تصل سعادتكم هذا الخطاب فنحن عدنا فاضين",
+  "language": "ar",
+  "Translation_to_English": "In the name of God, the Most Gracious, the Most Merciful\nDate: 9 June 1936\nTo the esteemed Mr. Habib Bey, in Cairo\nAfter greetings and appreciation, we thank you for your letter dated 30 May last, which we received through Mr. Muhammad Ali Salem, and we have delivered it to His Excellency Talaat Pasha Harb.\nWe inform you that if someone comes to us on your behalf with the bill you referred to, we will be fully prepared to pay the amount stated in the bill and deliver a receipt as mentioned, in conjunction with my esteemed teacher His Excellency Hilal Effendi Abdel Aziz Al-Barakani.\nPlease accept our utmost respect.\nKindly inform us if you have sent us any bills that we have not received until now.\n14/6/1936\nWe thank you for the trust with which you sent the notification bond ... 1250 Egyptian pounds. Please accept our heartfelt greetings and may peace, mercy, and blessings of God be upon you.\nYour brother, Rachid Behna (signature)\nNote: If you have not received this letter, we have returned it empty.",
+  "date": "9 June 1936"
+}
+```
+
+Let me know if you need any additional attributes or a different formatting!

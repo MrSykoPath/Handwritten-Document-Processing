@@ -1,0 +1,78 @@
+```json
+{
+  "Persons": [
+    "Saeed Behna",
+    "Youssef Sidarous",
+    "Iskandar Sidhom",
+    "Saeed Wadie Youssef",
+    "Mohamed Mahmoud",
+    "Mohamed Youssef and Company",
+    "Khairallah El-Khenji",
+    "Khairallah Bouzid",
+    "Tawfik Ahmed Sakaah",
+    "Ibrahim Hafez Kaze",
+    "Mohamed Taqa El-Ghani"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Rue de l'Église Maronite",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Cumin",
+      "date": "13 June 1936",
+      "price": "5980"
+    },
+    {
+      "name": "Unknown (related to Saeed Wadie Youssef)",
+      "date": "13 June 1936",
+      "price": "2000"
+    },
+    {
+      "name": "Unknown (related to Mohamed Mahmoud)",
+      "date": "13 June 1936",
+      "price": "4261.5"
+    },
+    {
+      "name": "Unknown (related to Mohamed Youssef and Company)",
+      "date": "13 June 1936",
+      "price": "2500"
+    },
+    {
+      "name": "Unknown (related to Khairallah El-Khenji)",
+      "date": "13 June 1936",
+      "price": "Unknown"
+    },
+    {
+      "name": "Unknown (related to Khairallah Bouzid)",
+      "date": "13 June 1936",
+      "price": "Unknown"
+    },
+    {
+      "name": "Unknown (related to Tawfik Ahmed Sakaah)",
+      "date": "13 June 1936",
+      "price": "Unknown"
+    },
+    {
+      "name": "Unknown (related to Ibrahim Hafez Kaze)",
+      "date": "13 June 1936",
+      "price": "Unknown"
+    },
+    {
+      "name": "Unknown (related to Mohamed Taqa El-Ghani)",
+      "date": "13 June 1936",
+      "price": "14000"
+    }
+  ],
+  "extracted_text": "رشيد بهنا \nالإسكندرية \nعزيزي سـعيد افندي بهنا \nبعد السلام، نشكركم على جوابكم الكريم الخاص بمرسلات المرض – الاسم غير واضح – ونفيدكم أننا ثبتنا العلم الاســم باركتم استلام شهر بلان؛ و وحداتكم على ما هو مبين سنه الفاتح الجميل وننبهكم\nآذنين نعمل علي إيجار المحصول بسرعة سنين ترسلونها في ظرفها جميعها\nموسى سيداروس طلبة لأجل الأستاذ وبعثنا عند تحصيل القيمة\n1 اسكندر سيدهوم 5980\nسعيد وديع يوسف 2000\nمحمد محمود 4261.5\n محمد يوسف وشركاه 2500\n خير الله الخنجي \nخير الله بوزيد \nتوفيق احمد سكاكه \nابراهيم حمد كاز \n محمد تقا الغني 14000\nوتقبلوا منا فائق الاحترام راجين الاسراع في تنفيذ الامور كالمعتاد",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna \nAlexandria \nDear Saeed Effendi Behna,\nAfter greetings, we thank you for your kind reply regarding the correspondent on the disease – the name is not clear – and we inform you that we have noted the flag; we confirm the receipt for the current month; and your units, as indicated, last year. Also, we draw your attention to expedite the crop yield rent for the years, send them in their entirety within the specified period.\nYoussef Sidarous requested for the professor and we sent upon collection of value.\n1 Iskandar Sidhom 5980\nSaeed Wadie Youssef 2000\nMohamed Mahmoud 4261.5\nMohamed Youssef and Company 2500\nKhairallah El-Khenji \nKhairallah Bouzid \nTawfik Ahmed Sakaah \nIbrahim Hafez Kaze \nMohamed Taqa El-Ghani 14000\nKindly accept our regards, wishing for speed in carrying out matters as usual.",
+  "date": "13 June 1936"
+}
+```
+Let me know if you need a more detailed breakdown or further clarification.

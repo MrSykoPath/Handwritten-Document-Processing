@@ -1,0 +1,33 @@
+```json
+{
+  "Persons": [
+    "Samuel Youssef Salameh",
+    "Zaki",
+    "Haroun Abid",
+    "Kheir Hanna Mouawad",
+    "Président Aghon",
+    "Thomas Abed Baki",
+    "Labouani Feris",
+    "Aghon Aouad",
+    "Hussein Laure"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "caisses emballées",
+      "date": "9.6.28",
+      "price": ""
+    },
+    {
+      "name": "jets francs",
+      "date": "",
+      "price": "696"
+    }
+  ],
+  "extracted_text": "Samuel Youssef Salameh. Zaki a été de nouveau ce matin tel. et va lui donner une réponse ce soir et il vous écrira par sa lettre de ce soir. Il a demandé une balle Haroun Abid du lot de P.A. à Kheir Hanna Mouawad. J'essaie pouvoir vous les envoyer cette semaine.\nPrésident Aghon. Lors que le dit bonheur est arrivé aujourd'hui et à vous allez retirer aujourd'hui une lettre de garantie pour les 20 caisses emballées devises comme livre ou caisse par le Président Aghon arrivait le 9.6.28 ch. enf. court. 3461. C'est peut on bien il y a aussi une erreur.\nThomas Abed Baki. Y en a confirmé en cas à acceptation les J.V.V. Chawatch eff. compte 341 c.\nLabouani Feris. Recu le ticket et la fourche livrée les 9.6.7, a été ém. art. 84747 rôdé de partiel et compiera le recouvrement.\nAhmed Abed Baki. En cas où les 2a en dehors arrivent de ch. court. 1346, co Monsieur Vert.\nAgh. court. 1346 c 77,5\nHussein Laure. Il lui a vendu et vous puis de m. acheter.\nFacture séparée\njets francs: 696 c 56.\nc.l. 3325 fcts jetés 1,16.",
+  "language": "fr",
+  "Translation_to_English": "Samuel Youssef Salameh. Zaki was again here this morning and will give him an answer this evening and will write to you by his letter this evening. He requested a bale from Haroun Abid from the P.A. lot from Kheir Hanna Mouawad. I will try to send them to you this week.\nPresident Aghon. When the mentioned shipment arrived today, you will also withdraw today a guarantee letter for the 20 packed crates, counted per book or crate by President Aghon, arrived 9.6.28, short account 3461. Maybe there is also an error.\nThomas Abed Baki. There is confirmation in the case of acceptance of the J.V.V. Chawatch, effective account 341 c.\nLabouani Feris. Received the ticket and the fork, delivered 9.6.7, was sent art. 84747 partial and will continue the collection.\nAhmed Abed Baki. In case the 2a from short account 1346 arrive outside, with Mr. Vert.\nshort account 1346 c 77.5\nHussein Laure. He sold to him and you can then buy from me.\nSeparate invoice\nfranc notes: 696 c 56.\nc.l. 3325 issued notes 1.16.",
+  "date": "1928-06-09"
+}
+```

@@ -1,0 +1,19 @@
+Here is the extracted information from the image in the requested JSON schema:
+
+```json
+{
+  "Persons": [],
+  "Places": [],
+  "companies": [],
+  "commodities": [],
+  "extracted_text": "Mes chers Frères. On cause beaucoup aujourd'hui d'une augmentation des droits de Douane pour la semaine prochaine. On est presque sur. Que Dieu fasse sa Volonté. On ne peut rien.",
+  "language": "fr",
+  "Translation_to_English": "My dear Brothers. People are talking a lot today about an increase in customs duties for next week. It is almost certain. May God do His will. Nothing can be done.",
+  "date": ""
+}
+```
+
+**Notes:**
+- The letter is written in French.
+- No persons, places, companies, or commodities with specific data (like price or date) are mentioned.
+- No date is explicitly written in the text.

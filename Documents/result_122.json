@@ -1,0 +1,25 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Halawa Special",
+      "date": "15 May 1936",
+      "price": "500"
+    }
+  ],
+  "extracted_text": "رشيد بهنا نيقوسيانت\nALEXANDRIE Rue de l'Eglise Maronie, No 1 TELEPH. 44-46 Adresse Telegraphique \"BEHNA_ALEXANDRIE\"\nLE CAIRE Rue Neuve, No 49 TELEPH. No 50-723 B.P. 120 Adresse Telegraphique \"ANHEB_LE CAIRE\"\n\n\n\n\n15 ماي 1936 اسكندرية ،،،، حضرة الافخم سيدى شفيق افندى الحوم\nبعد التحية والتقدير نحيطكم علماً بأن سلعتكم المطلوبة حملناها لكم على مركب البحر كريمى المخصوص على الكوميسيون من مينا الاسكندرية وموعدها على مركب البحر اليونانى.\nيرجى عند استلامكم لها افادتنا تكرمتم عن حالها حسب الجدول الاتى:\nسكر الدين ١ جملة شدة ٦ براميل الماس مثل الماء الصباح العاكر ، وبرميلًَا ١ مية ١٠ عدد ٧ براميل سحيم البحر اليونانى ٦٩٪ ، مزانة لهوية الجبيرة البرميل\nسليم يوم الاثنين مستقبلاً ١٥-٥-٣٦ تعتذر موزع براميل الملوك ، ووفقتنا الى استلام الاسبوع القادم وسعره سد جملة ٢١٠ ٢٠٠\nالجواب ادناه ووجه شكر لكامل المجهود دون قيد ، واذنكم للمائة طلباتكم\nالى المجيب ٥٠٠ ك. أعد شحن لكم (حلاوة سبسيال) شحن الشهر القادم برية الى مدينة فيا\nافيدونا بالاستلام وديا فايه ، وديا بى لود القادمين وتوصيل المرسل نسير لكم اختبر جواب مستلم علمكم\n\nرشيد بهنا\n\n",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna Neogociant\nALEXANDRIA Rue de l'Eglise Maronie, No. 1 TELEPHONE 44-46 Telegraphic Address \"BEHNA_ALEXANDRIE\"\nCAIRO Rue Neuve, No. 49 TELEPHONE No. 50-723 B.P. 120 Telegraphic Address \"ANHEB_LE CAIRE\"\n\n15 May 1936 Alexandria\nMost esteemed Mr. Shafiq Effendi El Houm, after greetings and respect, we inform you that your requested goods have been shipped to you on the ship 'Kareemi' on commission from Alexandria port and will arrive on the Greek ship. When you receive them, please kindly inform us of their state according to the following schedule:\n1 barrel of El Din sugar, 6 total barrels of Almas as clear as morning water, 1 barrel with water (10) and 7 barrels from the Greek sea (69%), the scale is for the large barrel. It will arrive, God willing, on Monday 15-5-36 and apologies for the distribution of the king's barrels. We succeeded in delivery for next week and the price is 210, 200 in total.\nThe response below and thanks is given for all the efforts without restriction, and permission for 100 of your requests.\nTo the respondent, 500 will be shipped to you (Halawa Special) next month by land to the city of Faya. Please let us know upon receipt by way of Faya, and also by load of the next shipment and notify the sender—test of acknowledgement received.\nRachid Behna",
+  "date": "15 May 1936"
+}
+```

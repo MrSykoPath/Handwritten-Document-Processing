@@ -1,0 +1,34 @@
+Here is the extracted information from your image in the requested JSON schema format:
+
+```json
+{
+  "Persons": [
+    "Labrot"
+  ],
+  "Places": [
+    "Tachine",
+    "Varian"
+  ],
+  "companies": [
+    "Fabrique de Câbles Métaux"
+  ],
+  "commodities": [
+    {
+      "name": "wire",
+      "date": "",
+      "price": "5000 francs"
+    },
+    {
+      "name": "hides and fresh hides",
+      "date": "20 August 1952",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Fabrique de Câbles Métaux. Je vous ai écrit l'avis que Tachine m'a montré la confirmation de 5000 frcs (francs), et j'espère que la fabrique vous l'a passée. - Demain, j'espère vous envoyer une bonne commande. - J'ai causé à Louis Koch du Cuisine. Les Allemands affirment donner quelques entrées au Cuisine qui les renverra directement à Varian, pour qu'il les donne au grossiste d'Helsinki. Ils sont souvent plus de couronne. Bon. - Que maintenant. - Georges Stichkaël. Reçu le ticket et la facture pour les 20 g. août 1952. A donné à l'expéditeur. - Retourner fait. Reçu le ticket et la facture sur lettre ch. BZ. 2920 de l'origine et renvoyer. - Ressaisi Jan. Reçu le ticket et la facture pour lettre ch. 21 del origine. Le renverra aussitôt. Marché; Encore un petit mouvement insignifiant et espérons que tout s'arrangera, comme nos dits avec ne ferons rien. Il est général, c'est, je le plains! à cause miséricordie! et espéré, chose que. - Affect. M. Labrot. J'ai comme envoyé un avis, et l'effet du 20 Mai n'est pas sorti, mais je suis persuadé que ce Tachine l'a payé. J'espère que la Banque vous avisera de l'encaissement.",
+  "language": "fr",
+  "Translation_to_English": "Factory of Metal Cables. I sent you the notice that Tachine showed me the confirmation of 5000 francs, and I hope the factory passed it on to you. Tomorrow, I hope to send you a good order. I spoke with Louis Koch from Cuisine. The Germans claim to give some entries to Cuisine who will send them directly to Varian, so that he will give them to the wholesaler in Helsinki. They are often more than the crown. Now, Georges Stichkaël. Received the ticket and invoice for August 20, 1952. Gave it to the sender. Return made. Received the ticket and invoice for letter ch. BZ. 2920 of origin and send back. Resubmitted Jan. Received ticket and invoice for letter ch. 21 of origin. Will send it back immediately. Market: still a small insignificant movement and hope everything will work out, as our said ones with nothing will be done. It is general, I regret it! due to mercy! and hope, that's something. Regards. M. Labrot. I have sent a notice, and the effect of May 20 has not been released, but I am convinced that Tachine paid it. I hope the bank will notify you of the collection.",
+  "date": "20 August 1952"
+}
+```
+
+If you would like more information or modifications, please let me know!

@@ -1,0 +1,39 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Guingu Dicktai",
+    "Hussein Louir",
+    "Jacques Drouek",
+    "Fabricio Pedro Melazzi"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "olive oil",
+      "date": "",
+      "price": "18.5"
+    },
+    {
+      "name": "oranges",
+      "date": "",
+      "price": "18"
+    },
+    {
+      "name": "green (possibly referring to fruit)",
+      "date": "",
+      "price": "20"
+    },
+    {
+      "name": "red (possibly referring to fruit)",
+      "date": "",
+      "price": "10"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nGuingu Dicktaî. Je lui ai vendu et vous prie de m’adresser 334ks. Savon noire 24.20 fr c 18.5\nHussein Louir. Je lui ai vendu sauf approbation par le bateau arrivant le 9.6.36\nta ch. env. coute 34/1 c 7-\nJacques Drouek. Je lui ai vendu sauf approbation par le bateau arrivant le 9.6.36\nta ch. env. coute 34/1 c 7-\nFabricio Pedro Melazzi. Demain vous recevrez la commande suivante:\n10.000 oranges c f18.-\n5.000 Verts c f20.-\n5.000 rouge c f10.-\nVeuillez je vous prie avoir la fabrique encore une fois pour l’emballage nickelé, car Vassilin m’a fait observer la remarque.\nVeuillez je vous prie m’envoyer 30 billets du Cinéma Raines, car Vassilin veut les remplacer avec 30 billets du Cinéma Moi. .\nRenseignements: J’espère vous envoyer demain f150.- à peu près.\nSoit autre pour ce soir.\nBien cordialement\nRS.",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\nGuingu Dicktai. I sold him and ask you to send me 334 kg. black soap at 24.20 francs at 18.5\nHussein Louir. I sold him except approval by the boat arriving on 9.6.36\nyour shipment will cost 34/1 at 7-\nJacques Drouek. I sold him except approval by the boat arriving on 9.6.36\nyour shipment will cost 34/1 at 7-\nFabricio Pedro Melazzi. Tomorrow you will receive the following order:\n10,000 oranges at 18 francs\n5,000 green at 20 francs\n5,000 red at 10 francs\nPlease, I ask you to have the factory once again for the nickel packaging, because Vassilin pointed out the remark to me.\nPlease, I ask you to send me 30 tickets of Cinéma Raines, because Vassilin wants to replace them with 30 tickets of Cinéma Moi.\nInformation: I hope to send you tomorrow about 150 francs.\nAnything else for tonight.\nSincerely\nRS.",
+  "date": "1936-06-09"
+}
+```

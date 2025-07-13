@@ -1,0 +1,19 @@
+Here's a carefully structured JSON extraction according to your schema. All Arabic content is translated, names and places are written in full, and all values except for the original extracted text are in English:
+
+```json
+{
+  "Persons": [],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [],
+  "extracted_text": "حضرة الفاضل شديد بك المحترم \nبعد السلام، نشكركم على ردكم الكريم على عبدالحليم افندي \nيرجى منكم ارسال جواب ايجابي و حضور اليوم على وجه السرعة مع مستندات ادعاء \nليتسلم له على الشيك. \nشيك 1000 ج يسلم فائدة او الضمانة و لحضرتكم استلام الاقساط عندها. استاذنا الكبير الرئيس. نرجو رجاء حاراً ان تتكرموا مشكورين باستلام سند صرف المبلغ بيد السيد عبدحميد الجبالي و ننتظر منكم اسماء الشهود (اذا لم تتوافر بديلة يشهد حسن افندي و عبدالعزيز افندي) \nبتاريخ ١٤/٥/٣٦ يدفع و يحجز من الحانة رصيد الشيك ١٤/٥/٣٦ \nالمخلص خادمكم و خادمكم \nرشيد",
+  "language": "ar",
+  "Translation_to_English": "To the esteemed Mr. Shadid Bey,\nAfter greetings, we thank you for your kind response to Abdel Halim Effendi. \nWe kindly ask you to send a positive reply and attend today urgently, bringing all claim documents, so a cheque can be handed to you. \nA cheque for one thousand Egyptian pounds will be handed as an interest or guarantee, and you may collect the installments at that time. Our great respected leader, we earnestly request you to kindly, and gratefully, receive the promissory note for the amount from Mr. Abdel Hamid El-Gebaly, and we await from you the names of the witnesses (if not available, Hassen Effendi and Abdel Aziz Effendi will act as witnesses). \nOn the date of 14/05/1936, the amount is to be paid and the bar's balance is reserved for the cheque dated 14/05/1936. \nYour devoted servant, \nRachid",
+  "date": "14 May 1936"
+}
+```

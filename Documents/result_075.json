@@ -1,0 +1,70 @@
+Certainly! Here is the extracted text and the structured JSON according to your schema:
+
+---
+
+### **Extracted Text**
+
+```
+2 JUIN 1936
+
+ALEXANDRIE
+Rue de l’Eglise Maronite, N°1
+TELÉPH: 44-46
+Adresse Télégraphique:
+“BEHNA_ALEXANDRIE”
+
+LE CAIRE
+Rue Neuve, No 49
+TELÉPH: 50-723
+P.B. 120
+Adresse Télégraphique:
+“AINILEL CAIRE”
+
+Rachid Behna
+NÉGOCIANT
+
+Alexandrie le 1 Juin 1936
+P.B. 1919
+
+Mon cher Ami,
+Votre lettre en date du 1 reçu.
+Société Misraya. J'ai écrit nécessairement des lettres d'instruction.
+Pour la B.O. de Societé Lait. D'après votre lettre, difficulté d'ouverture à ce sujet.
+Taha est passé cet après-midi de magasin vous, il n'y avait pas d'argent jusqu'à ce que demain il rechaîne la promise et il prendra ce qu'il y aura d’argent.
+Notez que vous en voyez, n'hésitez expédier, et que votre compte est soldé lundi et j'attends si vous assemblez lundi. 
+A demain à C. Libétique qui j’aurai des nouvelles et vous les communiquerai.
+Société du Lait. J'espère que vous aurez pris reprise de cette société ainsi-vie de Thomas Edison et que j’arriverais à leur rendre le local, ami me trouvé ici.
+```
+
+---
+
+### **JSON (Translated and Structured)**
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Taha",
+    "C. Libétique",
+    "Thomas Edison"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l’Eglise Maronite",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "Société Misraya",
+    "Société du Lait"
+  ],
+  "commodities": [],
+  "extracted_text": "2 JUIN 1936\nALEXANDRIE\nRue de l’Eglise Maronite, N°1\nTELÉPH: 44-46\nAdresse Télégraphique:\n“BEHNA_ALEXANDRIE”\nLE CAIRE\nRue Neuve, No 49\nTELÉPH: 50-723\nP.B. 120\nAdresse Télégraphique:\n“AINILEL CAIRE”\nRachid Behna\nNÉGOCIANT\nAlexandrie le 1 Juin 1936\nP.B. 1919\nMon cher Ami,\nVotre lettre en date du 1 reçu.\nSociété Misraya. J'ai écrit nécessairement des lettres d'instruction.\nPour la B.O. de Societé Lait. D'après votre lettre, difficulté d'ouverture à ce sujet.\nTaha est passé cet après-midi de magasin vous, il n'y avait pas d'argent jusqu'à ce que demain il rechaîne la promise et il prendra ce qu'il y aura d’argent.\nNotez que vous en voyez, n'hésitez expédier, et que votre compte est soldé lundi et j'attends si vous assemblez lundi. \nA demain à C. Libétique qui j’aurai des nouvelles et vous les communiquerai.\nSociété du Lait. J'espère que vous aurez pris reprise de cette société ainsi-vie de Thomas Edison et que j’arriverais à leur rendre le local, ami me trouvé ici.",
+  "language": "fr",
+  "Translation_to_English": "2 JUNE 1936\nALEXANDRIA\nRue de l’Eglise Maronite, No. 1\nTELEPHONE: 44-46\nTelegraphic Address:\n“BEHNA_ALEXANDRIA”\nCAIRO\nRue Neuve, No 49\nTELEPHONE: 50-723\nP.O. 120\nTelegraphic Address:\n“AINILEL CAIRO”\nRachid Behna\nTRADER\nAlexandria, 1 June 1936\nP.O. 1919\nMy dear friend,\nYour letter of the 1st received.\nMisraya Company. I have necessarily written instruction letters.\nFor the B.O. of Lait Company. According to your letter, there is difficulty in opening the subject.\nTaha passed by this afternoon at your store, there was no money until tomorrow when he will bring the promised amount and he will take what money there is.\nNote that if you see anything, do not hesitate to send, and your account will be settled Monday and I am waiting if you gather Monday.\nTomorrow to C. Libétique from whom I will have news and will communicate it to you.\nLait Company. I hope you have resumed this company as well as Thomas Edison and that I will manage to return the local to them, my friend is here.",
+  "date": "1936-06-01"
+}
+```
+---
+
+**Note:** Some handwritten parts were unclear, but names, places, and companies were captured as faithfully as possible. Let me know if you need further details or corrections!

@@ -1,0 +1,25 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "عبد الحميد باشا",
+    "عبد الحميد الدوادار",
+    "عبد العزيز الدوادار",
+    "محمود مصطفى بك"
+  ],
+  "Places": [
+    "الإسكندرية",
+    "القاهرة",
+    "كفر الشيخ"
+  ],
+  "companies": [
+    "شركة الدلتا"
+  ],
+  "commodities": [],
+  "extracted_text": "2 ذي الحجة سنة 1354 هـ \nحضرة أفندينا سعادة عبد الحميد باشا الدوادار كفر الشيخ بعد السلام، نقيد إشارتكم علينا جوابكم رقم ٥ المؤرخة برمضان ١٣٢٥ وسلم وصلنا الى صورة سند شركة دلتا في الحقيبة على مصلحة كفر الشيخ باب الحديد. أما المبلغ الذي استلمتموه لحسابكم مبلغ ٥٠٠ جنيه وهو موضوع كتاب البنك. \nأما إذن الإدخال الخاص بالجمركية اليومية الواردة بالمحال وبوليصة الشحن فسنعيدها لكم لمباشرة تسلم البضاعة من المحطة كما حدث عن سابق. \nوأما الشهادة الخاصة بقمع عبد الحميد أبوريالة فستسلم للشركة الدلتا في ما يخصها باليوسف وقد عملات اللازم للشحلاتكم. \nوتفضلوا بقبول فائق الاحترام والتقدير. \nحرر بالإسكندرية في 13 مايو 1936 \nعبد العزيز الدوادار محمود مصطفى بك رشيد بهنا",
+  "language": "ar",
+  "Translation_to_English": "2nd Dhu al-Hijjah, 1354 AH\nTo His Excellency Abd Al-Hamid Pasha Al-Dawadar, Kafr El-Sheikh. \nAfter greetings, we register your letter in response to our message No. 5 dated Ramadan 1325, and we have received the copy of the Delta Company bond in the bag at the Kafr El-Sheikh Bab El-Hadid interest. As for the amount you received on your behalf, 500 Egyptian pounds, it is the subject of the bank letter. \nAs for the import permit related to daily customs in the shops and the shipping policy, we will return it to you to proceed with receiving the goods from the station as was previously done. \nThe certificate related to the cane of Abd Al-Hamid Abou Rayalah will be delivered to the Delta Company as it concerns them in Youssef. The necessary arrangements were made for your shipments.\nWith respectful greetings and high appreciation.\nIssued in Alexandria on 13 May 1936\nAbd Al-Aziz Al-Dawadar, Mahmoud Mostafa Bek, Rachid Behna.",
+  "date": "1936-05-13"
+}
+```
+Let me know if you need further data structuring or additional information!

@@ -1,0 +1,32 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Youssef Morcos"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna - Negotiant"
+  ],
+  "commodities": [
+    {
+      "name": "cotton",
+      "date": "27 May 1936",
+      "price": "1500 piastres"
+    },
+    {
+      "name": "sugar",
+      "date": "27 May 1936",
+      "price": "not specified"
+    }
+  ],
+  "extracted_text": "حضرة الفاضل حضرة سعادة المحترم \nبعد السلام نبشركم بأننا على جوابكم الكريم حررنا وطلبنا لهم, وسيوسف مرقص على العروبة وأرسلنا له ٢٨٠٠، وسوف نرسل لكم صورة تأشيرة ما استلم منه. والجواب يحضر حالاً فور استلام مرقص للمال. \n١٥٠٠ نصف ورقة.\nورق اللب: - سيرسل لنا الموردين سعر ٧.١٠، وتسلم به بضعة وردة. ليس له ورق، بل يعمل شبه له على اللب السبيا. \nكل سلور: طلب اليوم المستورد ٨ أبار صور، ٧ طوبر حكيم، سد الى ٥٠ طوب، وأكيدة طوب شارد وحده. وطوب شاردة واردة. \nونحن البورجية العامة ٨.٨٠ لخدمة بلاش من متسلم بلاش من متسلم بلاش من عندهم. \nسعر البورجية مستقر على علامة ٣.٤٨ قيمة التنفيذ للاوراق الكبيرة يكون حسب العلامة، وهذا شرط مؤكد.\nسعيد مارون : أرسلت تمام الإخطار ونرجو رد الجواب.\nالختم : توقيعات لجنة المراقبة بمصر...\nأرجو استلام سلع الورق اليوم مع بعثهم وصورة الأمر، وتأملوا مراجعة بلاش \"أحمر\"، نحترم الجداول الجديدة فور استلامكم البضائع.",
+  "language": "ar",
+  "Translation_to_English": "Dear esteemed respected Sir,\nAfter greetings, we inform you that in response to your kind letter, we have processed and requested for them, and Youssef Morcos on the ‘Arouba’ sent him 2800, and we will send you a copy of the receipt of what was received from him. The reply will arrive immediately upon Morcos receiving the money.\n1500 for half a paper.\nPulp paper: The suppliers will send us the price 7.10, and a batch of Wardah was delivered with it. There is no paper, only something similar to ‘Sebya’ pulp paper can be made.\nAll Salour: Today, the importer requested 8 bars of Sour, 7 Tobor Hakim, closed to 50 Tobor, and assured Tob Sharad alone. Tob Sharad arrived.\nWe, the general bourgeoisie, 8.80, for service nothing from delivery, nothing from them.\nPrice of Bourgeois is stable at mark 3.48. The value for executing large papers will be according to the mark, and this is a confirmed condition.\nSaid Maroun: The notification was sent, and we await your reply.\nSeal: Signatures of the monitoring committee in Egypt…\nPlease receive the paper goods today with their dispatch and a copy of the order, and kindly review for ‘red’ as a freebie. We will honor the new schedules as soon as you receive the merchandise.",
+  "date": "27 May 1936"
+}
+```
+Let me know if you need further breakdown or more information about each attribute!

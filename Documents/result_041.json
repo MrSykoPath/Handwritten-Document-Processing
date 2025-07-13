@@ -1,0 +1,40 @@
+Here is the extracted text and its structured JSON representation according to your schema:
+
+```json
+{
+  "Persons": [
+    "Yosef Afiyash",
+    "G. Mikhail",
+    "Isaac Lekhouri"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "1 000 ch. un éclat",
+      "date": "",
+      "price": "345 c 8.-"
+    },
+    {
+      "name": "909f. Sa fils marron",
+      "date": "",
+      "price": "365 c. 14.-"
+    },
+    {
+      "name": "",
+      "date": "",
+      "price": "815 c 29.-"
+    }
+  ],
+  "extracted_text": "Yosef Afiyash. Il vient de me téléphoner me disant écrire tendresse 1782. qu'il espère vous envoyer demain, avec la commande. Il m'a dit avoir écrit à Zekri & Fihri. Fakh. vous envoyer les détails, les encaissements.\nG. Mikhail. Il veut à livrer 1 000 ch. un éclat 345 c 8.- Je lui ai vendu un Keren juvahin et m'a prié de m'expédier\n909f. Sa fils marron 365 c. 14.-\nIsaac Lekhouri. Je finis de vendre et lui disaisi 215 caris et vous prie (de m'envoyer la perche) pour 435.- 154f gallees Esprit napji Art. 815 c 29.-\nSans autre, je suis, Barukeh.",
+  "language": "fr",
+  "Translation_to_English": "Yosef Afiyash. He just called me saying to write tenderness 1782. that he hopes to send you tomorrow, with the order. He told me he wrote to Zekri & Fihri. Fakh. to send you the details, the payments.\nG. Mikhail. He wants to deliver 1,000 ch. a batch 345 c 8.- I sold him a Keren juvahin and he asked me to ship it\n909f. His brown son 365 c. 14.-\nIsaac Lekhouri. I finished selling and told him to take 215 caris and ask you (to send me the pole) for 435.- 154f gallees Esprit napji Art. 815 c 29.-\nWith nothing further, I am, Barukeh.",
+  "date": ""
+}
+```
+
+**Notes:**
+- Some words are unclear due to handwriting; I attempted to transcribe and translate as accurately as possible.
+- The "date" fields are left empty, as there is no explicit date present in the text.
+- All names, including what appear to be product types, are written in full as much as possible.
+- The extracted text is precisely as in the original French, while all other fields are rendered in English as per your requirement.

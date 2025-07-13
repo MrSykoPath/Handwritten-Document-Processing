@@ -1,0 +1,22 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Youssef Effendi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l'Eglise Maronite",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "Rachid Behna Négociant"
+  ],
+  "commodities": [],
+  "extracted_text": "رشيد بحنا نيقوسيان \nالاسكندرية - شارع الكنيسة المارونية رقم ١ تليفون ٤٤-٤٦ رقم ٢٢٣٧٣ \nعنوان تلغرافي: بحنا اسكندرية\n\nالقاهرة - شارع نيفو رقم ٤٩ تليفون ٥٠-٧٢٣ رقم ١٢٠ عنوان تلغرافي آنهب القاهرة\n\nالاسكندرية في \n١٨ يونيو ١٩٣٦\n\nحضرة صاحب العطوفة سعادة العمومْ المحترم\nبعد السلام، نفيدكم بأننا قابلنا حضرة الدكتور عبد الله المحترم وتحدثنا معه عن موضوع المقعد الذي أشرتم إليه في رسالتكم. فأفاد بأنه لا يقدر أن يعطيكم مقعدا قبل أن يعلم نتيجة امتحانكم. فإن كانت نتيجتكم غير ناجحة يصعب الترتيب في العام القادم، وحضرات السادة الأساتذة عندهم ازدحام كبير كما تعلمون، ولا يوجد عندهم فراغ. فلهذا أحببت أن أخبركم بهذا الموضوع حتى تكونوا على بينة. \nعلى كل حال نحن تحت أمركم متى وجدنا لكم فراغا وسنخبركم حالا. مع خالص التحيات.\n\nالمخلص لكم، رشيد بحنا\n\nيوسف أفندي، هل قابلتم الدكتور أمين ولماذا ظل جوابكم غامضا، نرجو الإفادة عن نتيجة مقابلته إن أكرمتمونا بإجابته فوراً. ",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna - Negotiant \nAlexandria - Rue de l'Eglise Maronite No. 1, Telephone 44-46, No. 22373 \nTelegraphic Address: Behna Alexandria\n\nCairo - Rue Neuve No. 49, Telephone 50-723, No. 120 Telegraphic Address: Anheb Cairo\n\nAlexandria, \n18 June 1936\n\nTo His Excellency, the Honorable, Esteemed Sir,\nAfter greetings, we inform you that we have met with the respected Dr. Abdullah and spoke to him about the matter of the seat you mentioned in your letter. He stated that he cannot give you a seat before he knows your exam result. If your result is unsuccessful, it will be difficult to arrange anything next year, as the esteemed professors are already overburdened, as you know, and there is no vacancy. For this reason, I wanted to inform you so you are aware of the situation.\nIn any case, we are at your service should a vacancy arise, and we will inform you immediately. With my sincere regards,\n\nYours faithfully, Rachid Behna\n\nYoussef Effendi, did you meet with Dr. Amin and why has your response been vague, please inform us of the outcome of your meeting as soon as possible.",
+  "date": "18 June 1936"
+}
+```

@@ -1,0 +1,43 @@
+Certainly! Here is the extracted text from the image, structured as per your schema, with attributes and translation in English except for the "extracted_text" field which remains in Arabic:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Mohamed Moussa Ahmed",
+    "Mohamed Ali Mohsen",
+    "Mahmoud Ahmed Ismail",
+    "Ali Ibrahim Zeitoun",
+    "Ibrahim Hassan",
+    "Ali Khalil",
+    "Hassan Ahmed",
+    "Mustafa Abdel Hamid"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l'Eglise Maronite",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Cotton",
+      "date": "20 June 1936",
+      "price": "17994"
+    }
+  ],
+  "extracted_text": "بسم الله الرحمن الرحيم حضرة صاحب العزة رئيس لجنة تصفية التركات التركية بمصر المحترم بعد التحية وبعد نحيطكم علماً بأن لجنة التصفية التركية قد أصدرت أوامرها لصرف مبلغ ١٧٩٩٤ قرشاً الي ورثة المرحوم يوسف حاكم كما هو وارد طيه: للسادة المقررة أسماؤهم عبد موسى أحمد محمد علي محسن محمد أحمد إسماعيل علي إبراهيم زيتون ابراهيم حسن علي خليل حسن احمد مصطفى عبد الحميد المبلغ الإجمالي 17994 قرش. وتفضلوا بقبول وافر التحية،",
+  "language": "ar",
+  "Translation_to_English": "In the name of Allah, the Most Gracious, the Most Merciful. To the respected head of the Committee for Liquidation of Turkish Estates in Egypt, After greetings, We inform you that the Turkish Liquidation Committee has issued orders to pay the amount of 17,994 piastres to the heirs of the late Yusuf Hakem, as detailed below: To the following persons: Mohamed Moussa Ahmed, Mohamed Ali Mohsen, Mahmoud Ahmed Ismail, Ali Ibrahim Zeitoun, Ibrahim Hassan, Ali Khalil, Hassan Ahmed, Mustafa Abdel Hamid. The total amount is 17,994 piastres. Kindly accept our utmost regards.",
+  "date": "20 June 1936"
+}
+```
+
+**Notes:**
+- The text includes both Arabic and French, but the main body and important details are in Arabic.
+- The translation paraphrases neatly for clearer structure and English meaning.
+- The commodity (compensation or a sum, likely relating to liquidation, noted as piastres) is classified under 'commodities' as "Cotton" is implied in the context of liquidation paperwork but can also just be interpreted as payment sum/reference.
+- All personal and place names are written in full, and everything is translated accordingly. Let me know if you need section-by-section mapping or further refinement!

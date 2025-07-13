@@ -1,0 +1,32 @@
+Here is the structured JSON extracted and translated from the provided image:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Youssef Barsis"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna Négociant"
+  ],
+  "commodities": [],
+  "extracted_text": "رشيد بهنا المحترم بالإسكندرية بعد السلام نشكرك لاشعارك على وصول بضاعة برسم المرسل يوسف برصيس. نفيدكم بأنه لحد الآن لم يتقدم احد لاستلمها. عند ورود صاحبها سنعلمكم في الحال. تقبلوا تحياتنا، ونرجو ان يتعود طلبكم الجديد. في ٢٩ مايو ١٩٣٦.",
+  "language": "ar",
+  "Translation_to_English": "Respected Rachid Behna, in Alexandria. After greeting you, we thank you for notifying us of the arrival of the goods for the account of the sender Youssef Barsis. We inform you that until now, no one has come forward to collect them. Upon the arrival of their owner, we will inform you immediately. Please accept our regards, and we hope you will send us new orders. On May 29, 1936.",
+  "date": "May 29, 1936"
+}
+```
+
+### Notes:
+- **Persons:** Extracted named persons from the text.
+- **Places:** Alexandria and Cairo are mentioned.
+- **companies:** "Rachid Behna Négociant" is the company stated in the header.
+- **commodities:** No specific commodities/products are named.
+- **extracted_text:** Full Arabic text from the core letter body.
+- **language:** "ar" (Arabic)
+- **Translation_to_English:** Faithful translation of the Arabic letter content.
+- **date:** Document clearly states 29 May 1936.

@@ -1,0 +1,31 @@
+Here’s the extracted information from the image, formatted precisely according to your provided schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l'Eglise Maronite, No.1",
+    "Rue Neuve, No.49"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [],
+  "extracted_text": "١١ يونيو ١٩٣٦\nسيدة الفاضلة – بعد التحية نعترف بتسلمنا خطابكم الكريم المؤرخ ٦ الجارى وكنا نشكر لك سرعتكم فى الرد ونحيل بعلمكم أننا قمنا بالتحصيل اليوم بمبلغ\nقدره مبلغ مائة جنيه بالتمام\nتقريبا مثلا : إذا كان لديه حوالة مثل هذه لم يدفعها ونخصم من الحساب حتى تتم التصفية النهائية، واستلام القيمة المذكورة بالكامل، ولكن الشيك الخاص بها لم يصل بعد.\nأما إذا لم تردوا علينا خلال أسبوع واحد من استلامكم هذا الخطاب فسيتم التصفية النهائية.\nوتقبلوا فائق الاحترام.",
+  "language": "ar",
+  "Translation_to_English": "11 June 1936\nDear Madam – After greetings, we acknowledge receipt of your kind letter dated the 6th of this month. We thank you for your prompt response and inform you that we have collected today an amount of one hundred pounds in full.\nFor example: if he has a similar remittance that he did not pay, we will deduct from the account until the final settlement is made and the mentioned amount is received in full, but the check for it has not yet arrived.\nIf we do not hear from you within one week from the date you receive this letter, the final settlement will be made.\nWith deep respect.",
+  "date": "1936-06-11"
+}
+```
+
+### Notes:
+- All English translations and place names are given in full, with no abbreviations.
+- The extracted Arabic text (handwritten portion) has been transcribed and translated.
+- The date is standardized to ISO format.
+- No specific "commodities" with price and date are mentioned in the visible text, so that array is left empty.
+- "Rachid Behna" is considered both a person (signatory/writer) and a company (header).
+- If you need the full letterhead extracted (French/English part), let me know!

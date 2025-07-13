@@ -1,0 +1,29 @@
+```json
+{
+  "Persons": [],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "cotton",
+      "date": "20 May 1936",
+      "price": "1296 Egyptian Pounds"
+    },
+    {
+      "name": "cotton (another amount due)",
+      "date": "20 May 1936",
+      "price": "250 Egyptian Pounds"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nNEGOCIANT\nALEXANDRIE - LE CAIRE\nALEXANDRIE, B.P. 1919\nTel. 4448\nالإسكندرية في ١٩ مايــو ١٩٣٦\nصندوق البريد ١٩١٩\nرشيد بهنا تاجر بالإسكندرية والقاهرة\n\n20 MAI 1936\n\nحضرات الكرام شركة فؤاد فاضل\nبعد السلام نحيطكم بالإشارة الى جوابكم الكريم دامت سلامتكم، يعني عل صورة الطلبية التي صدرتموها لنا في ١٤ أبريل الماضي وقيمتها مبلغ 1296 جنيه.\n\nأعلمنا لكم بالإشارة أنتم كتبتم لنا عدة أوراق من ١٤ و ١٩ وليس عندنا غير المبلغ المرسل يعني مبلغ 250 جنيه، ونحن ننتظر استلام الباقية واستلام الأوراق دفعة واحدة فهل يسفركم الفاضل سكرتير البنك.\n\nفيكون معلوم، اذا وصل العامل يرسل لنا الطرد مع السواق عبد الله المذكور، ويمكن تأجيل أتعاب الطريق لحين استلام البضاعة مضمونة مائة في المائة من طرفكم.\n\nكتبوني جواب، اذا أراد إرسال واحد تامي اسمه السيد يتمث عن شاحنة مزراب الفرج، والضمان مبلغ 250 جنيه قادمة لسيمون طريق شارع النبي دانيال.\n٤٨/٤/١٩٣٦\n\nخادمكم المخلص",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna\nMerchant\nAlexandria - Cairo\nAlexandria, P.O. Box 1919\nTel. 4448\nAlexandria, 19 May 1936\nP.O. Box 1919\nRachid Behna, Merchant in Alexandria and Cairo\n\n20 May 1936\n\nDear respected Fouad Fadel Company,\nAfter greetings, we inform you in reference to your kind reply, for your everlasting peace, regarding the order that you sent to us on 14 April, valued at 1296 Egyptian Pounds.\n\nWe informed you by reference that you sent us several notes on the 14th and 19th, but we only received the transferred amount, meaning 250 Pounds, and we are waiting to receive the rest and the shipment documents together. Will your esteemed bank secretary send them?\n\nLet it be known, if the worker arrives, he is to send the package with the driver Abdullah as mentioned, and you can postpone the road fees until we receive the guaranteed goods in full from your side.\n\nWrite us a reply. If you wish to send a person named Mr. Tamiy, representing the Faraj truck, and the guarantee amount is 250 Pounds, coming for Simon, Nabi Daniel Street.\n48/4/1936\n\nYour sincere servant.",
+  "date": "20 May 1936"
+}
+```
+If you have further instructions for structuring or need more attributes, let me know!

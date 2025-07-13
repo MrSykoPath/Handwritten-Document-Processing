@@ -1,0 +1,27 @@
+```json
+{
+  "Persons": [
+    "Youssef Saoud",
+    "Ibrahim Milan"
+  ],
+  "Places": [],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "White rice",
+      "date": "1968",
+      "price": ""
+    }
+  ],
+  "extracted_text": "15-5-1968\nرشيد بهنا\n  سيدي يوسف سعود . وصلت من إبراهيم ميلان ....... وبضمنه أمر صرف المبلغ لأحمد الجنينى\nامين مخازن  استلمت كيلو الرز الأبيض وهذه المائة لهم خالصة والحقيقة بعد قيام اللجنة ثبت عندهم نقص الوزن بعض العلم أن الأكل وزنه وجد كامل عندنا الحمص وجد على حسابه كلياً باقي كيلو واحد والتزم بوزنه لم يوجد . ويرجى إرفاقها ضمن الكتب سيما لم نجد شيكاً لاستيفاء اسم العامل علم جيله هذه تضمنت بأننا جادر عليهم بمراقبة ضروريات المخزن وفضلاً عملي استلموا فعلاً ال 98 اورديت استلام إلى ثالث.\nعناية مأمور المخزن\nتوقيع المدير\nأرسلوا لنا شهادة صرف 24 مير ب.ع.ع\nx",
+  "language": "ar",
+  "Translation_to_English": "15-05-1968\nRachid Behna\nMr. Youssef Saoud. I received from Ibrahim Milan ........ and with it an order to pay the amount to Ahmed El-Genaini,\nWarehouse keeper. I received one kilo of white rice and these hundred are for them completely. In fact, after the committee’s inspection, it was found that there was a shortage in weight, even though the food weighed completely, and the chickpeas were calculated in full except for one kilo, and he undertook its weight was not found. Please attach it to the books, especially since we did not find a cheque for the worker’s name to be collected. Note that this confirms that we are required to monitor the warehouse supplies, and also, I received in fact 98. Please provide acknowledgment of receipt up to the third.\nAttention: Warehouse officer\nManager’s signature\nSend us a payment certificate for 24 Mir B.A.A\nx",
+  "date": "1968-05-15"
+}
+```
+Notes:
+- All the relevant entities are fully written.
+- The translation retains the original Arabic meaning in a clear, complete English rendering.
+- The extracted text is in Arabic as requested.

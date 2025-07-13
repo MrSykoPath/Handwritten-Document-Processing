@@ -1,0 +1,119 @@
+Sure! Here is the extracted text from the image, along with the requested structured JSON according to your schema. The text is in French, so I have also provided the translation to English as requested.
+
+---
+
+**Extracted Text (Verbatim; French):**
+```
+Rachid Behna
+NÉGOCIANT
+
+ALEXANDRIE
+Rue de l’Eglise Maronite, No 1
+TÉLÉPH. 44-46
+Adresse Télégraphique :
+BEHNA.ALEXANDRIE
+
+LE CAIRE
+Rue Neuve, No 49
+TÉLÉPH.PR. 50-723
+B.P.120
+Adresse Télégraphique
+“ANNEB.LE CAIRE”
+
+Aiex, le 15 Juin 1936
+
+Très cher frère,
+Votre lettre en date du 13 ct.
+bien reçue. J’ai noté dans mon livre des 
+arrivements dirants la Ville d’Alexandrie
+qu’il nous a envoyé l’avis des encaissements de la
+semaine ainsi que ces commandes et j’attends ce
+que vous allez trouver.
+Tobi est parti ce matin chez toi, un monsieur 
+mais il n’y a pas d’argent, et ce monsieur est en
+voyage, j’espère demain. Zek Morcos de 
+...
+racheté pour Labrun. Rien la Bochère et la 
+Boite de Grande Nobrere. Pour la Boite Kinan 
+Kinan est à Menaer; pour la page 2000 ... s’il 
+va l’ouvrir sans fente, le paiement du 
+socle pourra deviser ...
+...
+...
+
+Donnez mes baisers à Abdoos, vous dire
+après que Rachid avait couru à Guizn,
+Il a donné ordre aujourd’hui à Zek à ce sujet
+et Zek lui a répondu qu’ils attendent la réponse
+d’Alexandrie.
+```
+---
+
+**Translation to English:**
+```
+Rachid Behna
+MERCHANT
+
+ALEXANDRIA
+Rue de l’Eglise Maronite, No 1
+PHONE. 44-46
+Telegraphic Address: BEHNA.ALEXANDRIA
+
+CAIRO
+Rue Neuve, No 49
+PHONE.PR. 50-723
+P.O.120
+Telegraphic Address: “ANNEB.CAIRO”
+
+Alex, 15 June 1936
+
+My dear brother,
+Your letter dated the 13th was well received. I have noted in my book of arrivals from the city of Alexandria that he sent us the receipt notices of the week as well as his orders, and I am waiting for what you will find.
+Tobi went to your place this morning, a gentleman but there is no money, and this gentleman is traveling, I hope tomorrow. Zek Morcos of...
+Bought back for Labrun. Nothing on Bochère and the Great Nobrere box. For the Kinan box,
+Kinan is at Menaer; for page 2000... if
+he opens it without a slit, payment for the
+base might be arranged...
+...
+
+Give my kisses to Abdoos, tell him after that Rachid had run to Guizn,
+He gave an order today to Zek on this subject and Zek replied that they are waiting for the response from Alexandria.
+```
+
+---
+
+**Structured JSON:**
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Tobi",
+    "Zek Morcos",
+    "Labrun",
+    "Bochère",
+    "Kinan",
+    "Abdoos"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Guizn",
+    "Menaer"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Box Kinan",
+      "date": "15 June 1936",
+      "price": "2000"
+    }
+  ],
+  "extracted_text": "Rachid Behna\nNÉGOCIANT\n\nALEXANDRIE\nRue de l’Eglise Maronite, No 1\nTÉLÉPH. 44-46\nAdresse Télégraphique :\nBEHNA.ALEXANDRIE\n\nLE CAIRE\nRue Neuve, No 49\nTÉLÉPH.PR. 50-723\nB.P.120\nAdresse Télégraphique\n“ANNEB.LE CAIRE”\n\nAiex, le 15 Juin 1936\n\nTrès cher frère,\nVotre lettre en date du 13 ct.\nbien reçue. J’ai noté dans mon livre des \narrivements dirants la Ville d’Alexandrie\nqu’il nous a envoyé l’avis des encaissements de la\nsemaine ainsi que ces commandes et j’attends ce\nque vous allez trouver.\nTobi est parti ce matin chez toi, un monsieur \nmais il n’y a pas d’argent, et ce monsieur est en\nvoyage, j’espère demain. Zek Morcos de \n...\nracheté pour Labrun. Rien la Bochère et la \nBoite de Grande Nobrere. Pour la Boite Kinan \nKinan est à Menaer; pour la page 2000 ... s’il \nva l’ouvrir sans fente, le paiement du \nsocle pourra deviser ...\n...\n...\n\nDonnez mes baisers à Abdoos, vous dire\naprès que Rachid avait couru à Guizn,\nIl a donné ordre aujourd’hui à Zek à ce sujet\net Zek lui a répondu qu’ils attendent la réponse\nd’Alexandrie.",
+  "language": "fr",
+  "Translation_to_English": "Rachid Behna\nMERCHANT\n\nALEXANDRIA\nRue de l’Eglise Maronite, No 1\nPHONE. 44-46\nTelegraphic Address: BEHNA.ALEXANDRIA\n\nCAIRO\nRue Neuve, No 49\nPHONE.PR. 50-723\nP.O.120\nTelegraphic Address: “ANNEB.CAIRO”\n\nAlex, 15 June 1936\n\nMy dear brother,\nYour letter dated the 13th was well received. I have noted in my book of arrivals from the city of Alexandria that he sent us the receipt notices of the week as well as his orders, and I am waiting for what you will find.\nTobi went to your place this morning, a gentleman but there is no money, and this gentleman is traveling, I hope tomorrow. Zek Morcos of...\nBought back for Labrun. Nothing on Bochère and the Great Nobrere box. For the Kinan box,\nKinan is at Menaer; for page 2000... if\nhe opens it without a slit, payment for the\nbase might be arranged...\n...\n...\n\nGive my kisses to Abdoos, tell him after that Rachid had run to Guizn,\nHe gave an order today to Zek on this subject and Zek replied that they are waiting for the response from Alexandria.",
+  "date": "15 June 1936"
+}
+```
+---
+
+If you need further structuring or additional information, let me know!

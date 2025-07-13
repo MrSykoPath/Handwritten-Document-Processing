@@ -1,0 +1,30 @@
+Here is the structured JSON extraction based on the schema provided:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l'Église Maronite",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [],
+  "extracted_text": "تاريخ ٣ يونيو ١٩٣٦ \nحضرة الفاضل سعيد بك الحكرم \nبعد السلام نفضل بإحاطتكم علمًا أننا تسلمنا اليوم من ذ. عبد الله الحمصي خمسة براميل حديد شامية مملوءة سجائر جديدة باسم شركتكم الكريمة. وسلمناه سند الشحن بمقابل استلامه البضاعة. \nبرجاء التكرم بإرسال التعليمات إذا كان لكم أوامر أخرى بخصوص البضاعة. \nوتقبلوا فائق الاحترام والتقدير \nرشيد بحنا",
+  "language": "ar",
+  "Translation_to_English": "Date: 3 June 1936 \nTo the esteemed Said Bek Al-Hakram, \nAfter greetings, we kindly inform you that today we have received from Mr. Abdullah Al-Homsi five iron barrels (shamia) filled with new cigarettes in the name of your esteemed company. We delivered to him the shipping receipt in exchange for receiving the goods. \nWe kindly ask you to send your instructions if you have any other orders regarding these goods. \nWith utmost respect and appreciation, \nRachid Behna",
+  "date": "3 June 1936"
+}
+```
+
+**Notes:**
+- The text is in Arabic, so the `"language"` is set as "ar".
+- `"extracted_text"` contains the full Arabic text as seen.
+- All values in other fields are translated to English.
+- No commodities with date/price were mentioned in the letter.
+- Persons and places are not abbreviated and appear in full as required.

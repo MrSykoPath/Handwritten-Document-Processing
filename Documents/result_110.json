@@ -1,0 +1,68 @@
+Here is the extracted text, translation, and structured JSON output according to your requirements:
+
+---
+
+**Extracted Text (French):**
+```
+G. Mikhaïl. Il veut que nous lui écrivions par le premier courrier
+7 1/2 ch. inf. curieux 916 à THO - B.34.
+Veuillez lui écrire suite imprevuement.
+Ahmed Abd El Baki. Je lui ai vendu et vous prie de ch expédier
+59 ch. gels conf. col. 704 à 26.
+Say
+Hassen Sam. Il m’a payé et en cas de concurrence, veuillez lui expédier
+12 ch. nove 2420 à A.P18.
+Voila: Encore calme, aucun reprise, il y a des plaintes des clients sur la livraison, la chaleur a commencé pour de bon depuis 3 jours, et allah, qui ca peut bouger un peu les clients a achats de la marchandise. J’ai composé un envoi, et je veux avancer avoir rentré seulement com. pres, s’il veut.
+Toutes vôtres pour ce soir
+```
+
+**Translation to English:**
+```
+G. Mikhaïl. He wants us to write to him by the first mail
+7 1/2 inferior curious horses 916 at THO - B.34.
+Please write to him unexpectedly.
+Ahmed Abd El Baki. I sold to him and ask you to ship
+59 horses, confirmed color, 704 at 26.
+Say
+Hassen Sam. He paid me and in case of competition, please ship to him
+12 new horses 2420 at A.P18.
+Here: Still calm, no recovery, there are complaints from clients about the delivery, the heat has really started for 3 days, and God, maybe it will move the clients a little to buy the goods. I prepared a shipment, and I want to advance to have only received com. pres, if he wants.
+All yours for tonight
+```
+
+---
+
+**Structured JSON Output:**
+```json
+{
+  "Persons": [
+    "G. Mikhaïl",
+    "Ahmed Abd El Baki",
+    "Hassen Sam"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "inferior curious horses",
+      "date": "",
+      "price": "916 at THO - B.34"
+    },
+    {
+      "name": "confirmed color horses",
+      "date": "",
+      "price": "59 horses, 704 at 26"
+    },
+    {
+      "name": "new horses",
+      "date": "",
+      "price": "12 horses, 2420 at A.P18"
+    }
+  ],
+  "extracted_text": "G. Mikhaïl. Il veut que nous lui écrivions par le premier courrier\n7 1/2 ch. inf. curieux 916 à THO - B.34.\nVeuillez lui écrire suite imprevuement.\nAhmed Abd El Baki. Je lui ai vendu et vous prie de ch expédier\n59 ch. gels conf. col. 704 à 26.\nSay\nHassen Sam. Il m’a payé et en cas de concurrence, veuillez lui expédier\n12 ch. nove 2420 à A.P18.\nVoila: Encore calme, aucun reprise, il y a des plaintes des clients sur la livraison, la chaleur a commencé pour de bon depuis 3 jours, et allah, qui ca peut bouger un peu les clients a achats de la marchandise. J’ai composé un envoi, et je veux avancer avoir rentré seulement com. pres, s’il veut.\nToutes vôtres pour ce soir",
+  "language": "fr",
+  "Translation_to_English": "G. Mikhaïl. He wants us to write to him by the first mail\n7 1/2 inferior curious horses 916 at THO - B.34.\nPlease write to him unexpectedly.\nAhmed Abd El Baki. I sold to him and ask you to ship\n59 horses, confirmed color, 704 at 26.\nSay\nHassen Sam. He paid me and in case of competition, please ship to him\n12 new horses 2420 at A.P18.\nHere: Still calm, no recovery, there are complaints from clients about the delivery, the heat has really started for 3 days, and God, maybe it will move the clients a little to buy the goods. I prepared a shipment, and I want to advance to have only received com. pres, if he wants.\nAll yours for tonight",
+  "date": ""
+}
+```
+**Note:** No explicit date was mentioned in the text so the "date" field is left empty. If you identify a date reference in context you’d like extracted differently, please specify!

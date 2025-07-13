@@ -1,0 +1,32 @@
+Certainly! Here is the extracted text from the image along with its translation, structured as per your provided schema in a JSON format:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [],
+  "extracted_text": "ناصر في ١٧ مايو ١٩٣٦ حضرة الفاضل المحترم بعد السلام تفضلت البلاد وراسلني مرة ثانية . ورد جوابها ...أخيرا ...واذ به يشكر سعيه كما يشكر سعي سلفه ويطلب ترخيص باشتغاله في مهنة الدباغة . والمهم حصلت من بلدية ناصر الموافقة على ممارسته وصدر الامر بذلك . استسلام تحت اشراف البلدية الطبية والزراعية وانه سيحصل ويتم ممارسته فعلا بمجرد وصولكم كتاب يشرف طلبكم . جيدا انه لم ...س .",
+  "language": "ar",
+  "Translation_to_English": "Nasir on 17 May 1936. Honorable Sir, After greetings, the country has kindly corresponded with me again. And finally, I received a reply thanking for your effort as well as the effort of your predecessor and requesting a license for practicing the tanning profession. The important thing is that I obtained approval from the Municipality of Nasir for him to practice, and an order was issued accordingly. The practice will be under the supervision of the medical and agricultural municipality, and actual practice will begin as soon as your letter requesting this arrives. It is good that there is no obstruction.",
+  "date": "17 May 1936"
+}
+```
+
+### Notes:
+- **Persons**: "Rachid Behna" is mentioned as the sender's name.
+- **Places**: "Alexandrie" (Alexandria) and "Le Caire" (Cairo) are the cities referenced in the letterhead.
+- **Companies**: "Rachid Behna" appears as the company/business conducting the correspondence.
+- **Commodities**: No specific goods or prices are mentioned in the extracted part.
+- **Extracted Text**: Presented as in Arabic.
+- **Translation to English**: Provided accurately for the content.
+- **Date**: 17 May 1936 is the key date in the document.
+
+If you need this in a different format or want more specific extractions, please let me know!

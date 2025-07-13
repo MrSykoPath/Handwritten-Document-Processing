@@ -1,0 +1,20 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Sugar",
+      "date": "20-4-1949",
+      "price": "130 Egyptian pounds per ton"
+    }
+  ],
+  "extracted_text": "ورد لنا للفضاء، عندما كنت مناوبتين سائقين ووجدت هذه بالمخزون ثمان قفاص سكر احضرهم الدوس لنسأل منهم وسألنه عن سعره فذكره سنينه انه الكيلو ب ١٣٠ج وصعب يبيع اقل من الموجود عنده ، والكمية ما ١٤٥ كيلو للعرض ، ويبلغ علمه لنا الحرص.",
+  "language": "ar",
+  "Translation_to_English": "We received for the space that when we were two drivers on duty, we found there were in stock eight crates of sugar, which were brought by Al-Dos. We asked him about them and asked him about the price, and he mentioned that the price per kilogram is 130 Egyptian pounds and that it is difficult to sell less than what he currently has, which is a quantity of 145 kilograms for presentation. Kindly be advised.",
+  "date": "1949-04-20"
+}
+```

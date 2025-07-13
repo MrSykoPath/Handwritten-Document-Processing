@@ -1,0 +1,28 @@
+Here is the extracted information in a structured JSON format according to your schema:
+
+```json
+{
+  "Persons": [],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    { "name": "Nickel", "date": "", "price": "" },
+    { "name": "25 grams emballés 840S", "date": "", "price": "" },
+    { "name": "10 régistes export 815 livres de papiers", "date": "", "price": "" },
+    { "name": "Caisse 7938", "date": "", "price": "" },
+    { "name": "50 p. ch. chaux 8HOMMOP", "date": "", "price": "" },
+    { "name": "3625 p. ch.", "date": "", "price": "840S" }
+  ],
+  "extracted_text": "'fabrique Labas Melasse', Demain j'appelle mes donne la commande de Samedi et j'espére qu'elle sera bonne.\nKrosin Sami: Rien à nickel grande vitesse et la facture pour les 25 gr. d'emballés 840S et par j'envoi le recouvrement.\nRien également dans le colis le paquet d'imprimés et dans le colis film et grand enveloppe.\nSahab Jeur. Recu la facture pour les 10 régistes export 815 livres de papiers et a envoyé le recouvrement.\nEl Michèle. Je lui ai confirmé sous engagement par le bateau arrivant le 9/6/38, une caisse ch. env. coups 314, cote 6.5.\nMarché: Allalal comme vous dites, au 6 mois de rien tout meilleur. Car nos concurrents sont dans le même cas que nous, et Labbal aussi, me plaint du marché, et qu'il n'y a pas de bénéfice suffisant sur les articles japonais.\nLumpers Multikal. Je lui ai vendu 20 p., je vous prie de m'expédier en envoyant la facture pour 20 p. gelés-2 an. jour 7/2 C 22. 3/17/31\nCaisse 7938 50 p. ch. chaux. 8HOMMOP C 23.\nLaure Marcalin. Je n'ai pas fourni 3625 p. ch. à jour 840S à 22 net, 4:31/31 en vend le même article à Yara à 725. Je crois que c'est l'imprimé et pas un jour. Le ci-inclus. Vous?\nSans autre pour ce an. Bourhieux.",
+  "language": "fr",
+  "Translation_to_English": "\"Labas Molasses manufacture\", Tomorrow I will call to place my order for Saturday and I hope it will be good.\nKrosin Sami: Nothing for nickel at high speed and the invoice for the 25 grams packed 840S and I am sending the payment.\nNothing in the package either, neither the batch of printed materials nor the film in the large envelope in the package.\nSahab Jeur. I received the invoice for the 10 export registers, 815 pounds of paper and sent the payment.\nEl Michèle. I confirmed to him, without commitment, by the boat arriving on 9/6/38, a box ch. approx. 314 blows, quotient 6.5.\nMarket: Allalal, as you say, in 6 months everything will be better. Because our competitors are in the same case as us, and Labbel as well, complaining about the market, and that there is not enough profit on Japanese items.\nLumpers Multikal. I sold him 20 pieces. Please send me the invoice for 20 frozen pieces-2 years day 7/2 C 22. 3/17/31\nBox 7938 50 pcs lime. 8HOMMOP C 23.\nLaure Marcalin. I did not deliver 3625 pcs up to date 840S at 22 net, 4:31/31 selling the same item at Yara at 725. I think this is the printed and not one day. The enclosed. You?\nNo further for this year. Bourhieux.",
+  "date": "9/6/1938"
+}
+```
+
+**Notes about extraction:**
+- The handwritten text is difficult to read in places, and some words may be interpreted incorrectly.
+- Commodities have been identified as specific goods (nickel, paper, lime, etc.) along with their packaging, weights, or references.
+- The date is taken from "le 9/6/38" found within the document.
+- Persons, Places, and companies are left empty as proper nouns were not clearly attributed to specific people or locations except for product/company references that seem ambiguous.
+- The commodities field lists products with available numbers or packaging when possible.

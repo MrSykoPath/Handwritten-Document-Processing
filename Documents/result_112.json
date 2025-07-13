@@ -1,0 +1,38 @@
+```json
+{
+  "Persons": [
+    "Monsieur Kirkadjian",
+    "Michel",
+    "Isaac Yachouii"
+  ],
+  "Places": [
+    "Khata",
+    "Le Caire" 
+  ],
+  "companies": [
+    "Fabrique Chabcs Melavers"
+  ],
+  "commodities": [
+    {
+      "name": "rouges",
+      "date": "",
+      "price": "c 40"
+    },
+    {
+      "name": "oranges",
+      "date": "",
+      "price": "c 18"
+    }
+  ],
+  "extracted_text": "Monsieur Kirkadjian, Zake a été ce matin et... malheureusement ils voulaient lui introduire une somme de frs 10 à son prix et que vous l'axiez de Khata. Zake va vous écrire, mais il n'a pas voulu en avoir. J'attends de vos nouvelles. Fabrique Chabcs Melavers. Note d'avoir entendu au Michel à passer des instructions strictes à la fabrique pour surveiller l'emballage interne et le bord de bagues. J'espère que vous avez reçu les 5 boites rouges. Aujourd'hui ils ont passé la commande suivante 10 000 rouges c 40.- 10 000 oranges c 18.- Ensuite qu'ils seront satisfaits de l'emballage et du fond des boites rouges...  Sibist 829 Aogost 5500! J'espère que vous avez reçu les échantillons de Zahiet et j'attends, demain, autre échantillon. Sabb, .... J'adresse les 39 f. Demain, .... 22 gr. failles 5 ct et 44 balles et demi qui la finira pour 39 fr. Pour comptable les 10 gr. Isaac Yachouii: reçu la réception pour les 2OZ. giutes & en traverse P.N. 806. Aviaton du Caire et orijasa le recerciement.",
+  "language": "fr",
+  "Translation_to_English": "Mister Kirkadjian, Zake was here this morning and unfortunately, they wanted to charge him a sum of 10 francs to his price because you were buying from Khata. Zake will write to you, but he did not want it. I await your news. Melavers Factory. Note that Michel has given strict instructions to the factory to monitor the internal packaging and the edge of the rings. I hope you have received the 5 red boxes. Today they placed the following order 10,000 reds at 40 cents each; 10,000 oranges at 18 cents each. Next, they will be satisfied with the packaging and the bottom of the red boxes... Sibist 829 August 5500! I hope you have received the samples from Zahiet and I await another sample tomorrow. Sabb... I send the 39 francs. Tomorrow, ... 22 grams, failures 5 cents, and 44 bales and a half which will end for 39 francs. For accounting, the 10 grams. Isaac Yachouii: receipt received for the 2OZ drops and transferred PN 806. Aviation from Cairo and thanking you again.",
+  "date": ""
+}
+```
+
+**Notes:**
+- The handwriting provides a few unclear or incomplete places and terms (e.g., "Sibist 829 Aogost 5500"), these are transcribed as faithfully as possible.
+- Where the French handwriting is hard or ambiguous, the text is translated to the best possible understanding.
+- No specific date is explicitly mentioned, so the `date` attribute is left empty.
+- Everything (except for the output in "extracted_text") is translated or filled in English as per your instructions.

@@ -1,0 +1,29 @@
+Here is the extracted and structured JSON following your schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behnna",
+    "B. Sallah"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Or",
+      "date": "",
+      "price": "7.16 à 40.65"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nFranche: Il y a eu un peu de mouvement en achat aujourd'hui, et espérant que ça paraîtra pour que mes clients puissent nous acheter tous articles d'or.\nJe suis fatigué avec un petit sujet du gorge, mais j'ai pris du froid, et je m'en suis chez B. Sallah, et après avoir le suis beaucoup promis, Allah que tu auras belle mer!\nOr. Bourse. Le tout 2 à 3 % ch vf env. 7.16 à 40.65 fg Veuillez le notez.\nSans autre pour aujourd'hui, j'espère que demain, je pourrai commencer à vous offrir de l'or.\nRachid",
+  "language": "fr",
+  "Translation_to_English": "Rachid Behna\nFrankly: There has been a little movement in buying today, and hoping that this will show so my clients can buy all our gold products.\nI am tired with a little throat issue, but I caught cold, and I went to B. Sallah, and after being there I promised a lot, Allah, you will have nice weather!\nGold. Market. All at 2 to 3 percent ch vf approx 7.16 to 40.65 fg. Please note.\nNothing else for today, I hope tomorrow I can start offering you gold.\nRachid",
+  "date": ""
+}
+```
+
+**Notes**:
+- Not all fields (e.g., precise date) were clearly available in the image.
+- Some handwriting is difficult and may be subject to interpretation errors.
+- Commodity price details ("7.16 à 40.65") have been included as presented.
+- Translation and entity names are provided in full and in English, except for "extracted_text" which remains faithful to the original French.

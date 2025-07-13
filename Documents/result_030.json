@@ -1,0 +1,22 @@
+```json
+{
+  "Persons": [
+    "Maurice Salomon"
+  ],
+  "Places": [
+    "Kinshasa"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Oranges",
+      "date": "",
+      "price": "5000"
+    }
+  ],
+  "extracted_text": "Maurice Salomon, Notez que vous allez le voir et vous me ferez un compte de votre conversation. J'ai reçu vos lettres. Notez que vous avez livré et encaissé les 5000 boîtes d'oranges. Aujourd'hui il n'y en a pas de commandées. Si on en dit qu'il y a, allez en dépôt, mais durant la semaine, ils vous ramèneront, vous en enverront. Il n'y a aucune nouvelle encore sur le marché et alentours. À Kinshasa, que nous allons expédier comme par le passé toute la boîte déjà emballée, et bien, on donne la quantité. D'après mes calculs, voir à que la situation bien sûre, il n'y a depuis qu'il s'agissait de 9.9, suivant la réunion et on le conclurera... Je vous tiendrai au courant plutôt que jamais des nouvelles du marché. Paris, Constantin Jean sont très bien. Rien à signaler des prix courants et marchés. Très cher Maurice, Je prendrai part à écrire ci-joint et vous avoir plus de détails dès le passage à Kinshasa. J'espère croire vous très bien cette semaine. Sans plus, avec la nouvelle, parce mais entre nous part, ici la marché continue à être mauvais et la santé, ne faut pas se plaindre. On verra ce qu'il y a, je n'ai rien à faire dans ce moment. Attend qu'il arrive la situation.",
+  "language": "fr",
+  "Translation_to_English": "Maurice Salomon, Note that you will go see him and you will give me an account of your conversation. I have received your letters. Note that you have delivered and cashed in the 5000 boxes of oranges. Currently, there are none ordered. If they say there are, go to the warehouse, but during the week, they will bring them back to you or send them. There is no news yet on the market or surrounding areas. In Kinshasa, as we will be shipping as in the past, all the boxes already packed, and then they give the quantity. According to my calculations, it appears the situation is safe; since it concerned 9.9, according to the meeting, and we will conclude it... I will keep you updated sooner rather than later about market news. Paris, Constantin Jean are doing very well. Nothing to report about current prices and markets. My dear Maurice, I will be writing as soon as possible and will give you more details after the trip to Kinshasa. I hope to believe you are very well this week. Nothing further, with the news, because between us, here the market continues to be bad and health, there is nothing to complain about. We will see what happens, I have nothing else to do at the moment. Waiting for the situation to happen.",
+  "date": ""
+}
+```

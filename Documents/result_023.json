@@ -1,0 +1,29 @@
+Here is the extracted text from the image, structured as a JSON object according to your schema and requirements. The extraction is based on the best possible reading of the handwriting:
+
+```json
+{
+  "Persons": [
+    "Maurice Nahum",
+    "Samuel Raphael Laboun",
+    "Hassan Sharif",
+    "Hussein Sami",
+    "Amin Abdel Fattah",
+    "Mikhaïl"
+  ],
+  "Places": [
+    "Vente Cuba"
+  ],
+  "companies": [],
+  "commodities": [
+    { "name": "Ticket", "date": "", "price": "" },
+    { "name": "Fauche (for 10 kg)", "date": "", "price": "" },
+    { "name": "Bas plat", "date": "", "price": "36 L" },
+    { "name": "Ch.", "date": "14/6", "price": "25" },
+    { "name": "SHOP", "date": "", "price": "25" }
+  ],
+  "extracted_text": "Maurice Nahum. Ce n'est pas un bon, en cas que je le vera je lui dirai de passer vous rendre visite.\nSamuel Raphael Laboun. Je vous ai écrit le mois à ce sujet et j'attends. Nous lirons au sujet des Bourses des Tabacs. \nLéon vous écrira ce soir au sujet d'une commande de Hassan Sharif. \nHussein Sami. Rien le ticket et la fauche pour les 50 kg. Bas plat auront 36 L et pas que ce le receher rendent.\nAmin Abdel Fattah. Rien la fauche pour les 10 kg. Gilet en cool. 252 continuer dans la caisse de Hussein Sami et on signera le recensement. Hussein Sami. Je lui ai vendu et vous prie de m'espérer. \n1406 25 fr. Ch. ajour SHOP c. 25-\nMonsieur Mikhaïl. Il doit payer pour le canot cu. the 18/20 que vous aurez reçu à 12/20. La fois, vous sort de la douane la dite caisse.\nMarché: Comme vous voyez par mes ventes, que le marché est toujours calme et rien n'y ai que à attendre une amélioration... Je ne vois pas de fauche de 'Vente Cuba' en sortie, y-a-t-il une raison?\nSans autre pour ce... Bons amitiés.",
+  "language": "fr",
+  "Translation_to_English": "Maurice Nahum. This is not a voucher, in case I see him I will tell him to visit you. Samuel Raphael Laboun. I wrote to you last month about this and I am waiting. We will read about the Tobacco Stock Exchanges. Léon will write to you tonight regarding an order from Hassan Sharif. Hussein Sami. Nothing about the ticket and the harvesting for the 50 kg. Flat pieces will have 36 L and not more if they give them back. Amin Abdel Fattah. Nothing about the harvesting for the 10 kg. Vest in cool. 252 continue in the box of Hussein Sami and we will sign the census. Hussein Sami. I sold it to him and kindly ask you to wait for me. 1406 25 francs each for SHOP c. 25- Mr. Mikhaïl. He must pay for the canoe cu. the 18/20 that you will have received at 12/20. The time, you take the said box out of customs. Market: As you see from my sales, the market is still quiet and there is nothing to do but wait for an improvement... I do not see any sale from 'Vente Cuba' leaving, is there a reason? Nothing more for now... Best regards.",
+  "date": ""
+}
+```

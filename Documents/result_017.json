@@ -1,0 +1,33 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Khayat"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Compis Casses (possibly a commodity or goods name, context unclear)",
+      "date": "19 June 1936",
+      "price": "70000"
+    }
+  ],
+  "extracted_text": "Alexandrie Rue de l’Eglise Maronite, No 1 TELEPH. 44.46 C.C.I.: No. 225 Adresse Télégraphique “BEHNA-ALEXANDRIE” Rachid Behna NÉGOCIANT 20 JUIN 1936 LE CAIRE Rue Neuve, No 4 TELEPH. No 50-723 P.120 Adresse Télégraphique ‘JANINE-LE CAIRE’ Le Caire, Alexandrie le 19 Juin 1936. Très Cher Frère, Votre Blé en date d’hier. Compis Casses etc. J’ai reçu un reçu sur la B.O. de la somme de 70000 aujourd’hui remis par J. Khayat. J’y ai joint cours mon chèque. Très sincèrement j’aurais mis la lettre arabe de Lakl… Fait à et faire voir à M. Monsieur et lever à l’original du reçu, mais en lui répondant qu’il la caf, j’ai rentré. Hier soir, je reçois de lui “Téléphone” me mentionnant l’avis. Suit un léger doute de voyage, mais ainsi m’a téléphoné. Je vous écris sous la foi de la lettre de l’OB. Le contenu de la lettre qui vous lui ont excepté concernant les arrivés du chariot. J’espère que vous viendrez demain une copie lettre. Vous admirant les remises du jour. Je serai encore ainsi que les criminels. Ce sera par la B.O. demain. Avec les remerciements les plus sincères.",
+  "language": "fr",
+  "Translation_to_English": "Alexandria, Rue de l’Eglise Maronite, No 1 PHONE. 44.46 C.C.I.: No. 225 Telegraph Address “BEHNA-ALEXANDRIE” Rachid Behna MERCHANT 20 JUNE 1936 CAIRO Rue Neuve, No 4 PHONE. No 50-723 P.120 Telegraph Address ‘JANINE-LE CAIRE’ Cairo, Alexandria 19 June 1936. My dear brother, Your wheat dated yesterday. Compis Casses etc. I have received a receipt on the B.O. for the sum of 70000 today given by J. Khayat. I have attached my check. Sincerely, I would have added the Arabic letter of Lakl… Made it to and to show to Mr. Monsieur and raise it to the original receipt, but by replying to him I informed the cashier, I paid it back. Last night, I received a 'telephone' from him mentioning the notice. There is a slight doubt about the trip, but he telephoned me. I am writing to you under the faith of the letter from the O.B. The content of the letter he sent you except concerning the arrivals of the cart. I hope you will send tomorrow a copy of the letter. Admiring you for the day's remittances. I will be the same as the criminals. It will be by the B.O. tomorrow. With my most sincere thanks.",
+  "date": "19 June 1936"
+}
+```
+
+Notes:
+
+- The handwriting and some words are challenging to decipher; ambiguous or unclear words are given as closely as possible.
+- The commodity is not entirely clear from context, but “Compis Casses” and a sum of 70000 are mentioned—adjust as more context is clarified.
+- “B.O.” may refer to a financial or postal office, but is preserved as in the original text.
+- All proper names, places, and organizations have been written out fully as you requested.

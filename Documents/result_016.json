@@ -1,0 +1,28 @@
+```json
+{
+  "Persons": [],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "rice",
+      "date": "22 June 1935",
+      "price": "100 Egyptian Pounds"
+    }
+  ],
+  "extracted_text": "راكيد  بهنا\nنجشيون\nALEXANDRIE\nRue de l’Eglise Maronite, N°1\nTELÉPH. 44-410\nAdresse Telégraphique\n\"BEHNA, ALEXANDRIE\"\nLE CAIRE\nRue Neuve, N° 49\nTELÉPH. N° 50-723\nB.P. 120\nAdresse Telégraphique\n\"ANNEX B.LE CAIRE\"\nAlexandrie, le __ 193__\n22 Juin 1935\nحضرة حضرة يحيى باشا رشدي\nبعد التحية و الاحترام نحيطكم علماً باننا وصلنا من ميناءكم طن من ارز المستورد من الخارج و تبين لنا عند الفحص ان الارز غير مطابق للمواصفات المتفق عليها و انه مكسور بنسبة عالية، للرجاء الافادة عن رغبتكم بارساله اليكم او بيعه في السوق المحلي، مع العلم ان اسعار السوق الحالي مائة جنيه مصري فقط، ننتظر جوابكم السريع بهذا الخصوص مع الشكر الجزيل لتسهيل واعتماد الطلب.\nوتفضلوا بقبول فائق الاحترام\nراكيد  بهنا و شركاؤه",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna\nTrader\nALEXANDRIA\nRue de l’Eglise Maronite, No. 1\nTelephone: 44-410\nTelegraph Address:\n\"BEHNA, ALEXANDRIA\"\nCAIRO\nRue Neuve, No. 49\nTelephone No. 50-723\nP.O. Box 120\nTelegraph Address\n\"ANNEX B. LE CAIRE\"\nAlexandria, the __ 193__\n22 June 1935\nTo Mr. Yehia Pasha Roshdy,\nAfter greetings and respect, we inform you that we have received from your port one ton of imported rice, and upon inspection we found that the rice does not match the agreed-upon specifications and is broken at a high rate. Please advise whether you wish for us to return it to you or sell it in the local market. Please note that the current market price is only one hundred Egyptian Pounds. We await your prompt response on this matter, with many thanks for your facilitation and approval of the request.\nSincerely,\nRachid Behna & Partners",
+  "date": "22 June 1935"
+}
+```
+**Notes:**
+- The schema is respected.
+- Commodities are inferred from the context ("ton of imported rice").
+- Places, companies, date, and content are fully extracted and translated as per your request.
+- All Arabic attribute values (except "extracted_text") are translated into English.

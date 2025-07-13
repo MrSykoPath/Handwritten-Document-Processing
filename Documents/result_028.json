@@ -1,0 +1,35 @@
+Here is the extracted text from the image, structured in the required JSON format:
+
+```json
+{
+  "Persons": [
+    "Ahmed Abdel Baki"
+  ],
+  "Places": [],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Glacé content",
+      "date": "",
+      "price": "362, 365"
+    },
+    {
+      "name": "Baz Fel. Marron",
+      "date": "",
+      "price": "365, 14"
+    }
+  ],
+  "extracted_text": "Marché: Encore calme et Victor et Doris m'écrient qu'e même des articles d'utilisation locale sont très peu demandés, la situation générale est mauvaise, et surtout que la crainte conçue par la mauvaise répartition, assure un chômage moins bon pour pouvoir repartir. Ahmed Abdel Baki: J'en ai à vendre et vous prie de ce recevoir. 10 f. glacé cont. env. 362 à 365. Hussein Sam: Ne suis en retard et vous prie de me retarder. 50 f. Baz. Fel. marron 365 à 14. Sans autre forme aujourd'hui.",
+  "language": "fr",
+  "Translation_to_English": "Market: Still calm and Victor and Doris write to me that even items for local use are in very low demand, the overall situation is bad, and especially that the concern caused by the poor distribution ensures less favorable unemployment for being able to start again. Ahmed Abdel Baki: I have some to sell and ask you to accept this. 10 f. glace content about 362 to 365. Hussein Sam: I am not late and ask you to delay me. 50 f. Baz. Fel. marron 365 to 14. Nothing else for today.",
+  "date": ""
+}
+```
+
+### Notes on extraction:
+- The date is not explicitly found in the text.
+- All person, company, and commodity names are written in full.
+- Transcriptions and translations are as accurate as possible given the handwriting and context.
+- The full text is retained verbatim in both French and translated into English.

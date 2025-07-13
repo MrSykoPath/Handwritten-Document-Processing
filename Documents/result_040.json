@@ -1,0 +1,38 @@
+Here is the extracted text in a structured JSON format according to your schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "M. Rahmani",
+    "Abdell Bahi Lemuel"
+  ],
+  "Places": [
+    "Tizi-Ouzou"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Faiences Japon",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "Poches de Tizi-Ouzou",
+      "date": "23 juin",
+      "price": ""
+    },
+    {
+      "name": "Fischbock",
+      "date": "",
+      "price": "58 fr"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nCher ami, ... Vous me dites et répétez que le gouvernement Algérien n'augmentera pas, alors, ne faut de mettre en marche ce four. Je vous ai écrit hier au sujet de M. Rahmani, c'est à fendre vous hier.\nFaïences Japon. Voici ce a baton que vient arrivé. Il y est, c'est très bien. Encore et nous avons 2 et 8400 et de la 1000 faïences 18 1/2. Dites ce prix en oeuvre, suffit. Retournez chez ch. pour la annexe et Abdell Bahi Lemuel.\nVoici une vous avec les poches de Tizi-Ouzou. Un envoi le 23 juin et nous avons 4 caisse ch. 841. J'attends les pièces contant à votre convenance.\nTrousseau Noir. Rien? Ticket et la poche pour les JSC, gelée 805. Ticket 841, 806. Envain du pour les 261 gelées 696 et ajoutez la recemment!\nLouis 1er Mouzaïa. Repondu au second tirage. Achat d'une chaleur à revenir, c'est un marché mort rien. Et les encaissements sont encore avoir. Fini demain. Vous envoyez 58 fr. encaissement la toute la semaine.\nFischbock. J'ai aidé. Je remets la copie lettre pour faire une enquête à Tizi-Ouzou, un angle de seuil de la partie entre dans la cuisine. Alors il doit avoir celles sont grand frais n'était pas tué, mais, etc. ce ne va pas rien plus.",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\nDear friend, ... You tell me and repeat that the Algerian government will not increase, so do not start up this kiln. I wrote to you yesterday about Mr. Rahmani, I expected you yesterday.\nJapanese faience. Here is a shipment that has arrived. It is here, it is very good. Again, we have 2 and 8400 and from the 1000 faience 18 1/2. Tell me if this price for the work is enough. Return to ch. for the annex and Abdell Bahi Lemuel.\nHere is one for you with the pouches from Tizi-Ouzou. A shipment on June 23 and we have 4 crates ch. 841. I am waiting for the pieces payable at your convenience.\nBlack trousseau. Nothing? Ticket and the pouch for the JSC, jelly 805. Ticket 841, 806. Send more for the 261 jelly 696 and add it recently!\nLouis 1st Mouzaïa. Replied to the second drawing. Purchase of a heat to be delivered, it is a dead market, nothing. And the payments are still to be received. Finished tomorrow. You send 58 francs. Payment throughout the week.\nFischbock. I helped. I am sending the copy letter to conduct an inquiry to Tizi-Ouzou, a corner of the threshold of the part going into the kitchen. So he should have those, they are big expenses if not killed, but, etc. it will not be nothing more.",
+  "date": "23 June"
+}
+```
+
+Let me know if you need adjustments or further details!

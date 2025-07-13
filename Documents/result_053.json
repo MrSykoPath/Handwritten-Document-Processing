@@ -1,0 +1,33 @@
+Certainly! Here's the structured JSON, extracted from the handwritten French document, following your schema:
+
+```json
+{
+  "Persons": [
+    "Hama Hamaoui",
+    "Kabrane Ali",
+    "M. Tambour",
+    "Hussein Laou",
+    "Stoie Durek",
+    "Ahmed Abdel Bak",
+    "Leitouni Frères"
+  ],
+  "Places": [
+    "Larda",
+    "Rivière"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Gilet",
+      "date": "26.5.23",
+      "price": "840.50 c. 66"
+    }
+  ],
+  "extracted_text": "Il y a un reste au Hama Hamaoui qui préfere d'en vendre les restes au courant de cette semaine. Encaissements. J'espere vous envoyer demain la facture Kabrane Ali ou encaisser aujourd'hui de Samuel M. Tambour... qui a promis à Larda de nous donner la réponse demain pour les douzaines de fabrics... Hussein Laou: Rien à Kiskes et la fiche pour les 50 gilets est 701 ou 302 et en firmant le recu respectivement. Stoie Durek: Mot que vous n'avez pas de l'idée de lui vendre les gilets 7-12 ou non! 840.21. Nous ne le savons pas franchement, mais quel est notre stock, c'est qui est important de precisé et d'appendre. Leur colis arrivé le 26.5.23 s'il y avait à Ch. excedentaire suivant les bordereaux de la douane ou bien c'était une erreur dans la défecté? Ahmed Abdel Bak: J'ai à vendre à Rivière et veuille un note avec engagement 750 f. ainsi correct 344 C. 7. Leitouni Frères: Ils leur ont vendu et vous priez de m'expédier 25 f. gilet 9-12 ou 840/550 c.66. Les autres font emporté un avoir et travaux calmé par monsieur.",
+  "language": "fr",
+  "Translation_to_English": "There is a remainder at Hama Hamaoui who prefers to sell the rest during this week. Receipts. I hope to send you tomorrow the Kabrane Ali invoice or receipt today from Samuel M. Tambour... who promised to give us an answer tomorrow for the dozens of fabrics in Larda... Hussein Laou: Nothing in Kiskes and the record for the 50 vests is 701 or 302 and by signing the receipt respectively. Stoie Durek: Note that you do not have the idea of selling the vests 7-12 or not! 840.21. We frankly do not know, but what is our stock, that is what is important to specify and learn. Their package arrived on 26.5.23 if there was in Ch. surplus following the customs forms or was it a mistake in the defective? Ahmed Abdel Bak: I have for sale at Rivière and want a note with commitment 750 f. thus corrected 344 C. 7. Leitouni Frères: They sold to them and ask you to send me 25 vests 9-12 or 840/550 c.66. Others will take a credit and work calmly said sir.",
+  "date": "26.5.23"
+}
+```
+
+If you need further clarifications or the JSON in a more detailed breakdown (for instance, per each line or with more commodities), just let me know!

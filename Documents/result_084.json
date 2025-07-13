@@ -1,0 +1,29 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "J. Mizyani",
+    "Laki",
+    "Samuel Joseph Saloum"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Mamanah"
+  ],
+  "companies": [
+    "Rachid Behna Négociant"
+  ],
+  "commodities": [
+    {
+      "name": "Gold",
+      "date": "1936-05-25",
+      "price": "1400"
+    }
+  ],
+  "extracted_text": "Rachid Behna NÉGOCIANT ALEXANDRIE Rue de l'Eglise Maronite, No 1 TÉLÉPH. 44-40 No. 2278 Adresse Télégraphique: \"BEHNA-ALEXANDRIE\" LE CAIRE Rue Neuve, N°49 TÉLÉPH. N. 50-273 B.P. 120 Adresse Télégraphique. \"ANHEB-LE CAIRE\" P. L. 9-MAI-1936 / (P. T.) B. Meradith No. 364 LeCaire No. 10430 LeCaire Alexandrie, le 25 Mai 1936. B.P. 1919 Mes chers Frères, Votre lettre en date d’hier. En fait un reçu au la P.O. de la somme de 1400.- encaissément reçu par J. Mizyani. Reçu la copie de la lettre que vous lui avez envoyée, et je n’ai pas d’occasion de m’en causer au sujet du stock ou balance. Laki a été ce matin au magasin et son enveloppe. Lui a dit qu’il n’est pas rentré des villages et qu’il a couché à Mamanah, et il ne lui a pas laissé de l’argent. J’ai passé deux noms sur le livre des encaissements. Laisse que la personne ouvrant la lettre parle de Laki. J’espère que demain j’aurai de ses nouvelles, ainsi que le montant qu’il a encaissé le restant de la semaine. Samuel Joseph Saloum. Rien d’intéressant et l’incident sur les 3 halles, et demain sans faute il devrai payer le Gold...",
+  "language": "fr",
+  "Translation_to_English": "Rachid Behna TRADER ALEXANDRIA Rue de l'Eglise Maronite, No 1 PHONE 44-40 No. 2278 Telegraphic Address: “BEHNA-ALEXANDRIA” CAIRO Rue Neuve, No 49 PHONE No. 50-273 B.P. 120 Telegraphic Address. “ANHEB-CAIRO” P.L. 9-MAY-1936 / (P.T.) B. Meradith No. 364 LeCaire No. 10430 LeCaire Alexandria, May 25, 1936. B.P. 1919 My dear Brothers, Your letter dated yesterday. In fact, a receipt at the P.O. for the sum of 1400.- payment received by J. Mizyani. Received the copy of the letter you sent him; I have not had the chance to talk about the stock or balance. Laki was at the warehouse this morning and his envelope. He said that he did not return from the villages and slept at Mamanah, and he was not given any money. I wrote down two names in the receipts book. Let the person opening the letter talk about Laki. I hope tomorrow I will have news from him, as well as the amount he collected for the remainder of the week. Samuel Joseph Saloum. Nothing interesting regarding the thing about the 3 halls, and tomorrow without fail he should pay for the gold...",
+  "date": "1936-05-25"
+}
+```

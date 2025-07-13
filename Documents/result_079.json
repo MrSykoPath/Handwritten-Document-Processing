@@ -1,0 +1,12 @@
+```json
+{
+  "Persons": ["Youssef Rizkallah", "Rachid Behna"],
+  "Places": ["Alexandria", "Cairo", "Rue de l’Eglise Maronite", "Rue Neuve"],
+  "companies": ["Rachid Behna"],
+  "commodities": [],
+  "extracted_text": "حضرة صاحب العزة المحترم \nتحية واحترام، نبقركم بأننا أرسلنا بطاقة على يد يوسف رزق الله يوم أمس، وقد علمنا اليوم أن الكمبيالة وصلت من حضراتكم. \nونحيطكم علمًا أن الكمبيالة لم تسلم لأن شقيقنا الموجود في المستودع لم يحضر أمس. وقيدنا الكمبيالة اللازمة سنكونها لمحاسبتكم. \nوتفضلوا بقبول وافر الاحترام، \nرشيد بهنا",
+  "language": "ar",
+  "Translation_to_English": "To the esteemed recipient,\nGreetings and regards, we inform you that we have sent a card by hand with Youssef Rizkallah yesterday, and we learned today that the bill of exchange has arrived from you. Please note that the bill of exchange was not delivered because our brother, who is present at the warehouse, was not there yesterday. We have registered the necessary bill of exchange and will settle it with your account.\nPlease accept our utmost respect.\nRachid Behna",
+  "date": "31 May 1936"
+}
+```

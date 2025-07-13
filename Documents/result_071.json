@@ -1,0 +1,42 @@
+Here is the extracted information in the requested structured JSON format:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "G. A. Gaillard"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "fourn",
+      "date": "13.5.36",
+      "price": "750"
+    },
+    {
+      "name": "fourn",
+      "date": "19.5.36",
+      "price": "2400"
+    },
+    {
+      "name": "fourn",
+      "date": "",
+      "price": "94.5"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nSalut! Ca va + tard. Ici, rien, mais G. A. Gaillard m’a tranquillisé, car je le dis de faire, nous avons accorde, etc. Malgré, il me dit qu’il ne faut pas être méfiant, et que pour calmer, Gallabat, sur le chabash[?] un amiieir de Ami, va ce cet soir il a peur du cour, mais grâce à tien mon cour est bon. Illahat sont très bien avec vous bonne amitié. J. Farsh. Bis, faut un effort de 3055.5 fourn Régulièrement comme suit\nFacture 13.5.36 750.- Facture 19.5.36 2400.- 3150 94.5 3055.5\nVeuillez adresser, réception: Eugène Michelat, Il sera à Vendue et bien prié de s’en occuper 26 ky. guits 2 am. oust. 750 à 42.- Latoumi Louis! Il leur ai vendredi et viens près de voir en sortant\n1 en Ch. Blume 2420 à 10.-",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\nHello! A bit late. Here, nothing, but G. A. Gaillard reassured me, because I told him to do it, we agreed, etc. Despite everything, he tells me that one should not be suspicious, and that to calm Gallabat, on the chabash[?], a friend of Ami, will this evening, he is afraid of heart, but thanks to you my heart is good. Illahat are very good with you, best regards. J. Farsh. P.S., an effort is needed of 3055.5 furn regularly as follows\nInvoice 13.5.36 750.- Invoice 19.5.36 2400.- 3150 94.5 3055.5\nPlease address, receipt: Eugène Michelat, He will be at Vendue and kindly asked to take care of it 26 ky. guits 2 am. west. 750 at 42.- Latoumi Louis! I told them Friday and I am coming to see as I leave.\n1 at Ch. Blume 2420 at 10.-",
+  "date": "1936-05-19"
+}
+```
+
+### Notes:
+
+- Some words (like “chabash”, “guits”) may be unclear or proper names, transcribed as faithfully as possible.
+- The “commodities” array contains line items identified by context in the invoice-like section.
+- The date of "1936-05-19" is inferred from the commodity section.
+- All values in the JSON are in English except for the original "extracted_text" as per your instructions.
+- No explicit companies or places (other than individual recipients / names) appear in the text.
+- Unclear handwriting portions were transcribed as best as possible.

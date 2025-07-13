@@ -1,0 +1,29 @@
+Here is the structured JSON according to your requested schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behnar"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behnar"
+  ],
+  "commodities": [
+    {
+      "name": "oranges",
+      "date": "8 June 1936",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Rachid Behnar\nNégociant\n6 Juin 1936\nAlexandrie\nBte de l'Eglise-Maronis, NE1\nTéléph. 44-460\nTél. 44-373\nAdresse Télégraphique:\n'BEHNA. ALEXANDRIE.'\nLe Caire\nRue Neuve, N° 49\nTél. PH. 50-723\nB.P.120\nAdresse Télégraphique. 'AMAL. CAIRE.'\nBaire\nL'Aventure de 8 Juin 1936.\nM. L. C.\nCher Louis Joise,\nAprès lettre, en train d'hier...\nLe départ. Je... les envois aussi doivent être... la lettre. Brève de Zeko.\nFekla là nous avons... 11h a... aujourd'hui à dit votre vers... 4790... demain à vous envoyer à K.O. 105... d'après... d'assez exactement et... Fabrique cabos olives. Alors que vous entrez et expédiez les 5000 boîtes oranges. Aujourd'hui, je vous ai transmis la commande suivante :\n5000 oranges à 40\n5000 olives à 18\nNotez ce que vous me dites au sujet de l'emballage intérieur du kit date du 27.3.36, etc. après celle dite des nouvelles stock ont été données à la fabrique où j'envie l'emballage et j'espère avoir reçu bientôt...",
+  "language": "fr",
+  "Translation_to_English": "Rachid Behnar\nMerchant\n6 June 1936\nAlexandria\nBox of the Church-Maronis, NE1\nPhone 44-460\nTel. 44-373\nTelegraphic address: 'BEHNA. ALEXANDRIA.'\nCairo\nNew Street, No. 49\nPhone 50-723\nP.O. Box 120\nTelegraphic address: 'AMAL. CAIRE.'\nBaire\nThe Adventure of 8 June 1936.\nM. L. C.\nDear Louis Joise,\nFollowing the letter, on yesterday’s train...\nThe departure. I... the shipments must also be... the letter. Brief from Zeko.\nFekla there we have... 11 a.m. today said your... 4790... tomorrow to be sent to you at K.O. 105... according to... quite accurately and... Manufacturing cabos olives. So when you come in and ship the 5000 boxes of oranges. Today, I sent you the following order:\n5000 oranges at 40\n5000 olives at 18\nNote what you tell me about the inner packaging of the kit dated 27.3.36, etc. after the said new stocks were given to the factory where I sent the packaging and I expect to receive soon...",
+  "date": "6 June 1936"
+}
+```
+
+Let me know if you need further details or another extraction!

@@ -1,0 +1,48 @@
+Here is the transcription and structured JSON according to your schema:
+
+**Extracted Text (French OCR and partial manual correction due to handwriting):**
+
+```
+Samuel Joseph Lehman. Note que demain je recevrai les 50 Kilos des prunes vivants vous disesovay. Faits prix de son arrivée pour m'éviter à ou vi il paye la note Facture à bien voir possible.
+
+Fabrique de l'Abou Medouar. À la fin de la lettre je vous écrirai pour la commande di demain. On je vais de leur téléphonie, mais il n'avait pas leur, passer la commande.
+G.H. Labat. Revu la copie de la lettre viens sur la copie de votre réponse est sans livret il m'a dit que, peut-être elle arrivera à pays. Nods l'effet de 760. Car c'est peuvent livret leur ce chitaine lundi matin. J'ai vu Leuvio, sur lequel ils mettront le nom tant qu'il veut. Peut-être ce soir auront que 2.30. Je conserverai lisez un colis diff comme en cas qui se le mura besoin
+Maurice Nahmias. J'ai aujourd'hui il n'est pas venu au Caire, je tâcherai de lui causer à la première occasion.
+G. H. Labat. Lui ai confirmé en cas qui son prix conseillé la cas du cup. conf. 391 c.t.
+G. Miklouho. Y lui ai aussi confirmé si ce a qui on plus conven. la cas. du cup. 391.
+Chalexioh. 800. J'attends il n'y extréktion à votre convenance..
+```
+
+---
+
+**Structured JSON Output:**
+
+```json
+{
+  "Persons": [
+    "Samuel Joseph Lehman",
+    "G.H. Labat",
+    "Maurice Nahmias",
+    "G. Miklouho"
+  ],
+  "Places": [
+    "Caire"
+  ],
+  "companies": [
+    "Fabrique de l'Abou Medouar"
+  ],
+  "commodities": [
+    {
+      "name": "prunes",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Samuel Joseph Lehman. Note que demain je recevrai les 50 Kilos des prunes vivants vous disesovay. Faits prix de son arrivée pour m'éviter à ou vi il paye la note Facture à bien voir possible.\n\nFabrique de l'Abou Medouar. À la fin de la lettre je vous écrirai pour la commande di demain. On je vais de leur téléphonie, mais il n'avait pas leur, passer la commande.\nG.H. Labat. Revu la copie de la lettre viens sur la copie de votre réponse est sans livret il m'a dit que, peut-être elle arrivera à pays. Nods l'effet de 760. Car c'est peuvent livret leur ce chitaine lundi matin. J'ai vu Leuvio, sur lequel ils mettront le nom tant qu'il veut. Peut-être ce soir auront que 2.30. Je conserverai lisez un colis diff comme en cas qui se le mura besoin\nMaurice Nahmias. J'ai aujourd'hui il n'est pas venu au Caire, je tâcherai de lui causer à la première occasion.\nG. H. Labat. Lui ai confirmé en cas qui son prix conseillé la cas du cup. conf. 391 c.t.\nG. Miklouho. Y lui ai aussi confirmé si ce a qui on plus conven. la cas. du cup. 391.\nChalexioh 800. J'attends il n'y extréktion à votre convenance..",
+  "language": "fr",
+  "Translation_to_English": "Samuel Joseph Lehman. Note that tomorrow I will receive the 50 kilos of fresh prunes you mentioned. Please set a price on arrival to avoid delay; he will pay the note/invoice as soon as possible.\n\nFactory of Abou Medouar. At the end of the letter, I will write to you about tomorrow's order. I tried to call them, but they had not yet placed the order.\nG.H. Labat. Reviewed the copy of the letter and your reply. He said she may arrive in the country. Result of 760. This could be delivered on Monday morning. I saw Leuvio, on whom they will put the name as he wishes. Perhaps tonight they will have only 2.30. I will keep a package in case you need it.\nMaurice Nahmias. Today he did not come to Cairo. I will try to speak to him at the first opportunity.\nG. H. Labat. I confirmed to him in case his counseling price is the one of case cup conf 391 c.t.\nG. Miklouho. I also confirmed to him if this is more suitable, case of cup 391.\nChalexioh 800. I am waiting as per your convenience.",
+  "date": ""
+}
+```
+
+Please note that some names and phrases are best approximations due to the challenging handwriting. Let me know if you want further edits or clarifications!

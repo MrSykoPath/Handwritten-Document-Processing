@@ -1,0 +1,38 @@
+Here is the extracted information structured in the required JSON schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "gest. enf. H.t. fruits",
+      "date": "20/1/28",
+      "price": "805f c 29.-"
+    },
+    {
+      "name": "m.c.d.",
+      "date": "19/128",
+      "price": "828f c 38.-"
+    },
+    {
+      "name": "m. l. c.",
+      "date": "",
+      "price": "841/555 c 86.-"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nGhazouin [Saur]. Je lui ai aussi [...] et vous prie de m’informer.\n1732 - 254 gest. enf. H.t. fruits 20/1/28 805 f c 29.-\n213 - 254 m.c.d. 19/128 828 f c 38.-\n1222-963 254 m. l. c. 841/555 c 86.-\nManche très faible, aucun avancement. Relalat d’amélioration, sans confiance en feux, car c’est vraiment allemand, pantintus et au bien arrange la situation.\nSous autres points ce soir:\nLouis Mouassel. Le 1er lot au jagun le dimanhe est le No: 78580 (78580)\n2e lot L1000 = 129170.-\n3e lot L500 = 102526.-\n4e lot L2500 = 135192.-\nJ’espère que vous avez un de ces numéros.",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\nGhazouin [Saur]. I have also [...] him and am asking you to inform me.\n1732 - 254 gest. enf. H.t. fruits 20/1/28 805 f at 29.-\n213 - 254 m.c.d. 19/128 828 f at 38.-\n1222-963 254 m. l. c. 841/555 at 86.-\nVery weak handling, no progress. Report of improvement, no confidence in the fires, because it is really German, pantintus and it really fixes the situation.\nOn other points tonight:\nLouis Mouassel. The 1st lot won on Sunday is the No: 78580 (78580)\n2nd lot L1000 = 129170.-\n3rd lot L500 = 102526.-\n4th lot L2500 = 135192.-\nI hope you have one of these numbers.",
+  "date": "20/1/28"
+}
+```
+
+**Notes:**
+- Some words might be unclear or misspelled due to handwriting, especially "Ghazouin [Saur]", "pantintus", and "Relalat". They are transcribed as best as possible.
+- All numbers, names of persons, and commodities are preserved and expanded fully as found.
+- Language detected is French.
+- Translation is provided for full context.

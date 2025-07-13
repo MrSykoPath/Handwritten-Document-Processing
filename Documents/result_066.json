@@ -1,0 +1,29 @@
+{
+  "Persons": [
+    "André Doret",
+    "Mikhaïl"
+  ],
+  "Places": [
+    "Société du Said",
+    "Soudan"
+  ],
+  "companies": [
+    "Société du Said"
+  ],
+  "commodities": [
+    {
+      "name": "children’s shoes",
+      "date": "unknown/around 1936",
+      "price": "746 to 840 francs per 34 pairs"
+    },
+    {
+      "name": "commodities for Soudan",
+      "date": "multiple dates, see details",
+      "price": "total 6749.5 francs"
+    }
+  ],
+  "extracted_text": "André Doret. Je lui ai confirmé par le précédent\narrivage qu'au fond on peut fournir dans à trois\ncaisses chaussures enfants env. : 746 à 840 fr. 34 p.\nSociété du Said. Note qu'ils descendront le\n15.6. pour discuter les prix et visiter d'autres\nmarchandises ici. J'espère qu'ils achèveront au\ngrand emportant.\nNotes. Il y a une roche qui traverse Mersariois qui\nest très difficile, mais j'espère finir à la percer\nles cpts-s.\nChaussures pour Soudan. Je suis d'avis de\nracheter des commandes 3000 ch. chaussures enf.\nElles 345. et riviere de L. 716 à 741 fr. en plus\nqu'ici la avons recevrons votre confirmation.\nEnvoyé Mikhaïl. Les fruits 3 expédié un montant\nTotal de 6749.5, solde ci-dessous des poches suivantes:\nTache 28.V.36 - 1025.\n     11.V.36 - 410.\n     19.V.36 - 2400.\n     26.V.36 - 704.\n     29.V.36 - 1990.\n     30.V.36 - 388.5\n     Bon à bord 6977.5\n     168.-\n     6749.5\nVeuillé en in accuse réception...",
+  "language": "fr",
+  "Translation_to_English": "André Doret. I confirmed to him by the previous shipment that, basically, we can supply, in three boxes, children's shoes about: 746 to 840 francs for 34 pairs. Société du Said. Note that they will come down on the 15th of June to discuss prices and view other goods here. I hope they will complete a large order.\nNotes: There is a rock crossing Mersariois which is very difficult, but I hope to finish drilling it through soon.\nShoes for Soudan: I am of the opinion to repurchase orders for 3000 children's shoes. They 345 and river of L. 716 to 741 francs in addition. Here, we will receive your confirmation.\nSent Mikhaïl. The fruit 3 shipped a total amount of 6749.5 francs, broken down as follows for the pockets:\nTask 28 May 36 - 1025.\n      11 May 36 - 410.\n      19 May 36 - 2400.\n      26 May 36 - 704.\n      29 May 36 - 1990.\n      30 May 36 - 388.5\n      Good on board 6977.5\n      168.\n      6749.5\nPlease acknowledge receipt...",
+  "date": "1936-05-28 to 1936-05-30"
+}

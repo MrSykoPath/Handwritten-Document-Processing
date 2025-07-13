@@ -1,0 +1,39 @@
+```json
+{
+  "Persons": [],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Samna",
+      "date": "5 June 1936",
+      "price": "25 piasters"
+    },
+    {
+      "name": "Lina cheese",
+      "date": "5 June 1936",
+      "price": "15 piasters"
+    },
+    {
+      "name": "Istambolli cheese",
+      "date": "5 June 1936",
+      "price": "10 piasters"
+    },
+    {
+      "name": "Kastal cheese",
+      "date": "5 June 1936",
+      "price": "10 piasters"
+    }
+  ],
+  "extracted_text": "حضرة الأفاضل شركة عبدالمسيح بشارة المحترم بعد التحية، نفيدكم بأننا شحنا بضاعة تحت سعيكم الكريم السمن و الجبن المطلوبين، و وصلنا بخصوص موضوع النيل ١ قفص طماطم رومية، عتدنا عليها نزيد على سعرها قيمة الصناديق المستوردة على زيادتها. الرجاء السؤال عن: رضا بشارة عبد المسيح: الوجود الموجود حاليا بالمدينة القديمة و باوردر تسلم في المدينة القديمة و لكم منا جزيل الشكر و التقدير. بكمال الود و الاحترام. أخوكم ر. بهنا. سامنا طلب منا ٢٥ بقزرة لنا بيضين ١٥ — استمبولى ١٠ — القشط.",
+  "language": "ar",
+  "Translation_to_English": "Esteemed gentlemen of the company of Abdel Massih Bishara, with respect, we inform you that we have shipped goods under your esteemed order, the requested ghee and cheeses have been sent. We have received concerning the Nile, 1 box of Roma tomatoes, and we have increased their price due to the cost of imported boxes. Please inquire about: Reda Bishara Abdel Massih, currently present in the old city and the order will be delivered in the old city. With our full respect and appreciation. Sincerely, R. Behna. Samna: we were asked for 25 piasters, Lina cheese: 15 piasters, Istambolli cheese: 10 piasters, Kastal cheese: 10 piasters.",
+  "date": "5 June 1936"
+}
+```
+Let me know if you need further details or adjustments!

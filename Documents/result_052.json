@@ -1,0 +1,34 @@
+Here is the extracted information in JSON format according to your schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "oranges",
+      "date": "8 June 1936",
+      "price": "10,000 francs"
+    },
+    {
+      "name": "wool",
+      "date": "8 June 1936",
+      "price": "5,000 francs"
+    }
+  ],
+  "extracted_text": "ALEXANDRIE\nRue de l’Eglise Maronite, N° 1\nTELEPH. 44-46\nAdresse Télégraphique:\n’BEHNA.ALEXANDRIE’\nRachid Behna\nNEGOCIANT\nLE CAIRE\n1 Rue Neuve, N° 49\nTELEPH. N° 50-723\nB.P. 1720\nAdresse Télégraphique:\n’ANHEB.LE CAIRE’\nAlexandrie, le 8 Juin 1936\nMes chers Frères,\nVotre lettre en date du 6 c.t.\nJ’ai passé les encaissements ainsi que la vôtre dans mon livre aussitôt la lettre arabe de Lake.\nJ’espère que vous avez reçu une lettre de bin depuis, détaillant tous les encaissements de la semaine et j’espère que vous avez reçu le reçu de la B.O. ainsi que le compte et ses précédements. J’espère que cette semaine sera mieux comme encaissements.\nFabrique Câbles Nelson. Demain vous recevrez la commande suivante:\n10.000 Oranges. f 198.\n5.000 Rougies. f 140.\nChaussettes pour Ramadan. Même nouvelle d’une augmentation des loyers et notre le prix que le Japon vous a écrit. Je trouve qu’ils sont chers, et voyez, là d’ici à 9.9 jours, il n’y aura pas d’augmentation. Je le confirmerai, et alors faut un peu d’assitement.",
+  "language": "fr",
+  "Translation_to_English": "ALEXANDRIA\nRue de l’Eglise Maronite, No. 1\nTELEPHONE 44-46\nTelegraphic Address:\n’BEHNA.ALEXANDRIE’\nRachid Behna\nTRADER\nCAIRO\n1 Rue Neuve, No. 49\nTELEPHONE No. 50-723\nP.O. 1720\nTelegraphic Address:\n’ANHEB.LE CAIRE’\nAlexandria, 8 June 1936\nMy dear brothers,\nYour letter dated the 6th current month.\nI have recorded the receipts as well as yours in my ledger as soon as the Arabic letter from Lake arrived.\nI hope you have received a letter from Bin since, detailing all the receipts for the week and I hope you have received the receipt from the B.O. as well as the account and its previous transactions. I hope this week will be better in terms of receipts.\nNelson Cables Factory. Tomorrow you will receive the following order:\n10,000 oranges. f 198.\n5,000 wool. f 140.\nSocks for Ramadan. Still no news of a rent increase and our price, which Japan wrote to you about. I find them too expensive, and look, from now to 9-9 days, there will be no increase. I will confirm, and for the rest, need a bit of persistence.",
+  "date": "8 June 1936"
+}
+```
+
+If you need further structuring of the entities or see any corrections needed, feel free to say!

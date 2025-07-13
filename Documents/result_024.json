@@ -1,0 +1,35 @@
+Certainly! Here is the extracted text presented in the required JSON schema. The handwritten text is in French, and the extracted companies, persons, places, commodities, and the translated text are given below. The names and values are fully written out per your instructions.
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "M. Mizyaki",
+    "Léon",
+    "Samuel",
+    "Ismael Saloum"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l’Eglise Maronite",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Bourse turque (Turkish Stock Exchange)",
+      "date": "19 June 1921",
+      "price": "Fr. 76000"
+    }
+  ],
+  "extracted_text": "ALEXANDRIE Rue de l’Eglise Maronite, N°1. TELEPH. 44-46 ... Rachid Behna NEGOCIANT ... LE CAIRE Rue Neuve, N° 49 TELEPH. 50-723 ... Alexandrie, le 19 Juin 1921 Mon cher Léon ... (Vous être en reste d’hier...) Bourse turque. Ce jour reçu sur la P.V.O. de la valeur de Fr 76000. surtout remis par M. Mizyaki ... J’ai passé sans avoir tiré les recouvrements. J’espère que tu perches suivant la lettre cacheée de Lale ... Lale a encaissé cet après-midi Fr 93 et selon nous les enverrai demain ... Il n’a pas pu voir M. Mizyaki, car il est en voyage et je t’écrirais à la fin de la lettre ... seulement que cela reprenne les encaissements depuis lors. Samuel Ismael Saloum. Il en vaut une importance pour les Viennois, ... il vient à nous et le client veut pour ses effets, il réussira à avoir 50 lots à Fr 182. ... Vendez la expédiez ... il a accepté plein. Voilà la perche Léon, c’est mon avis du moment. Salut et Prudence ...",
+  "language": "fr",
+  "Translation_to_English": "ALEXANDRIA Rue de l’Eglise Maronite, No. 1. TELEPHONE 44-46 ... Rachid Behna, MERCHANT ... CAIRO Rue Neuve, No. 49 TELEPHONE 50-723 ... Alexandria, 19 June 1921 My dear Léon, (You are in arrears from yesterday...) Turkish Stock Exchange. Today received on the P.V.O. the amount of Fr. 76000, especially handed over by Mr. Mizyaki ... I passed without having made the collections. I hope you will do the collections according to Lale's hidden letter ... Lale cashed it this afternoon Fr. 93 and according to us, will send it tomorrow ... He was not able to see Mr. Mizyaki, because he is traveling and I will write to you at the end of the letter ... only that the collections will resume from then. Samuel Ismael Saloum. It is worth some importance for the Viennese, ... he comes to us and the client wants for his effects, he will manage to get 50 lots at Fr. 182. ... Sell, send it ... he fully accepted. Here is the collection Léon, that is my current opinion. Regards and Prudence ...",
+  "date": "19 June 1921"
+}
+```
+
+If you need additional clarification or extracted names/entities in a different way, please let me know!

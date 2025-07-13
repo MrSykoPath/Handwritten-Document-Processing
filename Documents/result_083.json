@@ -1,0 +1,58 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Mahmoud Abdel Magid",
+    "Mohammed Abdel Magid",
+    "Ibrahim Heba El Din",
+    "Kamal Abdel Razek",
+    "Abdul Latif Al Azmi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l'Eglise Maronite",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Kharash crop purchases",
+      "date": "29 May 1936",
+      "price": "4000"
+    },
+    {
+      "name": "Kharash crop purchases",
+      "date": "29 May 1936",
+      "price": "1000"
+    },
+    {
+      "name": "Kharash crop purchases",
+      "date": "29 May 1936",
+      "price": "800"
+    },
+    {
+      "name": "Kharash crop purchases",
+      "date": "29 May 1936",
+      "price": "800"
+    },
+    {
+      "name": "Kharash crop purchases",
+      "date": "29 May 1936",
+      "price": "4000"
+    },
+    {
+      "name": "Kharash crop purchases commission",
+      "date": "29 May 1936",
+      "price": "200"
+    }
+  ],
+  "extracted_text": "رشيد بهنا\nنقوسيتيه\nالاسكندريه\nشارع الكنيسه المارونية رقم 1\nتلفون رقم 22378\nالعنوان البرقي: \"بهنا.الاسكندريه\"\nالقاهره\nشارع جديد رقم 49\nتلفون رقم 50723\nالعنوان البرقي: \"انهب.القاهره\"\n\nالاسكندريه في ...... 193..\n\n29 مايو 1936\n\nإسكندرية\n\nحضرة الأزام السيدين بنى المرحوم عبد المعطي النتيجة المحفوظة على صكوككم تحت الجنبل:\nوصلنا نخلصاً 1 أردب قمح سيادتا بحاجة منهم عبد المجيد، و وصلنا تورق على يد ترتيبة الزين رمضان و صمصام، و عند صور علي: المحصول حالتي عند مكتب سلام.\nو استلمنا في و طلبت ... الفول ولم يستلم لحد اليوم.\nفي اليوم طلبت المثبوت ووصلنا، أنه حصل الآتي:\n4000 × محمود عبد المجيد و دمتم\n1000 × محمد عبد المجيد\n800 × إبراهيم حبه الدين\n800 × كمال عبد الرازق\n4000 × عبد اللطيف العزمي\n200  × عمولة سيادتكم الكاملة حسب الاتفاق أي المجموع\n9800\nذلك\nتسليم لصدري وخالص\n\n11470\n41\n11944\n\nوتجد في صور اي والله سلمت لكم الكلفة السابقة سلمت\nمجدي مجاهدين. حيث لا شرف، والأهم تعلم عشرة أيام قادمة للكرديت\n\nسلامي لكم\nشكري للدنل أخبرتكم عما أفادته لكم السيد محمود ولو تصادف نفس اليوم يكون معروفاً فأطلب منه كتبه. جدي (بالدين)",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna\nMerchant\nAlexandria\nRue de l'Eglise Maronite No. 1\nTelephone No. 22378\nTelegraphic Address: 'Behna. Alexandria'\nCairo\nRue Neuve No. 49\nTelephone No. 50723\nTelegraphic Address: 'Anheb. Cairo'\n\nAlexandria, [...] 193..\n\n29 May 1936\n\nAlexandria\n\nTo the respected sons of the late Abdel-Mouti, as per the stock maintained on your title deed:\nWe have received in full: 1 ardeb of wheat delivered by Mahmoud Abdel Magid, and also received delivery by arrangement with Mr. Ramadan and Samsam, delivered to the office of Salam. We have also received delivery and requested fava beans but they have not been delivered to this day. Today I have requested confirmation and it was delivered, and the following occurred:\n4000 × Mahmoud Abdel Magid and associates\n1000 × Mohammed Abdel Magid\n800 × Ibrahim Heba El Din\n800 × Kamal Abdel Razek\n4000 × Abdul Latif Al Azmi\n200 × full commission as per agreement, making a total of\n9800\nSo\nDelivered to Sidery and settled\n\n11470\n41\n11944\n\nYou will find in the pictures as well that I have delivered the above amount to you earlier. Major thanks. Please note, the most important matter is in ten days for the credit.\n\nBest regards,\nMy regards to you. I have informed you what was provided by Mr. Mahmoud. If on the same day, it will be known; please request from him as soon as possible. Yours (in faith)",
+  "date": "29 May 1936"
+}
+```
+Let me know if you need adjustments or a more detailed commodity breakdown!

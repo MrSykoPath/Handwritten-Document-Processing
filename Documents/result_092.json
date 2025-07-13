@@ -1,0 +1,77 @@
+Here is the extracted text and the structured JSON output according to your schema:
+
+---
+
+### Extracted Text (French, with best effort due to handwriting):
+
+```
+Avant-hier, j’ai reçu vos communications le office de ce sujet.
+
+J’ai donné mon fil à A.B.L.O. à cet effet il attend, surtout sur M. Lam a accepté notre offre de 194.5.
+Fabrique Tabacs Melasse. Notez que la fabrique a reçu et livré les 20 kilos test. Aujourd’hui ils ont passé une commande de
+10.000 oranges à 18
+5.000 'brugge' à 140.
+Allalat vos viendra aussi. Ils passeront voir
+le bon commerçant. J’ai causé à Revelius pour des boîtes verts, et il me dit que ça ne marche pas, mais il fera d’en amener pour achever le provision simplement. Nous entrons dit-il dans la saison chaude et les melasse sont en diminution sur le marché, mais qu’il faut de son mieux pour maintenir la consommation. Allalat qui viendra.
+Hôtel Biz Loy Kassamie. C’est un autre département que ce Monsieur devait traité à cet et ce Monsieur lui a renvoyé, et aujourd’hui il voit à expliquer ce que vous avez demandé, avec quelques explications.
+```
+
+---
+
+### Translation to English:
+
+```
+The day before yesterday, I received your communications from the office on this subject.
+
+I gave my thread to A.B.L.O. for this purpose. He is waiting, especially since Mr. Lam accepted our offer of 194.5.
+Molasses Tobacco Factory. Note that the factory has received and delivered the 20 kilos test. Today they placed an order of
+10,000 oranges at 18
+5,000 'brugge' at 140.
+Allalat will also come. They will visit the good merchant. I spoke to Revelius for green boxes, and he told me that it does not work, but he will bring some to finish the provision simply. We are entering, he said, the hot season and the molasses are decreasing on the market, but he will do his best to maintain consumption. Allalat who will come.
+Hotel Biz Loy Kassamie. This is another department that this Gentleman was supposed to handle at this and this Gentleman sent him back, and today he will explain what you asked for, with some explanations.
+```
+
+---
+
+### Structured JSON Output
+
+```json
+{
+  "Persons": [
+    "Mr. Lam",
+    "Revelius"
+  ],
+  "Places": [
+    "Hotel Biz Loy Kassamie"
+  ],
+  "companies": [
+    "Molasses Tobacco Factory"
+  ],
+  "commodities": [
+    {
+      "name": "oranges",
+      "date": "",
+      "price": "18"
+    },
+    {
+      "name": "brugge",
+      "date": "",
+      "price": "140"
+    },
+    {
+      "name": "molasses",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Avant-hier, j’ai reçu vos communications le office de ce sujet.\n\nJ’ai donné mon fil à A.B.L.O. à cet effet il attend, surtout sur M. Lam a accepté notre offre de 194.5.\nFabrique Tabacs Melasse. Notez que la fabrique a reçu et livré les 20 kilos test. Aujourd’hui ils ont passé une commande de\n10.000 oranges à 18\n5.000 'brugge' à 140.\nAllalat vos viendra aussi. Ils passeront voir\nle bon commerçant. J’ai causé à Revelius pour des boîtes verts, et il me dit que ça ne marche pas, mais il fera d’en amener pour achever le provision simplement. Nous entrons dit-il dans la saison chaude et les melasse sont en diminution sur le marché, mais qu’il faut de son mieux pour maintenir la consommation. Allalat qui viendra.\nHôtel Biz Loy Kassamie. C’est un autre département que ce Monsieur devait traité à cet et ce Monsieur lui a renvoyé, et aujourd’hui il voit à expliquer ce que vous avez demandé, avec quelques explications.",
+  "language": "fr",
+  "Translation_to_English": "The day before yesterday, I received your communications from the office on this subject.\n\nI gave my thread to A.B.L.O. for this purpose. He is waiting, especially since Mr. Lam accepted our offer of 194.5.\nMolasses Tobacco Factory. Note that the factory has received and delivered the 20 kilos test. Today they placed an order of 10,000 oranges at 18 and 5,000 'brugge' at 140.\nAllalat will also come. They will visit the good merchant. I spoke to Revelius for green boxes, and he told me that it does not work, but he will bring some to finish the provision simply. We are entering, he said, the hot season and the molasses are decreasing on the market, but he will do his best to maintain consumption. Allalat who will come.\nHotel Biz Loy Kassamie. This is another department that this Gentleman was supposed to handle at this and this Gentleman sent him back, and today he will explain what you asked for, with some explanations.",
+  "date": ""
+}
+```
+
+Notes:
+- Some names and commodities ("brugge") may be partially guessed due to handwriting.
+- The date field is left empty as no clear date is specified in the text. You can fill it in if you have contextual information.
+- All company/person/place/commodity fields are in English, as requested.

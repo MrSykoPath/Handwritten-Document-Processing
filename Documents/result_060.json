@@ -1,0 +1,33 @@
+```json
+{
+  "Persons": [
+    "Mohamed Mahmoud Abdel Hadi",
+    "Yaqouta Ahmed Issa"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l'Eglise Maronie",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "cotton",
+      "date": "15 June 1936",
+      "price": "600 (uncertain of the currency based on the image)"
+    }
+  ],
+  "extracted_text": "رشيد بحنه\nتاجر\nالاسكندرية، شارع الكنيسة المارونية رقم 1\nالقاهرة، شارع نوفو رقم 49\nالاسكندرية في ١٥ يونيو ١٩٣٦\nعناية \nالسيد محمد محمود عبد الهادي\nياقوتة أحمد ساحة\nبعد التحية، نُرفق لكم حساب الحوالة الخاصة لحسابكم\n(600 ) .........\nنرجو التكرم بمعرفة ذلك.\nوتفضلوا بقبول فائق الاحترام.\nرشيد بهنه",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna\nMerchant\nAlexandria, Rue de l'Eglise Maronie No. 1\nCairo, Rue Neuve No. 49\nAlexandria, on 15 June 1936\nAttention:\nMr. Mohamed Mahmoud Abdel Hadi\nYaqouta Ahmed Issa\nGreetings, we attach the account of the transfer related to your account.\n(600)\nPlease kindly acknowledge receipt.\nWith highest respect,\nRachid Behna",
+  "date": "15 June 1936"
+}
+```
+
+**Notes:**
+- Some details (like the currency for the commodity) are not explicitly mentioned in the letter's text but could typically be inferred from the business context or additional documents.
+- All names and places are written in full without abbreviation as required.
+- The extracted text is provided verbatim in Arabic, while the JSON attribute values and translation are provided in English.

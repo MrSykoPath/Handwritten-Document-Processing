@@ -1,0 +1,37 @@
+Here is the extracted text and structured JSON output following your schema:
+
+```json
+{
+  "Persons": [
+    "Abdoun Abdon",
+    "Ahmed Abdel Boffal",
+    "Hussein Sain"
+  ],
+  "Places": [
+    "Commune de Cabes",
+    "Magoda",
+    "Paris"
+  ],
+  "companies": [
+    "Fabrique Cabes Melasse"
+  ],
+  "commodities": [
+    {
+      "name": "sugar",
+      "date": "20th August 1924",
+      "price": "87 fr/s"
+    }
+  ],
+  "extracted_text": "Hier pour la Commune de Cabes-Arhan à Co: J'ai eu des renseignements que c'est Bzhar qui est allé chez Ahmed Abdon, et il fait des Arabas, et des paquets de Magoda, mais puisque Abdon le garantit bien qu'aucune crainte, au contraire, il n'a fallu pas un marché. Note qu'ils vous ont retourné les effets acquis de la Balle Kwanfy. Ahmed Abdon. L'Inspecteur avit un vin et il m'a causé au sujet de la Fabrique de Cabes de Said, et notre avis nous leur avons écrit directement. S'il s'agit de vente au comptant c'est bon, cas contraire, rien si ce n'est pas garanti par Abdon. Aucun pellet traité en Paris d'Abdon, c'est probable... Fabrique Cabes Melasse. Note que Faris va se charger de demander les adresses pour les grossistes de la Haute Egypte. Ahmed Abdel Boffal. Reçu la facture pour les 20 p., quitt. 87 fr/s, en bois et on fera le recuivement. Hussein Sain. Reçu le cote grand tabacs ainsi que la facture pour les 25 et 27 août 1924 et ajouté l'assurance. Tu auras sous peu encore les adroits de Said? Marché. Delalat vu le commencement du Joun. Le marché s'améliore et surtout qu'il commence à faire bien chaud, ça c'est maintenant pour encasrer. Il faut les recueillir, maladie ou changement dans la autorisation.",
+  "language": "fr",
+  "Translation_to_English": "Yesterday for the Commune of Gabes-Arhan & Co: I got information that it is Bzhar who went to Ahmed Abdon's house, and he makes Arabas, and Magoda packages, but since Abdon guarantees it well there is nothing to fear, on the contrary, there was no need for a market. Note that they returned the effects acquired from the Kwanfy Ball. Ahmed Abdon. The inspector had a wine and spoke to me about the factory of Gabes of Said, and our opinion we wrote to them directly. If it's a cash sale that's good, otherwise, nothing if it's not guaranteed by Abdon. No batch processed in Paris by Abdon, it's probable... Gabes Molasses Factory. Note that Faris will take care of requesting addresses for wholesalers in Upper Egypt. Ahmed Abdel Boffal. Received the invoice for the 20 pcs, paid 87 francs, in wood and will do the receipt. Hussein Sain. Received the large tobacco sides as well as the invoice for the 25th and 27th of August 1924 and added the insurance. Will you soon have Said's addresses again? Market. Delalat saw the start of the Joun. The market is improving and above all, it is starting to get very hot, this is now for storage. They must be collected, disease or change in authorization.",
+  "date": "1924-08-25"
+}
+```
+
+### Notes on extraction:
+- Text is in French (fr).
+- Dates like "25 et 27 août 1924" interpreted as August 25th and 27th, 1924.
+- Currency “fr/s” is francs, old French currency.
+- All extracted names, places, companies, and commodities are written in full.
+- Translation is as accurate as possible given the handwritten style.

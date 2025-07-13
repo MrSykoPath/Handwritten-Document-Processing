@@ -1,0 +1,49 @@
+Here is the extracted and structured data according to your specified schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "J. Myriaki",
+    "Joseph Myriaki",
+    "Zaki",
+    "John Farag",
+    "Monsieur Hassan Khalil",
+    "Monsieur Kirigiliani"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Lot",
+      "date": "Lundi",
+      "price": "7500"
+    },
+    {
+      "name": "Fabrique Fabrio Mélars",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "Filtex Vert",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Alexandrie\nRue de l’Eglise Maronite, N°1\nTÉLÉPH. 44-46\nTéléphonie No. 22373\nAdresse Télégraphique: ‘BEHNA. ALEXANDRIE’\nRachid Behna\nNégociant\n2 MAI 1936\nLe Caire\nRue Neuve, N° 49\nTÉLÉPH. N° 50-723\nP.120\nAdresse Télégraphique: ‘ANHEB. LE CAIRE’\nAlexandrie, le 22 Mai 1936\nMon cher Fréro,\nVotre lettre en date d’hier.\nEmpl. caisse tu ajoutes un reçu sur la B.O. de la somme de 7,500 sommé reçu de J. Myriaki - Joseph Myriaki. J’ai passé dans mon livre les encaissements. Fais que les fichiers suivent la lettre Anita de Zaki. Justement, je viens de téléphoner, disant qu’il a encaissé 712285 et qu’il compte vous les envoyer demain avec le ordre qu’il détruit. J’espère qu’il vous écrira longuement, il a vendu oui. Il s’est arrêté chez John Farag et fils. Zaki est passé ici, etc, et ils m’ont dit qu’ils attendent notre signal pour acheter un lot. Ils m’ont promis pour Lundi un versement sur la propre Hassan Khalil.\nMonsieur Kirigiliani. Zaki a été deux fois aujourd’hui, mais il n’a pas trouvé, j’espère que demain il le trouvera et il encaissera le montant. Fabrique Fabrio Mélars. Ils m’ont commandé que du Filtex Vert, et ils m’ont dit qu’ils espèrent Lundi - commande une forte quantité.",
+  "language": "fr",
+  "Translation_to_English": "Alexandria\nRue de l’Eglise Maronite, No. 1\nTelephone 44-46\nTelephone No. 22373\nTelegraph Address: ‘BEHNA. ALEXANDRIA’\nRachid Behna\nMerchant\n2 May 1936\nCairo\nRue Neuve, No. 49\nTelephone No. 50-723\nP.120\nTelegraph Address: ‘ANHEB. CAIRO’\nAlexandria, 22 May 1936\nMy dear Brother,\nYour letter dated yesterday.\nCash receipt you add a receipt on the B.O. of the sum of 7,500 received from J. Myriaki - Joseph Myriaki. I have entered in my book the receipts. Make sure the files follow Anita’s letter from Zaki. Just now he called, saying he has cashed 712285 and intends to send them to you tomorrow with the order he destroys. I hope he writes you at length, he has sold, yes. He stopped at John Farag & Sons. Zaki passed by here, etc., and they told me they are waiting for our signal to buy a lot. They promised me for Monday a payment on Hassan Khalil's own account.\nMr. Kirigiliani. Zaki went twice today, but did not find him, I hope tomorrow he will find him and cash the amount. Fabrique Fabrio Mélars. They ordered from me only Green Filtex, and they told me they hope Monday - to place a large order.",
+  "date": "22 May 1936"
+}
+```
+
+**Notes:**  
+- All names and terms are written in full as per your request.
+- The extracted French text is presented unabridged.
+- Commodities section includes the most relevant trade items and transactions with associated detail if available.
+- The translation is faithful to the full content and sense of the original French document.

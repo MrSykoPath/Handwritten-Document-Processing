@@ -1,0 +1,26 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Mr. Georgesona"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Gilets",
+      "date": "",
+      "price": "50 fr. per dozen; 28 fr. in 1926 to 26 f.; 25 fr. in 1922 to 36 f."
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nNaturellement comme vous étiez venu, comme d'habitude, voir le marché des articles et il peut vraiment se donner pour n'a pas s'en faire. Comme d'habitude, grâce à Dinit je m'en sors. Chaboun, aucune affaire. J'ai plus attention avec les gorges... Le dimanche en général ne lui font pas envie, tous ces clients ne veulent rien acheter, et les rares répondent qu'ils veulent vendre et rien acheter. Voilà qu'à la fin, ils seront obligés à donner leur stock.\nHoria Douak. Ce Monsieur qui a tout l'air d'un français, 50 fr. gilets 2 m. env. 175 kc. 40. Je préfère attendre jusqu'à vendredi et voir s'il y aurait une augmentation...\nChaboun, pareil. Je lui ai vendu et nous finirons en entre temps.\n28 fr. gilet enfant 22 h à 26.-\n25 fr. idem 1922 à 36.-\nSans autre pour ce soir.\nBien à vous\nNB\nM. le Georgesona. Il passe la soirée d'hier avec moi. Je l'ai introduit à ABD. Que je passerai toujours Mr. Georgesona.",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\nNaturally, as you came, as usual, to see the market for goods, and he can really see that there is nothing to worry about. As usual, thanks to Dinit, I am managing. Chaboun, no business. I paid more attention to the throats... Sundays, in general, do not attract him, all these customers do not want to buy anything, and the few who answer say they want to sell and not buy. In the end, they will be forced to give away their stock.\nHoria Douak. This gentleman looks very much like a Frenchman. 50 francs per dozen vests, 2 meters approx., 175 kc., 40. I prefer to wait until Friday and see if there is an increase...\nChaboun, same. I sold him and we will finish in the meantime.\n28 francs, children's vest, 22 hours at 26.-\n25 francs, same, 1922, at 36.-\nNothing more for tonight.\nBest regards\nNB\nMr. Georgesona. He spent last night with me. I introduced him to ABD. I will always introduce Mr. Georgesona.",
+  "date": ""
+}
+```
+**Notes:**  
+- The handwriting is difficult to read in sections; some names or words may not be accurately recognized.  
+- No clear date is identifiable in the text.  
+- The commodities mentioned mainly refer to types of "gilets" (vests) and their prices across different years.  
+- No places or companies are explicitly referenced.

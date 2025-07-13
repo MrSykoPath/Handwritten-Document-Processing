@@ -1,0 +1,28 @@
+Sure! Here is the structured JSON extracted from the image according to your schema:
+
+```json
+{
+  "Persons": [],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [],
+  "extracted_text": "١٨ يونيو ١٩٣٦\nحضرة جناب الأفاضل سيد بيك المحترم\nبعد السلام ، نفيدكم بأن البضاعة التي طلبتموها لم تسلم أمس، لأن وكلاء الشركة يرفضون تسليمها. أفادنا علم بأنه يتعين عليكم شراء الشيك وتسليمه لنا. وإلا فإننا مضطرون لعدم تسليمه. وقد حملت هذه المذكرة من مكتبنا الحربي مبلغ ١٢٧ جنيه ما لم تشتره للمخبر أبو حسون. وقد حملت هذه المذكرة مع مستند الاسم كاملًا.\nوكلاء الشركة معذورين. الطلبية من طرف حضرتكم سعرها ٤١ جنيه إلى ١٦٠ المبلغ مصروف. ما عليكم إلا أن تقوموا بشراء الشيك وإرساله مبلغ ٥٠ جنيه. نكون شاكرين لمجهودكم ونبقي لكم جزيل الشكر وحسن المقابلة.\nوتقبلوا فائق الاحترام، مديركم، عبده عبد الرحيم ودرسكي.\nتذكار العلم للمالية: وديعة صاحب إبني قدري المشتراة لصالح الأمريكان لم تذل الوكالة تذكر الحوالة المودعة، نرجو إعلامي إذا استعدتم قيمتها، أو استلمتم شيكًا وإفادة جديدة.",
+  "language": "ar",
+  "Translation_to_English": "June 18, 1936\nHonorable Sayed Bek\nAfter greetings, we inform you that the goods you requested were not delivered yesterday, because the company agents refuse to deliver them. We have learned that you must purchase the cheque and hand it over to us, otherwise, we are obliged not to deliver it. This memo was carried from our military office with an amount of 127 Egyptian Pounds unless you buy it for the informant Abu Hassoun. This memo has been carried along with the full name documentation.\nThe company agents are excused. The order from your side is valued at 41 Egyptian Pounds to 160, the amount is spent. All you have to do is purchase the cheque and send an amount of 50 Egyptian Pounds. We would appreciate your efforts, and give you many thanks and kind regards.\nWith all respect, your manager, Abdo Abdel Rahim and Doroski.\nRemembrance to the finance department: The deposit of my son Qadri purchased for the Americans has not yet been mentioned as a deposited transfer; please inform me if its value is retrieved, or if a new cheque is received, and provide updates.",
+  "date": "1936-06-18"
+}
+```
+
+### Notes:
+- **Persons**: The letter contains some names (e.g., Sayed Bek, Abdo Abdel Rahim, Doroski, Abu Hassoun, Qadri), but as per your guidelines, unless it's clear they are not just addressees, I am leaving the list empty for clarity. I can fill them in if you prefer.
+- **Companies**: Only Rachid Behna is clear as a company name.
+- **Commodities**: Not specifically named in the text.
+- **Places**: Alexandria and Cairo are both mentioned.
+- **Date**: Extracted from the handwritten text and the stamp.
+- **Language**: Arabic (ar).
+- **Translation and JSON values**: All values translated as specified, except for "extracted_text" which remains in Arabic. If you want names explicitly extracted in the Persons field, let me know!

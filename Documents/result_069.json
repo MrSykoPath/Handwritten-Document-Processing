@@ -1,0 +1,40 @@
+Here is the extracted text from the image, structured in the requested JSON format:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l'Eglise Maronite",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "cotton",
+      "date": "2 June 1930",
+      "price": "2116.40"
+    },
+    {
+      "name": "cotton seeds",
+      "date": "2 June 1930",
+      "price": "not specified"
+    }
+  ],
+  "extracted_text": "Alexandrie\nRue de l’Eglise Maronite, No 1\nTéléph. 4460\nAdresse Télégraphique:\n\"BEHNA.ALEXANDRIE\"\nRachid Behna\nNégociant\nLe Caire\nRue Neuve, No 49\nTéléph. No 50-723\nAdresse Télégraphique:\n\"ARNES LE CAIRE\"\n\nAlexandrie le 2 Juin 1930\n\nMon cher Nessa,\n(Votre lettre en date d’hier)\nJoseph Mizrahi. Nous que nous avons reçu un billet avec un reçu de la B. d. de 17000 et qui n’était pas bon en argent, f. 2116.40. Rien là-dessus, est peut-être que vous ne l’avez reçu.\nLofti a encaissé au magasin 17000. Nous espérons vous envoyer demain. J'espère connaître votre désir que Behna achètera, avant encore que la semaine prochaine, au bruit que c’est pour commencer du mois et que le choix donnerait 2100. Il en causerait...\nsuivant Conseils Behna. Lofti a écrit de voir le Sr. S. M. Monsieur c'est un autre homme qui aura aussi encore des besoins de Coton. Mont l’achète, dit-il, et voudrais, je le meilleure et la qualité qu’il vous décrit. Veuillez dire si en Europe dans une boîte pour qu’il ça arrive en bon état.",
+  "language": "fr",
+  "Translation_to_English": "Alexandria\nRue de l'Eglise Maronite, No 1\nTelephone 4460\nTelegraphic Address:\n\"BEHNA.ALEXANDRIA\"\nRachid Behna\nMerchant\nCairo\nRue Neuve, No 49\nTelephone No 50-723\nTelegraphic Address:\n\"ARNES LE CAIRE\"\n\nAlexandria, 2 June 1930\n\nMy dear Nessa,\n(Your letter dated yesterday)\nJoseph Mizrahi. Note that we received a bill with a receipt from the Bank of 17,000 and which was not good in cash, £2116.40. Nothing about that, maybe you have not received it.\nLofti cashed 17,000 at the warehouse. We hope to send you tomorrow. I hope to know your wish that Behna will buy, possibly even before next week, judging by the rumor that this will begin at the start of the month and that the price will be £2100. He will discuss it...\nfollowing Behna's advice. Lofti wrote to see Mr. S. M. Sir, this is another man who will also still need Cotton. Mont is buying it, he said, and wants it, I am the best and the quality he describes to you. Please say if in Europe in a box so that it arrives in good condition.",
+  "date": "2 June 1930"
+}
+```
+
+**Notes:**
+- Extracted text is in French; all JSON attribute values (apart from `"extracted_text"`) are translated to English for compliance with your requirements.
+- The commodities and amounts referenced are based on context clues in the letter. Some values like the price for "cotton seeds" are not explicitly stated.
+- Names and places were deduced from letterheads and the body of the text.

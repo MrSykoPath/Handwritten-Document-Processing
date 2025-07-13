@@ -1,0 +1,71 @@
+Certainly! Here is the extraction and structuring according to your schema:
+
+---
+
+**Extracted Text:**
+```
+RACHID BEHNA
+
+Cliient Bachus Ouessaf., Depuis assez longtemps que je cours  
+derrière Khaouani pour dirait le compte. Sold de 2,950. mais  
+pas moyen qu’il ferme son compte par des effets, et il  
+est très inusaitfable et nous devons patienter.--  
+Déficit papier. Rien et mener.--  
+Sabat gros. Peu le ticket de grands vikose ainsi  
+que la facture pour les 7/9 Chinois caf. 894 et  
+diriger l’envoi convenant.  
+Les 7/9 sont en balles, 4 et 5 dont des 7/9 en feuilles  
+et 25 kgs. en ballots, il a pris seulement 22 balles  
+et 21 kgs. ballots et il m’a retourné 2 kgs. en ballot 4  
+feuilles. Manquez, mais 2 autres kgs. en ballot 45, forme parfait  
+la différence.  
+Note que vous allez sortir H. a de la Bredel à allalal  
+bon places.--  
+Zuccareusement. J’espère vous envoyer demain 27/7.  
+envoi semaine de la semaine.--  
+Isaac Latounsi. Je lui ai vendu et lui livreai  
+du baril et vous prie de m’envoyer la fiche pour.  
+1267 25 kgs. gelet 25 m. 886 c 45.--  
+Hanna Mancaian. Je lui ai vendu et vous  
+prie de répondre.  
+4913- 50 kgs. gelet depart 812 c F. Rouet
+```
+
+---
+
+**Structured JSON:**
+
+```json
+{
+  "Persons": [
+    "Bachus Ouessaf",
+    "Khaouani",
+    "Isaac Latounsi",
+    "Hanna Mancaian"
+  ],
+  "Places": [],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Chinois cafe",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "gelet",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\n\nCliient Bachus Ouessaf., Depuis assez longtemps que je cours  derrière Khaouani pour dirait le compte. Sold de 2,950. mais  pas moyen qu’il ferme son compte par des effets, et il  est très inusaitfable et nous devons patienter.--  Déficit papier. Rien et mener.--  Sabat gros. Peu le ticket de grands vikose ainsi  que la facture pour les 7/9 Chinois caf. 894 et  diriger l’envoi convenant.  Les 7/9 sont en balles, 4 et 5 dont des 7/9 en feuilles  et 25 kgs. en ballots, il a pris seulement 22 balles  et 21 kgs. ballots et il m’a retourné 2 kgs. en ballot 4  feuilles. Manquez, mais 2 autres kgs. en ballot 45, forme parfait  la différence.  Note que vous allez sortir H. a de la Bredel à allalal  bon places.--  Zuccareusement. J’espère vous envoyer demain 27/7.  envoi semaine de la semaine.--  Isaac Latounsi. Je lui ai vendu et lui livreai  du baril et vous prie de m’envoyer la fiche pour.  1267 25 kgs. gelet 25 m. 886 c 45.--  Hanna Mancaian. Je lui ai vendu et vous  prie de répondre.  4913- 50 kgs. gelet depart 812 c F. Rouet",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\n\nClient Bachus Ouessaf. For quite some time that I have been after Khaouani to settle the account. Balance of 2,950 but cannot get him to close his account with effects, and he is very unavailable and we need to be patient. --\nPaper deficit. Nothing to report. --\nLarge shipment. Few tickets of large viscose as well as the invoice for the 7/9 Chinese coffee, 894, and direct the proper shipment. The 7/9 are in bales, 4 and 5 are 7/9 in sheets and 25 kgs in packs, he only took 22 bales and 21 kgs in packs and returned me 2 kgs in 4-sheets packs. Missing, but 2 other kgs in 45-kgs packs, perfect shape, that's the difference. Note that you will issue H. from the Bredel to Allalal, good places.\nRegards, I hope to send you tomorrow 27/7, shipment at the end of the week.\nIsaac Latounsi. I sold to him and will deliver to him from the barrel; please send me the form for 1267, 25kgs gel, 25 metric, 886 at 45.\nHanna Mancaian. I sold to him and request you to reply. 4913 - 50kgs gel, departure 812 at F. Rouet.",
+  "date": "27/7"
+}
+```
+
+---
+
+If you need further details or a breakdown of more items from the image, please let me know!

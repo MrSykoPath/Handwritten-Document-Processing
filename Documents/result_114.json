@@ -1,0 +1,30 @@
+Here is the extracted information from the handwritten French document according to your schema:
+
+```json
+{
+  "Persons": [
+    "Jacques Direct",
+    "Maria Direct"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Gillette Sport",
+      "date": "",
+      "price": "22 à 30"
+    },
+    {
+      "name": "Gillette Sport",
+      "date": "",
+      "price": "29"
+    }
+  ],
+  "extracted_text": "Jacques Direct. Je lui ai vendu et je vous prie de m'en reprendre. 25% gillets sports 22 à 30.-\nMaria Direct. Il n'est jamais et en cas d'accident je lui livrerai de chez moi les 990 30%. Gillette Sport 22 à 29.- sans autres pour le cours. Bien bien passé une mois parfois cela expose qui est vraiment dérangeant. Allard",
+  "language": "fr",
+  "Translation_to_English": "Jacques Direct. I sold to him and I ask you to take some back from me. 25% Gillette Sport 22 to 30.-\nMaria Direct. He never came and in case of an accident I would deliver them from my home the 990 30%. Gillette Sport 22 to 29.- no others for the time being. Well well, sometimes a month passes when it is really inconvenient. Allard",
+  "date": ""
+}
+```
+
+Let me know if you need any refinement or further details!

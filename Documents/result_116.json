@@ -1,0 +1,30 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Muhammad Saeed Husni Awad",
+    "Muhammad Saeed Al-Khidr",
+    "Ibrahim Husni Awad",
+    "Basharet Ahmed Al-Sha'a",
+    "Saad Abu Dhaher"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Wheat",
+      "date": "15 May 1936",
+      "price": "7500"
+    }
+  ],
+  "extracted_text": "رشيد بهنا  تاجر ... اسكندرية. القاهرة  تلغراف  ١٥ مايو ١٩٣٦ صندوق البريد ١٩١٩  ١٦ ماي ١٩٣٦  ١٦ ماي ١٩٣٦  جناب المكرم السيد محمد الحسن أفندي سلامي بعد التحية نلفت عنايتكم إلى أنه على الرغم من اتصالنا عدة مرات بحضرتكم لم استلم جوابكم عن المبلغ الذي وصل لكم و أرسلنا صور باكونة تابعة لمصلحة السودان... و استلام البضاعة و قبض المبلغ ... راجين الأخير إرسال جوابكم لنراسل المستلم. عبد الفتاح: من الشرفاء سلامي على الحاضرين أما التفاصيل فهي كما يلي:   ١٥ ~ للحساب الارصدة  ١٠ ~ للحساب الجديد  رأس المبلغ.. و الباقي ١ من التحصيلات الأخيرة: محمد سعيد حسني عوض -- ٢٠٠٠  محمد سعيد الخضر -- ٤٠٠٠  إبراهيم حسني عوض -- ١٠٠٠  بشارة أحمد الشا -- ١٥٠٠  سعد أبو ظاهر -- ٢٠٠٠  ----------------  ٧٥٠٠  ٥٨ -- استكملت يونيني صكوك سنة ٨٥ والاجابة لاحقاً.  ٧٥٥٨.  وصلتنا اندبناغ ٥ ورقات و بقي سير الأمس.  بهنا",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna, merchant... Alexandria. Cairo. Telegraph. 15 May 1936. P.O. Box 1919. 16 May 1936. 16 May 1936. Dear respected Mr. Muhammad Al-Hassan Effendi, greetings. After greetings, we bring to your attention that although we have contacted you several times, we have not received your reply regarding the amount that has reached you. We have sent photos of a box belonging to the interest of Sudan... and the receipt of the goods and the collection of the amount... Please send your reply so we can correspond with the recipient. Abdel Fattah: Greetings from the honorable, greetings to those present. As for details, they are as follows: 15 for the account balances, 10 for the new account. The principal amount, and the rest is from the latest collections: Muhammad Saeed Husni Awad -- 2000, Muhammad Saeed Al-Khidr -- 4000, Ibrahim Husni Awad -- 1000, Basharet Ahmed Al-Sha'a -- 1500, Saad Abu Dhaher -- 2000, Total 7500. 58 - Completed Yunini bonds for the year 85 and answer to follow. 7558. We received Indbenagh 5 papers, and the remainder of yesterday's balance.",
+  "date": "15 May 1936"
+}
+```

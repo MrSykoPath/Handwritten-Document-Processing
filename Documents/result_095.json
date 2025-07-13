@@ -1,0 +1,40 @@
+Here is the extracted text from the image, presented in structured JSON format according to your schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Youssef Morcos"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Cotton",
+      "date": "1936-05-18",
+      "price": "50 Egyptian pounds"
+    }
+  ],
+  "extracted_text": "الإسكندرية في ١٤ مايو ١٩٣٦\nجناب الخواجة رشيد بك المحترم\nبعد التحية، نحيطكم علما بحصولنا اليوم على إيصال من حضرة يوسف مرقص بمبلغ ٥٠ جنيها مصريا، ثمن القطن الأبيض الذي أرسل إليكم بمعرفة المعلم الشفيع إلى المحلج يوم ١٨/٥/١٩٣٦، ويأتيكم مع هذه الرسالة الإيصال كما طلبتم. مع التحية والسلام.\nوحرر في ١٤ مايو ١٩٣٦\nرشيد بهنا\nنرجو إحاطة سعادتكم بذلك كما نرجو تسليم المبلغ المذكور أعلاه. \nتوقيع يوسف مرقص",
+  "language": "ar",
+  "Translation_to_English": "Alexandria, 14 May 1936\nDear Mr. Rachid Behna,\nAfter greetings, we inform you that today we have received a receipt from Mr. Youssef Morcos for the amount of 50 Egyptian pounds, the price of the white cotton that was sent to you by Al-Muallim Al-Shafie to the ginnery on 18/5/1936, and the receipt comes to you attached with this letter as you requested. With greetings and regards.\nWritten on 14 May 1936\nRachid Behna\nWe kindly request that you acknowledge receipt of this and pay the above-mentioned amount. Signed: Youssef Morcos.",
+  "date": "1936-05-14"
+}
+```
+
+### Explanation
+- **Persons**: Extracted the names mentioned in the letter (Rachid Behna, Youssef Morcos).
+- **Places**: Alexandria, Cairo (from the letterheads and content).
+- **companies**: Rachid Behna.
+- **commodities**: The letter refers to the sale of white cotton, with a date and value.
+- **extracted_text**: The full Arabic content from the letter is included.
+- **language**: Arabic (ar).
+- **Translation_to_English**: A full English translation of the Arabic text.
+- **date**: The date of the letter as written in Arabic (14 May 1936).
+
+If you would like a more detailed breakdown or another format, let me know!

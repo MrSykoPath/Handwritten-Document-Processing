@@ -1,0 +1,72 @@
+Here is the extracted text from the image and the structured JSON according to your schema:
+
+### Extracted Text (OCR):
+```
+Rachid Behna
+
+Alexandrie, le 16 Juin 1936.
+
+Mes chers Frères,
+
+Votre lettre en date d’hier :
+Joseph Mizrahi. Note que vous avez reçu de lui
+(?) trésor de la B.D. à £135.- et qu’il sort en
+Surplus 1935.9.
+
+J’ai parlé dans mon livre. Les 2 fûts sortent
+La lettre Arabe de Zak.
+Zak a passé au magasin, et il a encaissé
+£60.- que j’espère vous envoyer demain.
+J’espère qu’il vous a écrit et que vous
+Avez livré tes commandes. En cas qu’il me
+Téléphone je vous ferai savoir à la fin de la lettre.
+Fabrique Glaces Yglalex. J’espère comme l’écrivait
+Hier que durant la semaine ils vous enverront
+Une bonne commande.
+
+Aucune nouvelle sur le marché au sujet
+d’une décision de la Sacher, j’écrirai demain
+de nouveau pour voir Nasrallah et comprendre
+Ce qui arrive sur le marché. Je vous tiendrai
+au courant.
+```
+
+---
+
+## JSON Output
+
+```json
+{
+  "Persons": [
+    "Joseph Mizrahi",
+    "Zak",
+    "Nasrallah"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna",
+    "Fabrique Glaces Yglalex"
+  ],
+  "commodities": [
+    {
+      "name": "treasure",
+      "date": "1935",
+      "price": "£135"
+    },
+    {
+      "name": "unspecified item (encashed by Zak)",
+      "date": "1936-06-16",
+      "price": "£60"
+    }
+  ],
+  "extracted_text": "Rachid Behna\n\nAlexandrie, le 16 Juin 1936.\n\nMes chers Frères,\n\nVotre lettre en date d’hier :\nJoseph Mizrahi. Note que vous avez reçu de lui\n(?) trésor de la B.D. à £135.- et qu’il sort en\nSurplus 1935.9.\n\nJ’ai parlé dans mon livre. Les 2 fûts sortent\nLa lettre Arabe de Zak.\nZak a passé au magasin, et il a encaissé\n£60.- que j’espère vous envoyer demain.\nJ’espère qu’il vous a écrit et que vous\nAvez livré tes commandes. En cas qu’il me\nTéléphone je vous ferai savoir à la fin de la lettre.\nFabrique Glaces Yglalex. J’espère comme l’écrivait\nHier que durant la semaine ils vous enverront\nUne bonne commande.\n\nAucune nouvelle sur le marché au sujet\nd’une décision de la Sacher, j’écrirai demain\nde nouveau pour voir Nasrallah et comprendre\nCe qui arrive sur le marché. Je vous tiendrai\nau courant.",
+  "language": "fr",
+  "Translation_to_English": "Rachid Behna\n\nAlexandria, June 16, 1936.\n\nMy dear Brothers,\n\nYour letter dated yesterday:\nJoseph Mizrahi. Note that you have received from him (?) treasure from the B.D. at £135, and that it appears in surplus 1935.9.\nI have included it in my book. The 2 drums (barrels) are listed. The Arabic letter from Zak.\nZak came to the store, and he collected £60, which I hope to send you tomorrow.\nI hope he wrote to you and that you have delivered your orders. In case he calls me, I will let you know at the end of the letter.\nYglalex Ice Factory. I hope, as I wrote yesterday, that during the week they will send you a good order.\nNo news on the market about a decision from Sacher, I will write again tomorrow to see Nasrallah and understand what is happening on the market. I will keep you informed.",
+  "date": "1936-06-16"
+}
+```
+
+Let me know if you need further details or analysis!

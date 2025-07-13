@@ -1,0 +1,35 @@
+Here is the extracted text in a structured JSON format according to your schema:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Y. Mezahi",
+    "Monsieur",
+    "Youssef Sabbagh",
+    "Émile Bourgouin"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l'Église Maronite, No. 1",
+    "Rue Neuve, No. 49"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Tobacco",
+      "date": "1936",
+      "price": "76000"
+    }
+  ],
+  "extracted_text": "ALEXANDRIE, Rue de l'Église Maronite, No 1. TÉLÉPH. 44-40 TÉLÉPHONE No Adresse Télégraphique: 'BEHNA-ALEXANDRIE' Rachid Behna NÉGOCIANT LE CAIRE, Rue Neuve, No 49 TÉLÉPH. No 50-723 B.P.120 Adresse Télégraphique: 'ANHEB-LE CAIRE' Le Caire, Alexandrie, le 18 Fév 1936. Mes Chers Frères, Votre lettre en date d'hier. Courtier Caïcé: Ce fruit un rem sur la B.Q. de la somme de 76000. Tenus par y Mezahi. J'ai passé dans mon livre les convictions: ainsi que les pièces suivant la lettre arabe de Zaki. Zaki est passé au magasin aujourd'hui, mais ce Monsieur n'a pas laissé d'argent, il m'enfonge bien à tout qu'il y a de la petite monnaie, mais elle sont dans le coffre. N'att. J'espère demain Zaki proviendra de l'argent. J'ai la scea que j'ai dit, et j'ai mis en caisse, except. qu'il en casse in billfors - Aconuit Youssef Sabbagh Et n'oub. pour avoir l'échantillon de tabac en Russie. Veulles me avoir un petit quantié dans une boîte et une livre.... Émile Bourgouin. N'oubl. de venir l'heur, rien il ne m'a pas demandé le 2000. Il lui ai demervai arreté que je le vois...",
+  "language": "fr",
+  "Translation_to_English": "ALEXANDRIA, Rue de l'Église Maronite, No 1. PHONE. 44-40 PHONE No Telegraphic Address: 'BEHNA-ALEXANDRIA' Rachid Behna MERCHANT CAIRO, Rue Neuve, No 49 PHONE No 50-723 P.O.120 Telegraphic Address: 'ANHEB-CAIRO' Cairo, Alexandria, February 18, 1936. My Dear Brothers, Your letter dated yesterday. Broker Caïcé: This is a receipt on the Bank for the sum of 76,000. Held by Y Mezahi. I have entered the receipts in my book as well as the documents following the Arabic letter of Zaki. Zaki went to the store today but this gentleman did not leave any money, he insists that all the small change is in the safe. I hope Zaki will get the money tomorrow. I have the seal as I said, and I put it in the cash box, except that he breaks a billfold - Security Youssef Sabbagh And do not forget to get the tobacco sample for Russia. Please get me a small quantity in a box and a pound.... Émile Bourgouin. Do not forget to come at the time, he did not ask me for the 2000. I will stop him when I see him...",
+  "date": "1936-02-18"
+}
+```
+
+Let me know if you need further adjustments or if you have more documents to process!

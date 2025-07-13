@@ -1,0 +1,29 @@
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Dr. Houek",
+    "Abdel Lake"
+  ],
+  "Places": [
+    "Liban"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Pharmaceutical articles",
+      "date": "",
+      "price": "From 40 to 70"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\n\nImportateur Livar. Qui déclarent comme ci:\nles clients entre autre Mr. Houek, d'Lliban, qui ils avertît\nque d'ici a 9 jrs. la demande sera augmentée avec\nles articles pharmau. de 40 ds à 70 ds... Attendons\nles événements...\nAbdel Abdel Lake: Je lui ai vendu et vous\nprès de m'expédier!\n25 f. greets enf. col. 70 h c 25.\nAucune autre vente, ni même une demande. J'ai tout fouillé pour mettre en connaissance 9:9. chez\nchez Behna: mais pas moyen, il ne répond en il\nm'a avait tout. Espère de en atrob.\nAlladat une amélioration: et un amonement\npour liquiter autant qu in faveur de vos-\narticles d'ici:-\nSans autre. bons espoirs!! ...\n\nJacques",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\n\nImporter Livar. Who declare as follows:\nCustomers including Mr. Houek, from Lebanon, who was notified\nthat in 9 days the demand will have increased with\npharmaceutical articles from 40 to 70... Let's wait\nfor the events...\nAbdel Abdel Lake: I sold to him and you\nare about to ship to me!\n25 francs, entire envelope, 70 hours is 25.\nNo other sale, not even a request. I searched everywhere to inform 9:9 at\nBehna: but no way, he does not respond and he\ntold me everything. Hopes for improvement.\nLet's hope for an improvement: and a move\nfor liquidation as much as in favor of your\narticles from here:-\nWith nothing more. Best hopes!! ...\n\nJacques",
+  "date": ""
+}
+```
+**Notes:**
+- No clear date is specified in the document.
+- Company names are not mentioned except personally or as a role (e.g., importer).
+- Commodity is assumed from context as "pharmaceutical articles".
+- All values and names are given in full without abbreviation.

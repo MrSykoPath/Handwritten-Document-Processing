@@ -1,0 +1,57 @@
+Here is the extracted text and the corresponding structured JSON according to your schema:
+
+---
+
+### Extracted Text (Arabic):
+```
+حضرة الأفاضل حضرة السيدين المحترمين عبد الجواد – أفندي، بارودي على حرصكم
+تكرمتم برفقة صداقتنا أطيب تحية واحترام، أحيطكم علماً بأن البضاعة التي وسيم حضرت بكم بلغت 
+7 صناديق كما هو مذكور في كشف الشحن، سيتم طيها مستقبلاً مع الـ 900 صندوق الباقي.
+
+صيغة استلام
+صور من الدفتر، ومغلوطة ادريس بالكم القيم الفائت وصل، 
+وصلت عند حضور الشيك مع هذا الواصل وكتبت الشحن وسلمت للبضاعة،
+وعندنا نفس مبلغ المقابض الحالي من فضلكم نعلم إذا كان أمكن 
+قبض المبلغ وتسليم البضاعة أما إذا لم يمكن ذلك، فبرجاء استكمال رد مع الدفتر.
+
+تفضلوا بقبول فائق الاحترام
+
+عبد الجواد بارودي
+الإمضاء
+```
+
+---
+
+### JSON Output
+
+```json
+{
+  "Persons": [
+    "Abdeljawad Baroudi",
+    "Baroudi",
+    "Abdeljawad Afandi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Boxes",
+      "date": "10 June 1936",
+      "price": "Not specified"
+    }
+  ],
+  "extracted_text": "حضرة الأفاضل حضرة السيدين المحترمين عبد الجواد – أفندي، بارودي على حرصكم تكرمتم برفقة صداقتنا أطيب تحية واحترام، أحيطكم علماً بأن البضاعة التي وسيم حضرت بكم بلغت 7 صناديق كما هو مذكور في كشف الشحن، سيتم طيها مستقبلاً مع الـ 900 صندوق الباقي.\n\nصيغة استلام صور من الدفتر، ومغلوطة ادريس بالكم القيم الفائت وصل، وصلت عند حضور الشيك مع هذا الواصل وكتبت الشحن وسلمت للبضاعة، وعندنا نفس مبلغ المقابض الحالي من فضلكم نعلم إذا كان أمكن قبض المبلغ وتسليم البضاعة أما إذا لم يمكن ذلك، فبرجاء استكمال رد مع الدفتر.\n\nتفضلوا بقبول فائق الاحترام\nعبد الجواد بارودي\nالإمضاء",
+  "language": "ar",
+  "Translation_to_English": "Dear Sirs, Mr. Abdeljawad and Mr. Baroudi,\nWe thank you for your continued attention. We are pleased to inform you that the goods you have sent amounted to 7 boxes as mentioned in the shipping manifest, and these will be incorporated in the future with the remaining 900 boxes.\n\nReceipt format:\nCopies from the register, and mistakes by Idris in the previous amount have arrived. The check was delivered upon receipt, the shipment was written, and the goods were handed over. We currently have the same amount from the previous transactions. Please let us know if it is possible to collect the amount and deliver the goods; otherwise, kindly return with the register.\n\nPlease accept our highest regards,\nAbdeljawad Baroudi\nSignature",
+  "date": "10 June 1936"
+}
+```
+
+---
+
+If further structuring or details are needed, please let me know!

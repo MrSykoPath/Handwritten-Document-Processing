@@ -1,0 +1,27 @@
+```json
+{
+  "Persons": [
+    "Joseph Caïcas",
+    "Joseph Mizrahi",
+    "Lahh"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "magasin",
+      "date": "",
+      "price": "7000"
+    }
+  ],
+  "extracted_text": "ALEXANDRIE\nRue de l’Eglise Maronite, N°1\nTÉLÉPH.: No. 4640\nTÉLÉGRAPHIE No. 2253\nAdresse Télégraphique \"BEHNA-ALEXANDRIE\"\nRachid Behna\nNÉGOCIANT\nLE CAIRE\nRue Neuve, N° 49\nTÉLÉPH. N° 50-223\nB.P. 120\nAdresse Télégraphique \"ANNES. LE CAIRE\"\nAlexandrie, le 18 Juin, 1930\nMes chers Frères\nVotre lettre en date d’hier. Joseph Caïcas. Tu faut un reçu au K.O. de la somme de 9,300. Montant de la somme reçue par Mizrahi. Joseph Mizrahi. J’ai passé savoir livre. On remerciera Caïcas, ou la Jechée suivant la lettre Bab, et Lak…\nLahh a encaissé du magasin frs 7000. une pensée vous les envoyer demain.\nJ’ai pris motif de votre lettre à Lin et voilà, avez vous reçu de d’expédier les autres commandes, car les comptes des clients charges.\nFabrique Cacao Cholacasa. J’espère demain vous envoyer une bonne confirmation.\nJusqu’à maintenant, il n’y a eu aucune nouvelle d’importation de la Fabrini ou autre, je vous tiendrai au courant, c’est que j’aurai des nouvelles. Mais un x il n’y que nickel, les aquilts expérieurs, ils n’ont pas trouvé, et ils m’ont savant énormément fond. 45 frcs.",
+  "language": "fr",
+  "Translation_to_English": "ALEXANDRIA\nRue de l’Eglise Maronite, No. 1\nTELEPHONE: No. 4640\nTELEGRAPH No. 2253\nTelegraphic address \"BEHNA-ALEXANDRIA\"\nRachid Behna\nDEALER\nCAIRO\nRue Neuve, No. 49\nPHONE No. 50-223\nP.O. 120\nTelegraphic address \"ANNES. CAIRO\"\nAlexandria, June 18, 1930\nMy dear Brothers\nYour letter dated yesterday. Joseph Caïcas. You need a receipt at K.O. of the amount of 9,300. Amount received by Mizrahi. Joseph Mizrahi. I have gone to find the book. We will thank Caïcas, or Jechée according to the letter Bab, and Lak…\nLahh has collected from the store 7,000 francs. I intend to send them to you tomorrow.\nI took note of your letter at Lin and here, have you received to ship the other orders, because the clients’ accounts are charged.\nFactory Cacao Cholacasa. I hope to send you a good confirmation tomorrow.\nUntil now, there has been no news of importation from Fabrini or others, I will keep you informed, if I get any news. Otherwise, only nickel, the external purchases, they didn't find, and they cost me a lot. 45 francs.",
+  "date": "1930-06-18"
+}
+```

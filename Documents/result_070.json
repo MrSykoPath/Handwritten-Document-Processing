@@ -1,0 +1,29 @@
+```json
+{
+  "Persons": [
+    "Georges Michael",
+    "Kashba Maanessarie"
+  ],
+  "Places": [
+    "Kabos",
+    "Paris"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "oranges",
+      "date": "",
+      "price": "5000 francs"
+    }
+  ],
+  "extracted_text": "Fabrique Kabos Melados. Note que vous avez reçu et encaissé Samedi le rapport de la commission de 5000 bois orange. Je vous ai écrit hier au sujet de la petite confrérie de 300 oranges et fèves ainsi vendues se mon écrière pour une visite commune.\nGeorges Michael. Hier je viens d'inscrire nos télégrammes 324, qui parlent au sujet de bois que du marrons art. 365. A l'état, les pièces m'ont plu, car ce n'était pas le même instrument. J'achève leur. Je leur ai confirmé vos engagements et au cas où l'on finirai vous enverrait Ch. envoie copie entrée 396. 394 et 400. Il est préférable comme vous dites que la situation des oranges et que je pourrais leur demander des effets.\nKashba Maanessarie. Je lui ai confirmé nous engagements et au cas ou le leur conviendrait Zalch, espère avoir 496. 477 c.f. 405 les 3 de Sécurité Japon. Rouge et marron. Divers: Il y a une petite demande aux hôtels et allal! qui, je pense, est mis dans 9 r. à Paris. Il y a huit leçons de Ch. grossats.-",
+  "language": "fr",
+  "Translation_to_English": "Kabos Melados factory. Note that you received and cashed on Saturday the report of the commission of 5000 francs orange. I wrote to you yesterday about the small group of 300 oranges and beans thus sold, my letter carrier for a joint visit. \nGeorges Michael. Yesterday I just registered our telegrams 324, which talk about wood and chestnuts article 365. At this stage, the pieces pleased me, because it was not the same instrument. I am finishing them. I confirmed your commitments and in case we finish, you will send me Ch. sends entry copy 396, 394, and 400. It is preferable, as you say, that the situation of oranges, and that I could ask them for effects.\nKashba Maanessarie. I confirmed our commitments to him, and in case theirs suited, Zalch hopes to have 496, 477 c.f. 405, the 3 of Japan security, red and brown. Miscellaneous: There is a small demand at hotels and Allal! which, I think, is put in 9 r. in Paris. There are eight lessons from Ch. gross sales.-",
+  "date": ""
+}
+```
+
+**Notes:**
+- Some words and numbers are not always fully clear from the handwriting, so attempts were made to keep names and commodities as accurate as possible.
+- Dates do not appear clearly specified except by references to telegram entries and sales, so the "date" field remains blank.
+- All French text has been translated to English in the appropriate attribute.

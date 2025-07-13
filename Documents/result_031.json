@@ -1,0 +1,36 @@
+Here is the extracted text structured in the JSON format you requested:
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Bachir Lahiel",
+    "Bachir Lahri"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "boxes",
+      "date": "",
+      "price": "300 francs"
+    },
+    {
+      "name": "boxes",
+      "date": "",
+      "price": "345 francs"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA ... (Handwriting is partly illegible)\nBachir Lahiel, Je te prie de bien vouloir m’envoyer par le porteur les 150 caisses (environ 1500 kilos) de boîtes d’allumettes. Je t’en remercie.\nSi jamais on trouve le contre-remarque sur cet engagement-là, c’est égal : 300 f. 8.\nSocié Lahoun: Rien la facture livrée le 16/6/24. c'est 345 livres. Je peux toujours les recommander.\nBachir Lahri, ce Monsieur m’a proposé par 2 ou 3 personnes et sans engagement formel 3 ou 4. clact 345 et l’argent doit sortir du Liban et pour l’auteur le Magasin Naturel.\n... J’ai vu la vente et vous tiendrai au courant.\nPh. D. 2 M. M. c H 253.\nc’est mon détermination …",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\nBachir Lahiel, I ask you to kindly send me through the bearer the 150 cases (about 1500 kilos) of matchboxes. I thank you.\nIf we find the counter-mark on this commitment, it does not matter: 300 francs 8.\nLahoun Company: Nothing, the invoice delivered on 16/6/24. It's 345 francs. I can always order them again.\nBachir Lahri, this gentleman offered me through 2 or 3 people and without formal commitment 3 or 4. clact 345 and the money must come from Lebanon and for the author the Natural Store.\n... I saw the sale and will keep you informed.\nPh. D. 2 M. M. c H 253.\nThis is my determination ...",
+  "date": "16/6/1924"
+}
+```
+
+### Notes:
+- Parts of the handwritten text remain illegible, so the extraction is partial.
+- Persons are identified by full names as seen in the text. Companies and places are not explicitly mentioned.
+- The main commodity referenced is boxes/caisses (likely of matches), with their quantity and approximate price noted.
+- The date from the invoice referred to is included as the main date.
+- The language of the original is French, and a full English translation is provided as requested.

@@ -1,0 +1,75 @@
+Here is the extracted text along with structured JSON according to your schema:
+
+---
+
+**Extracted Text (from image):**
+
+```
+2e S.
+
+RACHID BEHNA
+
+Gumgui Mikhaïl. Reçu le ticket et la penché pour les 25 Kg Ch/Ald. 24.20 et on joine le réglement.  
+Moushi Saur: Reçu la penché pour les 25 Kg Chait 42 livrées de Chari et confirmé le remboursement.  
+Marché: Encore calme, il n’y a pas moyen de prendre place du chemin de fer, pourtant il fait un chaleur a mourir. Hélas! Etrange la situation!  
+Je vais sur les clients de Meziah ne voudront plus retourner les balles qui s’ont en consignment complet. Alors je vote pris de m’envoyer une penché supllm 4/12 pf Ch. Francaise à 48.- et 25 kg ch/ald. 24.20 nf 18.5
+Gumgui Mikhaïl y’en lui à vous encore 25 kg ch/Ald. 24.20 nf 18.5
+
+Veuillez les expédier:
+leurs autres jours à soir:
+
+Barakat
+```
+
+---
+
+### JSON Output
+
+```json
+{
+  "Persons": [
+    "Rachid Behna",
+    "Gumgui Mikhaïl",
+    "Barakat",
+    "Moushi Saur",
+    "Meziah"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Ch/Ald.",
+      "date": "",
+      "price": "24.20"
+    },
+    {
+      "name": "Chait",
+      "date": "",
+      "price": "42"
+    },
+    {
+      "name": "Ch. Francaise",
+      "date": "",
+      "price": "48"
+    },
+    {
+      "name": "Ch/Ald.",
+      "date": "",
+      "price": "18.5"
+    }
+  ],
+  "extracted_text": "2e S.\n\nRACHID BEHNA\n\nGumgui Mikhaïl. Reçu le ticket et la penché pour les 25 Kg Ch/Ald. 24.20 et on joine le réglement.\nMoushi Saur: Reçu la penché pour les 25 Kg Chait 42 livrées de Chari et confirmé le remboursement.\nMarché: Encore calme, il n’y a pas moyen de prendre place du chemin de fer, pourtant il fait un chaleur a mourir. Hélas! Etrange la situation!\nJe vais sur les clients de Meziah ne voudront plus retourner les balles qui s’ont en consignment complet. Alors je vote pris de m’envoyer une penché supllm 4/12 pf Ch. Francaise à 48.- et 25 kg ch/ald. 24.20 nf 18.5\nGumgui Mikhaïl y’en lui à vous encore 25 kg ch/Ald. 24.20 nf 18.5\n\nVeuillez les expédier:\nleurs autres jours à soir:\n\nBarakat",
+  "language": "fr",
+  "Translation_to_English": "2nd S.\n\nRACHID BEHNA\n\nGumgui Mikhail. Received the ticket and the order for the 25 kg Ch/Ald. 24.20 and the payment is included.\nMoushi Saur: Received the order for the 25 kg Chait 42 delivered from Chari and confirmed the reimbursement.\nMarket: Still calm, there is no way to get a place on the train, yet it is unbearably hot. Alas! Strange situation!\nI am going to the clients of Meziah, they do not want to return the bales that are still on full consignment. So I kindly ask you to send me an extra order 4/12 pf Ch. Francaise at 48.- and 25 kg ch/ald. 24.20 nf 18.5\nGumgui Mikhail still has another 25 kg ch/Ald. 24.20 nf 18.5 for you.\nPlease ship them:\ntheir other days in the evening:\n\nBarakat",
+  "date": ""
+}
+```
+
+---
+
+#### Notes:
+- The original text language is French ("fr").
+- Some commodity designations (e.g., "Ch/Ald.", "Chait") could represent types/grades of products, possibly related to trade (cotton, wheat, etc. – context not explicit).
+- No explicit date is mentioned, so "date" fields are left empty. If you want the implied timeline from parcels (such as 4/12), please clarify.
+- Place or company names were not explicit except for the possible trading partners ("Meziah" may be a surname or company, context unclear).
+- All extracted names, products, and figures are given in full, per your instruction.
