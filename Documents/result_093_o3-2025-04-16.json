@@ -1,0 +1,40 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Sabah Fares",
+    "Abed Bakr",
+    "Hussein Samir"
+  ],
+  "Places": [
+    "Bank",
+    "Cairo",
+    "Beni"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Bas 845 C",
+      "date": "15/07",
+      "price": ""
+    },
+    {
+      "name": "Gelats No. 760",
+      "date": "20/07",
+      "price": ""
+    },
+    {
+      "name": "Gelats No. 920 C 44",
+      "date": "16/07",
+      "price": ""
+    },
+    {
+      "name": "Bas No. 845 C 46",
+      "date": "15/07",
+      "price": ""
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\n\nSabah Fares. Reçu la poche pour le 15/7 Bas 845 C livrée au Banque, confirmée. Très reconnaissant.\n\nAbed Bakr. Reçu la poche pour le 20/7 gelats N° 760. Livrée au Beni et aujourd’hui. Très reconnaissant.\n\nMarché: Triste d’un calme surtout cette semaine, qui est la dernière du mois; et c’est un calme complet, et une chaleur suffocante; et avec ces prix des bananes, des ananas etc.; malheur sur le commerce; ça devient effrayant, aucun homme ne veut plus, et le balasso s’envole à cause de la banque.\n\nPartie: N’avons rien à publier. Personne.\n\nBourse: Caire. Il m’a vendu et lui livré de Caire et vous prie de m’envoyer la poche pour 1355 – 16/7 gelats N° 920 C 44.\n\nHussein Samir. Il lui a vendu, et lui livré du Caire et vous prie de m’envoyer la poche pour 39419 – 15/7 Bas N° 845 C & 46.\n\nLes autres jours aujourd’hui idem.\n\nRachid Behna",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\n\nSabah Fares. Received the parcel for 15/7 Bas 845 C delivered to the bank, confirmed. Very grateful.\n\nAbed Bakr. Received the parcel for 20/7 gelats No. 760. Delivered to Beni today. Very grateful.\n\nMarket: It is sadly very quiet, especially this week, which is the last of the month; total calm, suffocating heat, and with these prices for bananas, pineapples, etc.; business is in trouble; it is becoming frightening, nobody wants to do anything more, and the balasso (?) is leaving because of the bank.\n\nSection: We have nothing to publish. Nobody.\n\nStock Exchange: Cairo. He sold to me and delivered from Cairo and I ask you to send me the parcel for 1355 – 16/7 gelats No. 920 C 44.\n\nHussein Samir. He sold to him and delivered from Cairo and I ask you to send me the parcel for 39419 – 15/7 Bas No. 845 C & 46.\n\nThe other days are the same today.\n\nRachid Behna",
+  "date": "Unknown"
+}

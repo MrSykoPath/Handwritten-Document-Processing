@@ -1,0 +1,30 @@
+{
+  "Persons": [
+    "Rachid Benha",
+    "Youssef Mizrahi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Benha",
+    "Mizrahi Brothers Factory"
+  ],
+  "commodities": [
+    {
+      "name": "red bricks",
+      "date": "6 June 1936",
+      "price": "40"
+    },
+    {
+      "name": "orange bricks",
+      "date": "6 June 1936",
+      "price": "18"
+    }
+  ],
+  "extracted_text": "ALEXANDRIE\nRue de l’Eglise-Maronite, N°1  TÉLÉPH. 14460\nTÉLÉPH.N° 2373\nAdresse télégraphique : “BENHA ALEXANDRIE”\n\nLE CAIRE\nRue Neuve, N°49  TÉLÉPH. N° 50-723  B. P. 120\nAdresse télégraphique : “ANHAD CAIRE”\n\nRachid Benha\nNÉGOCIANT\n\n6 Juin 1936\nN° 107 / Banque\nAlexandrie, le 8 Juin 1936   B. P. 1919\n\nTrès cher Frère,\n\nVotre lettre en date d’hier est bien parvenue.\nJe vous prie de me communiquer d’urgence l’état suivant de la lettre arrivée de Lika. Faites-la me savoir pour 1 h a.m. au maximum et dites à notre commis M. F. 790; il m’a promis de vous envoyer à la C. o post. mon travail certain.\n\nJe l’ai remercié énormément et particulièrement la Fabrique Frères Mizrahi. Il faut que vous expédiez et expédiiez les 5000 briks oranges.\n\nAujourd’hui ils vous ont livré la commande suivante :\n\n5000 rouges à 40-\n5000 oranges à 18-\n\nMal ce que vous me dites au sujet de l’emballage intérieur du lot daté du 27.3. Il n’y a pas cela dit; des instructions strictes ont été données à la fabrique de fournir l’emballage et je suis surpris d’entendre...\n\nBien à vous,\nRachid Benha",
+  "language": "fr",
+  "Translation_to_English": "ALEXANDRIA\nMaronite Church Street, No. 1   Tel. 14460\nTel. No. 2373\nTelegraphic address: “BENHA ALEXANDRIA”\n\nCAIRO\nNew Street, No. 49   Tel. 50-723   P. O. Box 120\nTelegraphic address: “ANHAD CAIRO”\n\nRachid Benha\nMerchant\n\n6 June 1936\nNo. 107 / Bank\nAlexandria, 8 June 1936   P. O. Box 1919\n\nVery dear Brother,\n\nYour letter dated yesterday has arrived.\nPlease urgently send me the following status concerning the letter received from Lika. Let me have it by 1 a.m. at the latest and tell our clerk Mr. F. 790; he promised to send you by postal order my definite work.\n\nI thanked him greatly and especially the Mizrahi Brothers factory. You must ship and dispatch the 5,000 orange bricks.\n\nToday they delivered to you the following order:\n\n5,000 red ones at 40-\n5,000 orange ones at 18-\n\nRegarding what you tell me about the internal packaging of the lot dated 27 March, that is not the case; strict instructions have been given to the factory to supply the packaging and I am surprised to hear otherwise…\n\nYours sincerely,\nRachid Benha",
+  "date": "6 June 1936"
+}

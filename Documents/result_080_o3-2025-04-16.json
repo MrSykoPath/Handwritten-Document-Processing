@@ -1,0 +1,22 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Youssef Mizrahi",
+    "Zaki"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l’Eglise Maronite",
+    "Rue Neuve",
+    "Rue Clot Bey"
+  ],
+  "companies": [
+    "Banque"
+  ],
+  "commodities": [],
+  "extracted_text": "ALEXANDRIE\nRue de l’Eglise Maronite, N°1\nTél. 44-40\nAdresse Télégraphique : « BEHNA - ALEXANDRIE »\n\nLE CAIRE\nRue Neuve, N°49\nTél. 50-723\nP.D. 120\nAdresse Télégraphique : « ANHBE-LE CAIRE »\n\nRachid Behna\nNégociant\n\nLe Caire, le 29 Mai 1936\n\nMes chers Frères,\n\nVotre lettre en date d’hier.\nIl faut un reçu sur la B.Q. de la Caisse à une de £E 10000.– remboursement reçu, par Youssef Mizrahi. J’ai passé dans mon livre les versements suivants la lettre chèque de Zaki.\n\nCe matin Zaki a été au magasin et il a encaissé £E 10000.– que l’employé lui a remis. Cet après-midi Zaki s’est repassé à la rue Clot Bey et il a vu Youssef Mizrahi qui lui a dit qu’il versera demain à la Banque L. 90. Il fera ces versements durant la semaine.\n\nIl vient à l’instant de me téléphoner me répétant la même chose et me disant qu’il vous le certifie ce soir. Une longue lettre vous enverra les encaissements d’hier aujourd’hui. Bien mieux en ce moment.\n\nIl a causé de livraison du blanc qui même si nous ne gagnerons pas beaucoup dans le demi-jamal qui est un client qui vaut la peine de lui faire plaisir. Je vais vous écrire pour l’autre.",
+  "language": "fr",
+  "Translation_to_English": "ALEXANDRIA\nRue de l’Eglise Maronite, No. 1\nTel. 44-40\nTelegraphic address: “BEHNA - ALEXANDRIA”\n\nCAIRO\nRue Neuve, No. 49\nTel. 50-723\nP.O. Box 120\nTelegraphic address: “ANHBE-CAIRO”\n\nRachid Behna\nMerchant\n\nCairo, 29 May 1936\n\nMy dear brothers,\n\nYour letter dated yesterday.\nA receipt is required on the Bank of the Caisse for the amount of £E 10,000, reimbursement received, by Youssef Mizrahi. I have entered in my book the following deposits regarding Zaki’s cheque letter.\n\nThis morning Zaki went to the store and cashed £E 10,000 that the employee handed to him. This afternoon Zaki passed again in Clot Bey Street and saw Youssef Mizrahi who told him that he will deposit £90 at the Bank tomorrow. He will make those deposits during the week.\n\nJust now he phoned me, repeating the same thing and telling me that he will confirm it to you tonight. A long letter will be sent to you detailing the collections from yesterday to today. Things are much better at the moment.\n\nHe spoke about the delivery of the white goods; even if we do not earn much on the half-camel, he is a customer worth pleasing. I will write to you about the other matter.",
+  "date": "1936-05-29"
+}

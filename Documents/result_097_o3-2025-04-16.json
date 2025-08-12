@@ -1,0 +1,47 @@
+{
+  "Persons": [
+    "Abdel Baki Ismail",
+    "Abdel Aziz Bassanin",
+    "Sabat and Sons",
+    "Abdel Saleh Ahmed"
+  ],
+  "Places": [
+    "Cairo",
+    "Alexandria",
+    "Antwerp"
+  ],
+  "companies": [
+    "Sabat and Sons"
+  ],
+  "commodities": [
+    {
+      "name": "Lot to be placed in Alexandria",
+      "date": "31-08-1929",
+      "price": "24.20 L.E."
+    },
+    {
+      "name": "Lot 716",
+      "date": "31-08-1929",
+      "price": "Not specified"
+    },
+    {
+      "name": "Lot 747",
+      "date": "31-08-1929",
+      "price": "Not specified"
+    },
+    {
+      "name": "10 quintals loco",
+      "date": "31-08-1929",
+      "price": "86 L.C."
+    },
+    {
+      "name": "10 quintals vests, cream",
+      "date": "31-08-1929",
+      "price": "760 c"
+    }
+  ],
+  "extracted_text": "Caire le 31.8.29\nReçu la 29 comme vous m’aviez dit dispo, elle est très bonne. Je commence lundi avec, mais le marché ici ne paye pas votre prix et je voudrais que vous arriviez à la placer à Alexandrie 24.20 L.E. D’accord j’attendrai la réponse d’Anvers et de l’intérieur.\nAujourd’hui j’en ai vendu 716 et 747. Ils sont deux, une botte large de 1 1/2 q., reconditionnés en 3 balles ; ça ne fait aucune différence, mais je préfère de beaucoup que ça parte en 1/2 q. la botte.\nGueritz Nickel. Il y en a (confirme vos engagements) 1 en ch. en conf. 716/6 No. le 3/4.\nAbdel Baki Ismail. Rien d’acheté et la planche pour les 10 q. gilets existants 70 L.E. 362 est pour vendre.\nAbdel Aziz Bassanin. Aujourd’hui le Ministre est venu ; c’est vendredi. Faites une dernière fois accepter les sur vos demandes et je verrai les expéditions.\nJe ne suis pas beaucoup rentré, mais le marché me rend malade et les encaissements aussi. Je vous envoie donc L. 22 sur encaissement ; cela est encourageant.\nSabat & Fils. Je leur ai vendu et livré au Caire et vous prie de m’envoyer la facture pour 13949 – 10 q. loco ap 86 L.C.\nAbdel Saleh Ahmed. Rien à vendre et livré au Caire et envoyez-moi la facture pour 688 – 10 q. gilets ap crème 760 c 30.\nUne autre n° 692 – 10 q. – 760 c 30.",
+  "language": "fr",
+  "Translation_to_English": "Cairo, 31 August 1929\nReceived lot 29 as you advised; it arrived in very good condition. I will start with it on Monday, but the local market does not pay your price and I would like you to manage to place it in Alexandria at 24.20 Egyptian pounds. Agreed, I will wait for the reply from Antwerp and from up-country.\nToday I sold 716 and 747. They are two, a wide bundle of 1½ quintals, re-packed in three bales; that makes no difference, but I much prefer that it be shipped in half-quintal bundles.\nGueritz Nickel. There is (to confirm your commitments) one in ch. in conf. 716/6 No. the 3/4.\nAbdel Baki Ismail. Nothing bought and the platen for the 10 quintals of existing vests at 70 Egyptian pounds. 362 is for sale.\nAbdel Aziz Bassanin. Today the Minister came; it is Friday. Try one last time to have them accept under your terms and I will look after the shipments.\nI have not collected much, but the market makes me ill and the collections as well. I therefore send you £E 22 from collections; this is encouraging.\nSabat and Sons. I have sold and delivered in Cairo and ask you to send me the invoice for 13949 – 10 quintals loco at 86 L.C.\nAbdel Saleh Ahmed. Nothing to sell and delivered in Cairo; please send me the invoice for 688 – 10 quintals vests, cream, 760 cts 30.\nAnother No. 692 – 10 quintals – 760 cts 30.",
+  "date": "31-08-1929"
+}

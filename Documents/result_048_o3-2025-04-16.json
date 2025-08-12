@@ -1,0 +1,40 @@
+{
+  "Persons": [
+    "Samuel Yousef Sabunu",
+    "Zaki",
+    "Hassan Abri",
+    "Sfto Hanna Maamouri",
+    "Tréhiont Khouan",
+    "Ahmad Abdel Baki",
+    "Feitouny Faris",
+    "Hussein Lauri"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "One bale of Hassan Abri (lot 9 PA)",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "Twenty packed crates (letter of guarantee requested)",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "Ticket and invoice",
+      "date": "1926-06-28",
+      "price": ""
+    },
+    {
+      "name": "Separate patches / jets",
+      "date": "",
+      "price": "Francs 696 @ 56"
+    }
+  ],
+  "extracted_text": "Samuel Yousef Sabunu. Zaki a été de nouveau ce matin et il va lui donner une réponse ce soir et il vous écrira par la lettre de ce soir. Il a demandé une balle Hassan Abri du lot de 9 P A!\n\nSfto Hanna Maamouri. J’espère pouvoir vous les envoyer cette semaine.\n\nTréhiont Khouan. Nous que le dit bateau est arrivé aujourd’hui et nous allons retirer aujourd’hui une lettre de garantie pour les 20 caisses emballées demi an livre.\n\nLe Président Morro arrivait le 9.6.26. Ch. cpt. courant 341. C’est peut-être bien; il y a aussi une erreur.\n\nAhmad Abdel Baki. Il a confirmé en cas d’acceptation les 5 % … contre 341.\n\nFeitouny Faris. Reçu le ticket et la facture, pour le 28.6.26, net … J’enverrai le recouvrement.\n\nAhmad Abdel Baki. En cas où le 2a en drame ont du ch. cpt. 4346, à Monsieur Vent …\n\nNagh cpt. 4346 …\n\nHussein Lauri. Je lui ai vendu et vous prie de m’acheter patches séparées jets Frs 696 @ 56.\n\n34745 17 % 25\n3475 7 %",
+  "language": "fr",
+  "Translation_to_English": "Samuel Yousef Sabunu. Zaki came again this morning and he will give him an answer this evening and he will write to you in tonight’s letter. He requested one bale of Hassan Abri from lot 9 P A!\n\nSfto Hanna Maamouri. I hope to be able to send them to you this week.\n\nTréhiont Khouan. We note that the said boat arrived today and we are going today to obtain a letter of guarantee for the twenty packed crates, half weight per pound.\n\nThe President Morro arrived on 9-6-26. Account current cheque 341. It may be correct, but there is also an error.\n\nAhmad Abdel Baki. He confirmed, in the event of acceptance, the 5 % … against 341.\n\nFeitouny Faris. Received the ticket and the invoice dated 28-6-26, net … I will send the collection.\n\nAhmad Abdel Baki. In case the 2a in draft are on current account 4346 to Mister Vent …\n\nNagh current account 4346 …\n\nHussein Lauri. I sold it to him and ask you to buy me separate patches, jets, Francs 696 @ 56.\n\n34745 17 % 25\n3475 7 %",
+  "date": "1926-06-09"
+}

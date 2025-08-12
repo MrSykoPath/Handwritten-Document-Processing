@@ -1,0 +1,32 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Shirin Bey",
+    "Murad Pasha"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Istanbul",
+    "Aleppo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Aleppo Share",
+      "date": "11 June 1936",
+      "price": "1 qirsh"
+    },
+    {
+      "name": "Pound Sterling",
+      "date": "11 June 1936",
+      "price": "1 large pound"
+    }
+  ],
+  "extracted_text": "الإسكندرية في ١١ يونيو ١٩٣٦\nسعادة شيرين بك المحترم،\nبعد السلام، تشرف الشركة بأن تبلغكم أنها أصدرت حوالتين باسم سعادة مراد باشا. نشكركم على تعليماتكم وقد سلمنا اليوم عند سفرنا مبلغ جنيه إسترليني كبير.\nسعر سهم حلب ١ قرش واحد.\nيرجى العلم بأن الدفع يستحق يوم الأحد والأرز يُسلم في حينه بطرق أخرى.\nقبيل السفر وصلتنا الفواتير وأوراق البضاعة عاجلاً.\nتقبلوا تحياتنا، وعند الانتهاء من التفريغ نرجو إعلامنا بمواعيدكم.\nباشمهندس المكتب إلى حضرة الباشا المسافر: شوالان من إسطنبول، يرجى إرسالها عاجلاً إلى فندق رقم ١٦١ أو إلى بستاني.\nكما نلتمس دفاتر العهدة الجديدة، ونذكِّر بالدفتر القديم الذي طلبناه مراراً.\nالمرفقات: بيانان مرسلان إلى إدارة المالية، وصورة من البرقية العربية المؤرخة ٦/٦.\nأخوكم المخلص\nرشيد بهنا\n(توقيع)",
+  "language": "ar",
+  "Translation_to_English": "Alexandria, 11 June 1936\nEsteemed Mr. Shirin Bey,\nAfter greetings, the company has the honor to inform you that it has issued two drafts in the name of His Excellency Murad Pasha. We thank you for your instructions, and today, upon our departure, we delivered the amount of one large pound sterling.\nThe price of the Aleppo share is one qirsh.\nPlease note that payment is due on Sunday and the rice will be delivered at the appointed time by other means.\nBefore the journey we promptly received the invoices and the documents for the merchandise.\nKindly accept our regards, and when the unloading is completed please inform us of your schedules.\nThe office engineer to His Excellency the travelling Pasha: two sacks from Istanbul; please dispatch them urgently to Hotel No. 161 or to Boustani.\nWe also request the new account ledgers, and we remind you of the old ledger which we have asked for several times.\nEnclosures: two statements addressed to the Finance Administration and a copy of the Arabic telegram dated 6/6.\nYour devoted brother,\nRachid Behna\n(signature)",
+  "date": "11 June 1936"
+}

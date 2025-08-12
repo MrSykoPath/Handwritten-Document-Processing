@@ -1,0 +1,18 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [],
+  "extracted_text": "Caire\nAlexandrie le 2 Juin 1930\n\nMes chers Sirs,\n\n(Nous titre en date) frère Joseph Mizrahi.\n\nNous accusons réception d'un câble pour un retrait de la Banque de soixante-dix mille et d'un reçu chez eux en argent de deux cent onze livres. Pour la facture datée que vous nous avez envoyée.\n\nLe lot a encaissé du magasin quarante-six mille. Le reçu vous sera envoyé demain. Veuillez examiner nos titres que Behna a sélectionnés. Nous sommes d'avis que la dernière embarcation est bien arrivée et que le chiffre devrait dépasser les cent mille livres en couverture.\n\nVeuillez agréer, chers Sirs, l'expression de nos sentiments distingués.\n\nRachid Behna",
+  "language": "fr",
+  "Translation_to_English": "Cairo\nAlexandria, 2 June 1930\n\nMy dear Sirs,\n\n(Our title on date) brother Joseph Mizrahi.\n\nWe acknowledge receipt of a cable for a withdrawal from the bank of seventy-thousand and of a receipt at their end in cash for two-hundred and eleven pounds, concerning the dated invoice you sent us.\n\nThe lot has collected forty-six thousand from the warehouse. The receipt will be sent to you tomorrow. Please examine the securities that Behna selected. We are of the opinion that the last shipment has indeed arrived and that the amount should exceed one-hundred thousand pounds in coverage.\n\nPlease accept, dear Sirs, the assurance of our distinguished sentiments.\n\nRachid Behna",
+  "date": "1930-06-02"
+}

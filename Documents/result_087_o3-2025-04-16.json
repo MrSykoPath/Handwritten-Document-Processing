@@ -1,0 +1,32 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi",
+    "Bachi Labidi",
+    "Monsieur Séraphé"
+  ],
+  "Places": [
+    "Alexandria, Egypt",
+    "Cairo, Egypt"
+  ],
+  "companies": [
+    "Rachid Behna",
+    "Fabrique Colin Mélasse"
+  ],
+  "commodities": [
+    {
+      "name": "cement",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "molasses",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Alexandrie, le 7 Mai 1936\n\nMes chers Frères,\n\nVotre lettre en date d’hier.\n\nJoseph Mizrahi. Nous lui avons envoyé un reçu pour la B.D. et la somme de L.E 380. Selon détails contenus dans la lettre Mak et Fak qui est en suspension de £E 146,4. J’ai failli faire livrer la facture pour les 2 M. Michel. Jek est passée ce matin à nos magasins et a enlevé de son employé £E 3 500 que j’espère vous envoyer demain. Demain ou après-demain, les Israélites ont la fête de la Pentecôte et je me dis que, si Monsieur Séraphé a mis la marchandise sur le marché, vos clients israélites paieront mercredi et jeudi.\n\nFabrique Colin Mélasse. J’espère que vous recevrez le ciment et l’alloplast au vendredi ; vous aurez une autre porte commandée.\n\nÉtat 1229. Notez que vous ne voulez pas augmenter le compte des clients d’Alexandrie. Nous savons également que vous leur avez livré le cercle d’Achille avec Delfon… Bachi Labidi a reçu 2 ½ de votre article divers et cela lui a coûté £E 3…",
+  "language": "fr",
+  "Translation_to_English": "Alexandria, 7 May 1936\n\nMy dear brothers,\n\nYour letter dated yesterday.\n\nJoseph Mizrahi. We have sent him a receipt for the B.D. and the amount of £E 380. According to the details contained in the Mak and Fak letter, which is still outstanding for £E 146.4. I almost had the invoice for the two Mr. Michel delivered. Jek came to our warehouse this morning and took from his employee £E 3,500, which I hope to send you tomorrow. Tomorrow or the day after, the Israelites have the Feast of Pentecost, and I think that if Mr. Séraphé has released the goods on the market, your Israelite clients will pay on Wednesday and Thursday.\n\nColin Molasses Factory. I hope you will receive the cement and the alloplast by Friday; otherwise another shipment will be ordered.\n\nStatement 1229. Note that you do not want to raise the accounts of the Alexandria customers. We also know that you delivered Achille’s batch with Delfon… Bachi Labidi received 2½ of your miscellaneous article and it cost him £E 3…",
+  "date": "7 May 1936"
+}

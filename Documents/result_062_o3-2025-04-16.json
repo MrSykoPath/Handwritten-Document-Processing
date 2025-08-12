@@ -1,0 +1,36 @@
+{
+  "Persons": [
+    "Simon Park",
+    "Georges Mitkhal",
+    "Yehounieh Riek",
+    "Ressain Jam",
+    "Sayed Misriki",
+    "Affet H. M. Labit"
+  ],
+  "Places": [
+    "Cairo",
+    "Armenia",
+    "Varian",
+    "Aleppo"
+  ],
+  "companies": [
+    "Fabrique de Câbles Nelas",
+    "Vacin"
+  ],
+  "commodities": [
+    {
+      "name": "Oranges",
+      "date": "Unknown",
+      "price": "5000 boxes"
+    },
+    {
+      "name": "Tea",
+      "date": "Unknown",
+      "price": "Not specified"
+    }
+  ],
+  "extracted_text": "Fabrique de Câbles Nelas. Je vous envoie l'avis que Vacin m'a remis la commande de 5000 boîtes d'oranges, et j'espère que la Fabrique vous l'a passée. Demain j'espère vous envoyer une bonne commande.\n\nJ'ai causé à Simon Park du Caire. Les affaires avons quelques entrées en Arménie qui se rendraient directement à Varian pour qu'il les donne au gouverneur d'Alep et tous souvenirs plus se trouverons bien.\n\nQue maintenant:\nGeorges Mitkhal. Reçu le ticket et la facture pour les 20 g, coût 752 documents également.\nYehounieh Riek. Reçu le ticket et la facture pour date ch. 29/20 et origine nous souvenons.\nRessain Jam. Reçu le ticket et la facture pour taxes ch. 24 bel origine les marchandises.\nMarché: encore un petit avancement mais important et espérons au bout s'arranger comme.\n\nNos dits nous ne ferons rien si elle est générale, c'est par la plainte à Sayed Misriki je l'espère, chronique.\n\nAffet H.M. Labit. J'ai une intention énorme qui dépend du thé qui n'est pas rentré, mais je suis persuadé que le nouveau pays j'espère que la Banque vous enverrait l'encaissement.",
+  "language": "fr",
+  "Translation_to_English": "Cable Factory Nelas. I am sending you the notice that Vacin has given me the order for five thousand boxes of oranges, and I hope that the Factory has passed it on to you. Tomorrow I hope to send you a good order.\n\nI spoke with Simon Park from Cairo. In business we have some openings in Armenia that would go directly to Varian so that he can hand them to the governor of Aleppo and, with any luck, everything will turn out well.\n\nNow:\nGeorges Mitkhal: ticket and invoice received for the twenty grams, cost seven-hundred fifty-two, documents as well.\nYehounieh Riek: ticket and invoice received for date ch. 29/20 and origin we remember.\nRessain Jam: ticket and invoice received for taxes ch. 24 bel origin the goods.\nMarket: another small advance but important and we hope everything will be settled in the end.\n\nAs for our statements we shall do nothing if it is general; it is through the complaint to Sayed Misriki, I hope, chronic.\n\nAffet H. M. Labit: I have a huge plan that depends on the tea that has not arrived, but I am convinced that the new country— I hope the Bank will send you the payment collection.",
+  "date": "20 August 1952"
+}

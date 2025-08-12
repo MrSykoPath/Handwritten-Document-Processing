@@ -1,0 +1,32 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi",
+    "Samir Youssef Saloum"
+  ],
+  "Places": [
+    "Cairo",
+    "Alexandria",
+    "Rue de l’Eglise Maronite No 1",
+    "Rue Neuve No 49"
+  ],
+  "companies": [
+    "Rachid Behna (Negociant)"
+  ],
+  "commodities": [
+    {
+      "name": "Amber Grain",
+      "date": "15 March 1936",
+      "price": "12 Pke"
+    },
+    {
+      "name": "Amber Grain",
+      "date": "15 March 1936",
+      "price": "11.5 Pke"
+    }
+  ],
+  "extracted_text": "Le Caire, le 15 Mars 1936.\nMes Frères,\nVotre lettre m’est parvenue hier.\nJoseph Mizrahi : J’ai passé dans son livre les versements suivant votre faveur, ainsi que la lettre Arab et Lake.\nJe viens de lui téléphoner et il m’a dit avoir encaissé L.P 75 qu’il espère vous envoyer demain avec les autres encaissements, car il a beaucoup de chèques qu’il veut changer d’ici à demain. Il m’a dit avoir encaissé de Limondi L.P 18 sur la L.P 599 qu’il avait retirée, et il lui a vendu 5 hallas; il vous écrira longuement ce soir.\nSamir Youssef Saloum : Il a payé un à valeur de 7 000 L.P. et il s’est promis, à Latte, de lui payer le solde ce soir ou demain; ce sera pour demain.\nAbou Farag à K.S. : Notez que le frère a acheté de chez Tewfiq Abdel Mottalib de l’Amber Grain à 12 Pke et que la maison en vend à 11.5 et d’ailleurs à 13. Il a promis à Latte de lui payer lundi une à valeur sur la Jénrie Debous.",
+  "language": "fr",
+  "Translation_to_English": "Cairo, 15 March 1936.\nMy Brothers,\nYour letter reached me yesterday.\nJoseph Mizrahi: I have entered in his book the payments according to your favor, as well as the Arab and Lake letter.\nI have just called him and he told me that he cashed L.P 75 which he hopes to send you tomorrow together with the other cashings, because he has many checks that he wants to change between now and tomorrow. He told me he cashed from Limondi L.P 18 on the L.P 599 he had withdrawn, and he sold him 5 hallas; he will write to you at length this evening.\nSamir Youssef Saloum: He paid a draft valued at L.P 7,000 and promised, in Latte, to pay him the balance this evening or tomorrow; it will be tomorrow.\nAbou Farag at K.S.: Note that the brother bought from Tewfiq Abdel Mottalib Amber Grain at 12 Pke and that the firm sells it at 11.5 and elsewhere at 13. He promised Latte to pay him Monday a draft on the Debous Bank.",
+  "date": "15 March 1936"
+}

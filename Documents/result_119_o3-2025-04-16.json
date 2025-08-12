@@ -1,0 +1,29 @@
+{
+  "Persons": [
+    "Abni Linkstein",
+    "Laki",
+    "Vassieli"
+  ],
+  "Places": [
+    "Jers"
+  ],
+  "companies": [
+    "Fabrique Glass Melada"
+  ],
+  "commodities": [
+    {
+      "name": "Gilet Number 129",
+      "date": "unknown",
+      "price": "193"
+    },
+    {
+      "name": "Five copper pieces",
+      "date": "unknown",
+      "price": "7.32 Lt"
+    }
+  ],
+  "extracted_text": "Abni Linkstein, Laki a été de nouveau et je vous écrirai longuement la réponse de ce Monsieur et qu’il veut renvoyer 769 de la perche…\nFabrique Glass Melada. J’ai eu une longue conversation avec Vassieli, et il s’est trouvé, dit-il, qu’il a pris plusieurs paquets, mais il trouve que le poids est de 8 grammes, et aussi l’emballage en dedans est fait à la hâte et sans faire attention.\nIl m’a envoyé 5 boîtes, que je vous envoie pour que vous fassiez une idée de l’emballage… Il s’agit des boîtes rouges…\nIl n’y a pas de commande pour demain, car ils ont de grands stocks, mais ils espèrent lundi.\nNous avons reçu une bonne commande. Il veut lancer à Jers un fer au vent, mais il attend, dit-il, de recevoir les paquets avec un poids supérieur.\nIl en a déjà un stock qu’il a déjà augmenté. Il ne veut pas serrer.\nQuant à l’emballage, vous renseignerez vous-même dans quel état il se fait.\nGilet N° 129 Mayoul 500. Note que les 5 cuivres coûtent 7,32 Lt; mais malheureusement l’article est vendu ici à 193.— avec escompte.\nIl m’a envoyé ½ de l’affaire 1810 mais m’a assuré qu’il vend à 193.—.\nJ’attendrai un peu, espérant que votre article sorte avec un surplus, alors on peut le vendre un peu plus cher.",
+  "language": "fr",
+  "Translation_to_English": "Abni Linkstein, Laki was here again and I will write to you at length the reply of this gentleman who wants to send back 769 of the pole…\nFactory Glass Melada. I had a long conversation with Vassieli and he told me that he has taken several packages, but he finds that the weight is 8 grams and also that the inner packaging is done in haste and without paying attention.\nHe sent me 5 boxes, which I am sending you so that you can get an idea of the packaging… They are the red boxes…\nThere are no orders for tomorrow because they have large stocks, but they are hoping for Monday.\nWe have received a good order. He wants to launch in Jers a trial shipment, but he is waiting, he says, to receive the packages with a higher weight.\nHe already has stock that he has increased. He does not want to compress.\nAs for the packaging, you can find out for yourself in what condition it is.\nGilet Number 129 Mayoul 500. Note that the five copper pieces cost 7.32 Lt; but unfortunately the item is sold here at 193 with discount.\nHe sent me half of lot 1810 but assured me that he sells at 193.\nI will wait a little, hoping that your item will come out with a premium, then we can sell it a little more expensive.",
+  "date": "unknown"
+}

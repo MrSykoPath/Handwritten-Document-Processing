@@ -1,0 +1,28 @@
+{
+  "Persons": [
+    "Jean Ramadan",
+    "Achille Guinguin"
+  ],
+  "Places": [
+    "Karachi"
+  ],
+  "companies": [
+    "Labet Frères"
+  ],
+  "commodities": [
+    {
+      "name": "Children socks length 34/9, 34/5, 9/11, 7/17",
+      "date": "1936-09-09",
+      "price": "c.i.f Karachi 35/00"
+    },
+    {
+      "name": "Lot Service colors article 384 F7",
+      "date": "1936-05-18",
+      "price": "Not specified"
+    }
+  ],
+  "extracted_text": "Chaussettes Jean Ramadan. Note que vous avez câblé demandant cotations cif Karachi de 35/00 y. Chaussettes enfants de longueurs 34/9, 34/5, 9/11, 7/17.\nJe crois, j’ai idée de m’en faire un premier en réception. La proposition. Attendant 9-9 prix et si le navire entre dans l’Ind. Ce matin Devaux qui a trouvé le Ministre a approuvé une rectification du traité de douane et droits préférentiels a convenu; on saura d’ici à lundi si alors on tiendra des brèches de marché ou se consentir de commander.\nÉtat mis à jour pour aujourd’hui et j’espère vous envoyer les chiffres la semaine prochaine.\nGuinguin Achille. Note que vous avez remis cet effet tirant à la fiche du 18-5-36 et que la caisse en compensation, et je ne trouve aucun qui conviennent.\nLabet Frères. Reçu le billet que vous vouliez ainsi que la facture pour le lot Service couleurs art. 384 F7 et concernant le recouvrement.\nJe suis très absorbé. Reçu le paquet de matières T.B. spécial 22 m ainsi que les fournitures et assuré le rassemblement progressivement. J’espère vous envoyer bientôt la somme de LFr 2/10.",
+  "language": "fr",
+  "Translation_to_English": "Socks Jean Ramadan. Note that you cabled requesting cif Karachi quotations of 35/00 y. Children’s socks of lengths 34/9, 34/5, 9/11, 7/17.\nI believe I intend to place a first order upon receipt. The proposal. Waiting for 9-9 prices and whether the ship enters the Ind. This morning Devaux, who met the Minister, approved a correction of the customs treaty and preferential duties; we will know by Monday whether we will break the market or agree to place the order.\nStatus updated for today and I hope to send you the figures next week.\nAchille Guinguin. Note that you delivered the draft referred to the file of 18-5-36 and that the cash in compensation, and I cannot find any that suit.\nLabet Frères. Received the note you wanted as well as the invoice for the lot Service colors art. 384 F7 and concerning the collection.\nI am very busy. Received the parcel of T.B. special 22 m materials as well as the supplies and ensured the gathering gradually. I hope to send you soon the sum of LFr 2/10.",
+  "date": "1936-05-18"
+}

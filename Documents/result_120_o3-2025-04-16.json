@@ -1,0 +1,32 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Farkus",
+    "Tata Fares",
+    "Isaac Latour",
+    "Hanna Manassian"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Chimie carb",
+      "date": "",
+      "price": "889 Lp"
+    },
+    {
+      "name": "Barrel (unspecified merchandise)",
+      "date": "25 July (year not stated)",
+      "price": "1 267 Lp"
+    },
+    {
+      "name": "Unspecified merchandise",
+      "date": "1913 (exact day and month not stated)",
+      "price": "50 Lp"
+    }
+  ],
+  "extracted_text": "2.\n\nRACHID BEHNA\n\nClient Farkus … Obtenez aux longues … que je cours derrière Monsieur pour droit le compte. Était de Lp 500, mais pas moyen qu’il ferme son compte par des effets, il est trop insupportable et nous devons patienter.\nDéficit safra. Reçu et merci.\n\nTata Fares : Tient le ticket de grande vitesse ainsi que la facture pour les 7/9. Chimie carb 889 Lp et je régulariserai.\n\nLes 7/9 sont en balles 4 et 5 dont N° 5 Lp en frille N et 25 % en balle 5. Il a pris seulement 22 balles N et 2 Lp balle 5 et il m’a retourné 2 Lp en balle 4 …\n\nNote sur nos alliés rotin : A de la Bradel d’Allalal bon places.\n\nFinancièrement, j’espère vous envoyer demain Lp 7 — mercredi de la semaine.\n\nIsaac Latour : Je lui ai vendu et lui livrerai un baril et vous prie de m’envoyer la fiche pour 1 267 Lp, juillet 25m. 886/45.\n\nHanna Manassian : Je lui ai vendu et vous prie de m’expédier 1913 — 50 Lp … 812 c 4.",
+  "language": "fr",
+  "Translation_to_English": "2.\n\nRACHID BEHNA\n\nClient Farkus … Please keep after him; I have been chasing the gentleman for a long time about settling the account. It was 500 Lp, but there is no way he will close his account with drafts; he is too unbearable and we must be patient.\nDeficit safra. Received and thanks.\n\nTata Fares: He holds the express receipt as well as the invoice for the 7/9. Chimie carb 889 Lp and I will settle it.\n\nThe 7/9 are in bales 4 and 5, of which No. 5 Lp in grade N and 25 % in bale 5. He took only 22 bales N and 2 Lp bale 5 and returned 2 Lp in bale 4 …\n\nNote on our allies in rattan: A from Bradel of Allalal good positions.\n\nFinancially, I hope to send you tomorrow 7 Lp — Wednesday of the week.\n\nIsaac Latour: I sold him and will deliver a barrel and ask you to send me the record for 1 267 Lp, July 25. 886/45.\n\nHanna Manassian: I sold him and ask you to ship 1913 — 50 Lp … 812 c 4.",
+  "date": ""
+}

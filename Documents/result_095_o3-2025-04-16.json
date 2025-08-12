@@ -1,0 +1,25 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Youssef Mizrahi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Egypt"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Unspecified shipment",
+      "date": "1936-05-25",
+      "price": "50 milliemes"
+    }
+  ],
+  "extracted_text": "مصر فى ٢٤ مايو ١٩٣٦\nالإسكندرية\nحضرة الحاج رشيد المحترم\nبعد السلام نفيدكم رداً على مكاتيبكم رقم … المؤرخة … بأن السبب فى تأخر وصول الشحنة التى طلبتم لنا واردة من يوسف مزراحى، أن الباخرة التى كانت حاملة لها تأخرت ولم تصل إلى الميناء لغاية اليوم، وقد راجعنا إدارة الجمارك فأفادونا بأن الشحنة لم تُفرَّغ بعد وسوف تُفرغ إن شاء الله يوم ٢٥/٥/١٩٣٦. عند وصولها سنقوم فوراً بشحنها إلى حضراتكم.\nأما طلبكم رقم ٦٩٦ الذى تسألون عنه فقد ورد إلينا منه أمس كمية واحدة، وقد باع سمسار السوق لنا هذه الكمية بسعر ٥٠ مليماً، ولما كان السعر منخفضاً فقد فضلنا عدم التصرف بها إلى حين وصول تعليماتكم.\nبرجاء إعلامنا برأيكم حتى نتمكن من تنفيذ أوامركم.\nوتفضلوا بقبول فائق الاحترام.\nخادمكم\nرشيد بهنا",
+  "language": "ar",
+  "Translation_to_English": "Egypt, 24 May 1936\nAlexandria\nRespected Al-Hajj Rachid,\nAfter greetings, we inform you in reply to your letters No. … dated … that the reason for the delay in the arrival of the shipment you requested from Youssef Mizrahi is that the steamer carrying it has been delayed and has not yet reached the port until today. We contacted the Customs Administration and they informed us that the shipment has not yet been unloaded and will, God willing, be unloaded on 25/05/1936. When it arrives we will immediately forward it to you.\nAs for your order No. 696 which you asked about, we received yesterday only one lot, and the market broker sold this lot for us at the price of 50 milliemes. As the price is low, we preferred not to dispose of it until receiving your instructions.\nPlease inform us of your opinion so that we may carry out your orders.\nWith highest regards,\nYour servant,\nRachid Behna",
+  "date": "1936-05-24"
+}

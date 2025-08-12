@@ -1,0 +1,16 @@
+{
+  "Persons": ["Rachid Behna"],
+  "Places": [],
+  "companies": ["Rachid Behna"],
+  "commodities": [
+    {
+      "name": "scrap (unspecified type)",
+      "date": "1955-04-20",
+      "price": "90 per kilogram"
+    }
+  ],
+  "extracted_text": "سيدي\nورَدَ لنا للضرورة، سبق أن كنا متعاقدَيْن سابقَيْن وقدمتُ هذه بالخُردة ثلاث دُفعات، المبالغ التي نتكلم منها وساهم من سعر صنفه الكيلو ٩٠، ويمكنه أن يبيع لنا من الموجود عنده والمقدار ١٥٤ كيلو، الواحدة يلتزم عُهداً، ونطلب منهم هذه الورقة.\nرشيد بهنا وشركاه\n٢٠-٤-١٩٥٥",
+  "language": "ar",
+  "Translation_to_English": "Sir,\nFor an urgent need, since we had previously contracted together, I delivered this lot of scrap in three installments. The amounts we refer to and the price of its grade are ninety per kilogram. He can sell us from what he has in stock a quantity of one hundred and fifty-four kilograms, to which he is obliged. We request this note from them.\nRachid Behna and Partners\n20-04-1955",
+  "date": "1955-04-20"
+}

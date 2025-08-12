@@ -1,0 +1,36 @@
+{
+  "Persons": [
+    "Dr Rachid Behna",
+    "Georges Lichtlé",
+    "Hussein Lawi",
+    "Jacques Krouk",
+    "Fahim Tadres Milanez",
+    "Vautrin"
+  ],
+  "Places": [],
+  "companies": [
+    "Cinéma Raisins",
+    "Cinéma Mon"
+  ],
+  "commodities": [
+    {
+      "name": "oranges",
+      "date": "",
+      "price": "fr 18.-"
+    },
+    {
+      "name": "green (unspecified product)",
+      "date": "",
+      "price": "fr 20.-"
+    },
+    {
+      "name": "red (unspecified product)",
+      "date": "",
+      "price": "fr 40.-"
+    }
+  ],
+  "extracted_text": "2/\n\nDr RACHID BEHNA\n\nGeorges Lichtlé. Je lui ai vendu et vous prie de m’expédier 30 kg sucre noir 24/20 H. à 18.5\n\nHussein Lawi. Je lui ai vendu sauf approbation par le bateau arrivant le 9.6.36\nLa ch enf courts 341 à 7.-\n\nJacques Krouk. Je lui ai vendu sauf approbation par le bateau arrivant le 9.6.36\nLa ch enf courts 341 à 7.-\n\nFahim Tadres Milanez. Demain vous recevrez la commande suivante :\n\n10.000 oranges à fr 18.-\n5.000 verts à fr 20.-\n5.000 rouges à fr 40.-\n\nVeuillez je vous prie avoir la fabrique encore une fois faire l’emballage intérieur, car Vautrin m’a fait des remarques à ce sujet.\n\nVeuillez je vous prie m’envoyer 30 billets de Cinéma Raisins car Vautrin veut les remplacer avec 30 billets de Cinéma Mon…\n\nRenseignements. J’espère vous envoyer demain L/O. à peu près.\n\nFaites entrer pour ce soir.\n\nBien à vous\nR.",
+  "language": "fr",
+  "Translation_to_English": "2/\n\nDr RACHID BEHNA\n\nGeorges Lichtlé. I sold to him and ask you to ship me 30 kg of black sugar 24/20 H. at 18.5\n\nHussein Lawi. I sold to him subject to approval by the ship arriving on 9.6.36\nThe short item 341 at 7.-\n\nJacques Krouk. I sold to him subject to approval by the ship arriving on 9.6.36\nThe short item 341 at 7.-\n\nFahim Tadres Milanez. Tomorrow you will receive the following order:\n\n10,000 oranges at fr 18.-\n5,000 green at fr 20.-\n5,000 red at fr 40.-\n\nPlease, I ask you to have the factory once again do the internal packaging, because Vautrin made remarks about it.\n\nPlease, I ask you to send me 30 tickets for Cinéma Raisins because Vautrin wants to replace them with 30 tickets for Cinéma Mon…\n\nInformation. I hope to send you tomorrow the L/O approximately.\n\nBring it in for tonight.\n\nYours sincerely,\nR.",
+  "date": "1936-06-09"
+}

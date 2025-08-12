@@ -1,0 +1,41 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Jacques Tischlmith"
+  ],
+  "Places": [],
+  "companies": [
+    "Chemin Éclair Anglais"
+  ],
+  "commodities": [
+    {
+      "name": "Zinc",
+      "date": "Not specified",
+      "price": "Not specified"
+    },
+    {
+      "name": "Nickel",
+      "date": "Not specified",
+      "price": "Not specified"
+    },
+    {
+      "name": "Iron shoe (Sabot fer)",
+      "date": "Not specified",
+      "price": "Not specified"
+    },
+    {
+      "name": "English Light Railway bond 5 %",
+      "date": "Not specified",
+      "price": "834 francs"
+    },
+    {
+      "name": "Rad. Gp. 22 M units",
+      "date": "Not specified",
+      "price": "Not specified"
+    }
+  ],
+  "extracted_text": "2.\n\nRACHID BEHNA\n\nMarch: De nouveau aujourd’hui un calme et on n’arrive pas à comprendre et dire que nous sommes au commencement du mois… et il faut une baisse terrible et pas de demande des articles. J’espère, Allah, quand même ça s’améliore.\n\nSanté ça va un peu mieux, mais je rentre de bonne heure et j’espère que ça ira mieux de jour en jour.\n\nZinc, Nickel. Je lui ai vendu et vous prie de m’informer.\n\nSabot fer. Nifle lui ai vendu et vous prie de m’informer.\n\n3880 : 10 % Chemin eclair angl. 834 Fr 5 %. Jacques Tischlmith. Je vous prie de m’expédier.\n\n9 unités Rad. Gp. 22 M. à 2 h. suis offert sous autre forme ce bon :\n\n[signature]",
+  "language": "fr",
+  "Translation_to_English": "2.\n\nRACHID BEHNA\n\nMarch: Once again today is quiet and we cannot understand it, saying that we are at the beginning of the month… and a terrible reduction is needed and there is no demand for the items. I hope, God, that it will nevertheless get better.\n\nHealth: it is a little better, but I come home early and I hope it will get better day by day.\n\nZinc, Nickel. I sold to him and ask you to inform me.\n\nIron shoe. I sold to him and ask you to inform me.\n\n3880: 10 % English Light Railway 834 francs at 5 %. Jacques Tischlmith. I ask you to ship it to me.\n\n9 units Rad. Gp. 22 M. at 2 o’clock are offered; this voucher is in another form:\n\n[signature]",
+  "date": "March (year unspecified)"
+}

@@ -1,0 +1,33 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Said",
+    "G. A. Lalonde",
+    "Guirguis Mikhail"
+  ],
+  "Places": [
+    "London"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Pound Sterling",
+      "date": "13 May 1936",
+      "price": "750"
+    },
+    {
+      "name": "Pound Sterling",
+      "date": "19 May 1936",
+      "price": "2400"
+    },
+    {
+      "name": "Pound Sterling",
+      "date": "24 May 1936",
+      "price": "2055.5"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\n\nSaid : ce n’est pas très bien, mais G. A. Lalonde m’a tranquillisé, car je n’ai pas d’ennuis. M. d’Algérie, il m’a dit qu’il me faut pour être régulier et, une fois calme, j’allais voir la situation en insulaire et tout, c’est sûr ; il a peur du cours, mais grâce à nous c’est très bon. Ils Allah sont très bien avec nous actuellement.\n\nJe pense qu’il faut un effort de 3055.5 livres régulièrement courant avril.\n\nLondon 13.5.36      750.-\n                     2400.-\n                     3150\n                     24.V\n                     2055.5\n\nVeillez au reçu, réception :\nGuirguis Mikhail. Je lui ai vendu et suis payé de ces espèces.\n\n…\n\nMon cher Behna. 2420 …",
+  "language": "fr",
+  "Translation_to_English": "RACHID BEHNA\n\nSaid: it is not very good, but G. A. Lalonde reassured me, because I have no troubles. The gentleman from Algeria told me that I need this to be regular and, once calm, I would go to see the situation on the island and everything, it is certain; he is afraid of the exchange rate, but thanks to us it is very good. They, Allah, are very good with us at present.\n\nI think an effort of 3055.5 pounds is necessary, regularly during April.\n\nLondon 13-5-36      750.-\n                     2400.-\n                     3150\n                     24-V\n                     2055.5\n\nSee to the receipt, reception:\nGuirguis Mikhail. I sold to him and have been paid in cash.\n\n…\n\nMy dear Behna. 2420 …",
+  "date": "13 May 1936"
+}

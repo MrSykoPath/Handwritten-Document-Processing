@@ -1,0 +1,28 @@
+{
+  "Persons": [
+    "Rachid Benna",
+    "Salomon",
+    "Victor de Boro",
+    "Hans Maessen"
+  ],
+  "Places": [
+    "Paris"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "cakes (50 % fat)",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "general goods",
+      "date": "",
+      "price": "170 francs"
+    }
+  ],
+  "extracted_text": "Nous remercions pour l’achat et la facture pour les 50 % gâteaux (Réf. 812) et un jour de remboursement.\n\nNotez que la caisse contient 100 kg et je prendrai les 50 % restants.\n\nEn conséquence, je compte vous envoyer demain la somme de 170 F que j’ai encaissée aujourd’hui de Monsieur … et Monsieur Salomon.\n\nMerci. Encore Monsieur Victor de Boro et personne n’est content. Victor de Boro se plaint beaucoup ; surtout dans les articles en émail, il dit que tous les clients à Paris sont en faillite, et le local gâte à la douane ; ils sont aussi calmes.\n\nMonsieur Hans Maessen m’a dit que nous sommes au commencement d’une crise comme en 1921. Si on ne vend pas les marchandises on perdra beaucoup plus d’argent que de vendre à quelqu’un qui n’a pas d’argent pour vivre, même pour les marchandises japonaises.\n\nChacun attend. Il a vu que nos clients travaillent à peine jusqu’à juin-juillet, ils ne veulent rien acheter. Il me conseille d’être très prudent et de ne pas contracter de dettes car, si la marchandise perd de la valeur, les clients aujourd’hui ne paieront pas.",
+  "language": "fr",
+  "Translation_to_English": "We acknowledge receipt of the purchase order and the invoice for the 50 % cakes (Ref. 812) and, at the same time, the reimbursement.\n\nPlease note that the crate contains 100 kg and I will take the remaining 50 %.\n\nConsequently, I intend to send you tomorrow the sum of 170 francs that I collected today from Mr. … and Mr. Salomon.\n\nThank you. Mr. Victor de Boro still complains and no one is satisfied. Victor de Boro complains a lot; especially with enamel articles, he says that all the customers in Paris are bankrupt, and the local stock is rotting in customs; they are equally inactive.\n\nMr. Hans Maessen told me that we are at the beginning of a crisis like in 1921. If we do not sell the goods we will lose much more money than by selling them to someone who has no money to live on, even Japanese goods.\n\nEveryone is waiting. He has noticed that our clients are barely working until June-July; they do not want to buy anything. He advises me to be very careful and not to take on debts, because if the goods lose value, today’s clients will not pay.",
+  "date": ""
+}

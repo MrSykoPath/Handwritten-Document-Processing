@@ -1,0 +1,86 @@
+Below is a best-effort OCR transcription of the handwritten page, followed by the requested structured JSON.  
+Because the handwriting is difficult to read, a few words are uncertain and are marked with “[illegible]”.
+
+Full transcription (French):
+2.  
+RACHID SEHNA  
+
+Moïse Ouk … Reçu 2 poches pour les 50 kg de gâteaux et tante de la sardine 9/12, tirées au banc de [illegible] – original de recouvrement.  
+Henri Mancavrio : Reçu le ticket et la poche pour les 3a chevalets enfants 916a, 17/14 [illegible] – le règlement.  
+Hassan Keni : Reçu le ticket et la poche pour les [illegible] 916a, 84v [illegible] – le remboursement.  
+Jacques Douek : Reçu le ticket et la poche pour [illegible] 25 kg, gâteaux 82 a – acquitté et règlement.  
+Guy Kaïl : Reçu le ticket et la poche pour la C.H. État 34 v – acquitté et règlement.  
+G.H. Labat : Reçu le ticket et la poche pour la C.H. État 34 v – enfants – remboursement.  
+Yaac Yebroum : Reçu le ticket et la poche pour la C.H. État 34 v – acquitté – remboursement.  
+Coli Neskél : Reçu billet N° A 2120 & 11 piastres – proposé : j’ai pu obtenir 7/8 … j’avais de l’idée de vendre. Quand à Paris, le 24 août, personne n’a voulu me donner une offre, je continuerai à m’en occuper.  
+Revenu au courant, n’y allons demain, la 17 septembre, majeur 8929 – profite la rencontre à nos chalets.
+
+Translation to English:
+2.
+RACHID SEHNA
+
+Moïse Ouk … Received 2 bags for the 50 kg of pastries and sardine pie 9/12, taken from the [illegible] – original for collection.  
+Henri Mancavrio: Received the ticket and the bag for the 3a children’s easels 916a, 17/14 [illegible] – payment.  
+Hassan Keni: Received the ticket and the bag for the [illegible] 916a, 84v [illegible] – reimbursement.  
+Jacques Douek: Received the ticket and the bag for [illegible] 25 kg, pastries 82 a – settled and paid.  
+Guy Kaïl: Received the ticket and the bag for the C.H. State 34 v – settled and paid.  
+G.H. Labat: Received the ticket and the bag for the C.H. State 34 v – children – reimbursement.  
+Yaac Yebroum: Received the ticket and the bag for the C.H. State 34 v – settled – reimbursement.  
+Coli Neskél: Received slip No. A 2120 & 11 piastres – proposed: I was able to get 7/8 … I had the idea to sell. As for Paris, on August 24, no one wanted to give me an offer, I will keep handling it.  
+Came back up to date; we will go there tomorrow, September 17, major 8929 – enjoy the meeting at our chalets.
+
+Structured JSON (all attribute values are in English except “extracted_text” as requested):
+
+{
+  "Persons": [
+    "Rachid Sehna",
+    "Moïse Ouk",
+    "Henri Mancavrio",
+    "Hassan Keni",
+    "Jacques Douek",
+    "Guy Kaïl",
+    "G.H. Labat",
+    "Yaac Yebroum",
+    "Coli Neskél"
+  ],
+  "Places": [
+    "Paris"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Pastries",
+      "date": "9/12",
+      "price": "50 kg"
+    },
+    {
+      "name": "Sardine pie",
+      "date": "9/12",
+      "price": "not specified"
+    },
+    {
+      "name": "Easels for children",
+      "date": "17/14",
+      "price": "3a 916a"
+    },
+    {
+      "name": "Pastries",
+      "date": "not specified",
+      "price": "82 a, 25 kg"
+    },
+    {
+      "name": "Unknown commodity (ticket CH État 34v)",
+      "date": "not specified",
+      "price": "not specified"
+    },
+    {
+      "name": "Unknown commodity (slip A 2120)",
+      "date": "not specified",
+      "price": "11 piastres"
+    }
+  ],
+  "extracted_text": "2.\nRACHID SEHNA\n\nMoïse Ouk … Reçu 2 poches pour les 50 kg de gâteaux et tante de la sardine 9/12, tirées au banc de [illegible] – original de recouvrement.\nHenri Mancavrio : Reçu le ticket et la poche pour les 3a chevalets enfants 916a, 17/14 [illegible] – le règlement.\nHassan Keni : Reçu le ticket et la poche pour les [illegible] 916a, 84v [illegible] – le remboursement.\nJacques Douek : Reçu le ticket et la poche pour [illegible] 25 kg, gâteaux 82 a – acquitté et règlement.\nGuy Kaïl : Reçu le ticket et la poche pour la C.H. État 34 v – acquitté et règlement.\nG.H. Labat : Reçu le ticket et la poche pour la C.H. État 34 v – enfants – remboursement.\nYaac Yebroum : Reçu le ticket et la poche pour la C.H. État 34 v – acquitté – remboursement.\nColi Neskél : Reçu billet N° A 2120 & 11 piastres – proposé : j’ai pu obtenir 7/8 … j’avais de l’idée de vendre. Quand à Paris, le 24 août, personne n’a voulu me donner une offre, je continuerai à m’en occuper.\nRevenu au courant, n’y allons demain, la 17 septembre, majeur 8929 – profite la rencontre à nos chalets.",
+  "language": "fr",
+  "Translation_to_English": "2.\nRACHID SEHNA\n\nMoïse Ouk … Received 2 bags for the 50 kg of pastries and sardine pie 9/12, taken from the [illegible] – original for collection.\nHenri Mancavrio: Received the ticket and the bag for the 3a children’s easels 916a, 17/14 [illegible] – payment.\nHassan Keni: Received the ticket and the bag for the [illegible] 916a, 84v [illegible] – reimbursement.\nJacques Douek: Received the ticket and the bag for [illegible] 25 kg, pastries 82 a – settled and paid.\nGuy Kaïl: Received the ticket and the bag for the C.H. State 34 v – settled and paid.\nG.H. Labat: Received the ticket and the bag for the C.H. State 34 v – children – reimbursement.\nYaac Yebroum: Received the ticket and the bag for the C.H. State 34 v – settled – reimbursement.\nColi Neskél: Received slip No. A 2120 & 11 piastres – proposed: I was able to get 7/8 … I had the idea to sell. As for Paris, on August 24, no one wanted to give me an offer, I will keep handling it.\nCame back up to date; we will go there tomorrow, September 17, major 8929 – enjoy the meeting at our chalets.",
+  "date": "17 September (year not specified)"
+}

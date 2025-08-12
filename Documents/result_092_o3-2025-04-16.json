@@ -1,0 +1,25 @@
+{
+  "Persons": [
+    "Monsieur Fetta"
+  ],
+  "Places": [],
+  "companies": [
+    "Fabrique Cabane Gelée"
+  ],
+  "commodities": [
+    {
+      "name": "oranges",
+      "date": "",
+      "price": "F 18"
+    },
+    {
+      "name": "berges",
+      "date": "",
+      "price": "F 40"
+    }
+  ],
+  "extracted_text": "Avant, A.L. je vous communique les offres de …\nIl s’agit pour moi à … à cet service, surtout que M. Loum a accepté l’offre de F 18,5.\nFabrique Cabane Gelée. Notez que la fabrique a reçu et livré les 20 kilos test. Aujourd’hui ils ont passé une commande de 10.000 oranges à F 18 – 5.000 berges à F 40.\nAllalat viendra aussi. Ils passeront une bonne commande. J’ai causé à Revelion pour des boîtes vides, et il m’a dit que ça ne marche pas, mais il fera de son mieux pour achever le nouveau complément. Nous étions dit : il doit la faire chaude et les Arabes sont en tumulte sur le marché, mais qu’il faut à son niveau pour maintenir la consommation.\nAllalat qui …\nHôtel Biz Loy Ressaïm : c’est un autre échantillon que Monsieur Fetta a et l’a renvoyé, et aujourd’hui il va exiger ce que vous avez demandé, avec quelques explications.",
+  "language": "fr",
+  "Translation_to_English": "Beforehand, A.L., I am forwarding you the offers of …\nFor my part … for this service, especially since Mr. Loum accepted the offer of F 18.5.\nFactory Cabane Gelée. Note that the factory received and delivered the 20-kilo test. Today they placed an order for 10,000 oranges at F 18 and 5,000 berges at F 40.\nAllalat will also come. They will place a good order. I spoke to Revelion about empty boxes, and he told me it does not work, but he will do his best to finish the new addition. We also said: he must make it hot and the Arabs are in turmoil on the market, but he must, at his level, maintain consumption.\nAllalat who …\nHotel Biz Loy Ressaïm: this is another sample that Monsieur Fetta has and sent back, and today he is going to demand what you requested, with some explanations.",
+  "date": ""
+}

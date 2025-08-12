@@ -1,0 +1,31 @@
+{
+  "Persons": [
+    "Nicolas",
+    "M. Faron",
+    "G. Mizrahi",
+    "Moussa Latif",
+    "Jacques Durack"
+  ],
+  "Places": [
+    "Rue de Richelieu"
+  ],
+  "companies": [
+    "Fabrique de Câbles Nicolas"
+  ],
+  "commodities": [
+    {
+      "name": "Cloth bolts (draps)",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "Oranges",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Fabrique de Câbles Nicolas. Hier vous leur avez livré 5000 draps et pour lundi ils recevront le restant soit 5000 oranges. Aujourd’hui ils ont payé 5000 draps. Seulement moi, ils m’ont dit qu’en vendredi ils expédient pièces une bonne semaine. J’étais chez eux cette dernière nuit et leur ai remis les 30 états de fleurs et ils veulent qu’on enregistre les ventes pour des verts pour mettre à la sortie et demander la place que ça occupe aujourd’hui. Car M. Faron a le même avis mais plus court.\nG. Mizrahi rue de Richelieu grande maison ancienne facture pour le stock à ordre de l’article 29.20. Et lui ai livré là 3 fr. On achèvera ça à son bureau le recouvrement.\nMoussa Latif. Je lui ai confirmé en cas que le prix arrive courant la semaine 341 et par la facture arrivant le 9.6.36.\nJacques Durack. Je lui ai confirmé en cas qu’il fasse envoyer rapidement la facture du 29.4. Projet Latif arrivant le 9.6.36.\nJ’espère que demain je vous enverrai des chiffres suivant que je pourrai car mon encrier m’est perdu, c’est donc à elle nouvelle parole.",
+  "language": "fr",
+  "Translation_to_English": "Nicolas Cable Factory. Yesterday you delivered them 5000 bolts of cloth and by Monday they will receive the remainder, that is 5000 oranges. Today they paid 5000 bolts of cloth. They only told me that on Friday they will ship pieces for a good week. I was at their place last night and handed them the 30 flower statements and they want the sales to be recorded for the greens to be displayed at the exit and to ask about the space it occupies today. Because Mr. Faron has the same opinion but shorter.\nG. Mizrahi, Rue de Richelieu, large old house, invoice for the stock ordered under article 29.20. And I delivered him there at 3 francs. We will finish that at his office with the collection.\nMoussa Latif. I confirmed to him that if the price reaches 341 during the week, the invoice arriving on 9.6.36 applies.\nJacques Durack. I confirmed to him that he should quickly send the invoice of 29.4. Latif project arriving on 9.6.36.\nI hope that tomorrow I will send you the figures as I can because my inkwell is lost, so this is a new statement.",
+  "date": "1936-06-09"
+}

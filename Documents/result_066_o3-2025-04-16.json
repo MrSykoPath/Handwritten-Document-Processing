@@ -1,0 +1,57 @@
+{
+  "Persons": [
+    "Mikhail",
+    "Chiroux",
+    "Rachid"
+  ],
+  "Places": [
+    "Nîmes",
+    "Neuilly",
+    "Canada",
+    "Hammam Rhamanis"
+  ],
+  "companies": [
+    "Société du Saïd"
+  ],
+  "commodities": [
+    {
+      "name": "Horses",
+      "date": "",
+      "price": "34 French Francs each for approximately 216 horses"
+    },
+    {
+      "name": "Invoice",
+      "date": "28 May 1926",
+      "price": "1025 French Francs"
+    },
+    {
+      "name": "Invoice",
+      "date": "11 May 1926",
+      "price": "410 French Francs"
+    },
+    {
+      "name": "Invoice",
+      "date": "19 May 1926",
+      "price": "2400 French Francs"
+    },
+    {
+      "name": "Invoice",
+      "date": "26 May 1926",
+      "price": "704 French Francs"
+    },
+    {
+      "name": "Invoice",
+      "date": "29 May 1926",
+      "price": "1990 French Francs"
+    },
+    {
+      "name": "Invoice",
+      "date": "30 May 1926",
+      "price": "388.50 French Francs"
+    }
+  ],
+  "extracted_text": "Nîmes Direct.\nJe lui ai confirmé par les précédents arrivages qu’on peut fournir dans d’autres caisses. Chevaux en tout env. 216 à 40.. les 34 fr. – Société du Saïd. Note qu’ils descendent le N.S. pour discuter le prix et visiter d’autres marchandises ici. J’espère qu’ils achèteront au montant important.\n\nNote. Il y a une note sur Hammam Rhamanis qui est très difficile, mais j’espère finir à leurs effets.\n\nChiroux fera l’envoi. Je suis d’idée de Rachid de commerce 3000 f. chaque ch. env. Elles 315 et même de L.V. 196 & 47 en or que si là nous recevrons notre confirmation.\n\nEnsuite Mikhail etc. – fait 3 effets d’un montant total de 6749 f plus régularité les factures suivantes :\nFacture 28.V.26 1025.-\nFacture 11.V.26 410.-\nFacture 19.V.26 2400.-\nFacture 26.V.26 704.-\nFacture 29.V.26 1990.-\nFacture 30.V.26 388.50\nTotal 6977.50\n1618.-\n6749.50\n\nBoîte à Paris\n\nNeuilly en accuse réception.",
+  "language": "fr",
+  "Translation_to_English": "Nîmes Direct. I confirmed to him through the previous arrivals that we can supply in other cases. Horses in total approximately 216 at 34 francs each. Société du Saïd. Note that they will come down from N.S. to discuss the price and look at other goods here. I hope they will purchase for a significant amount.\n\nNote. There is a note concerning Hammam Rhamanis which is very difficult, but I hope to finish regarding their effects.\n\nChiroux will send. I am of the idea of Rachid for business, 3000 francs each … items 315 and even of L.V. 196 & 47 in gold, and if so we will receive our confirmation.\n\nThen Mikhail etc. made 3 drafts for a total amount of 6 749 francs plus the following invoices:\nInvoice 28 May 1926: 1 025 francs\nInvoice 11 May 1926: 410 francs\nInvoice 19 May 1926: 2 400 francs\nInvoice 26 May 1926: 704 francs\nInvoice 29 May 1926: 1 990 francs\nInvoice 30 May 1926: 388.50 francs\nTotal 6 977.50\n1 618\n6 749.50\n\nBox to Paris\n\nNeuilly upon acknowledgement of receipt.",
+  "date": "30 May 1926"
+}

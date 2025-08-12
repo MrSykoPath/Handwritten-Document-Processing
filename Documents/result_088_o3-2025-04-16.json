@@ -1,0 +1,33 @@
+{
+  "Persons": [
+    "Bachir Aziz",
+    "Hussein Sami",
+    "Ahmed Abdel Baki",
+    "Rachid",
+    "Sabah Ferès",
+    "Abdel"
+  ],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Chaussettes 2420 (box 1)",
+      "date": "",
+      "price": "7.30"
+    },
+    {
+      "name": "Chaussettes 2420 (box 2)",
+      "date": "",
+      "price": "7.85"
+    },
+    {
+      "name": "Sport waistcoats (striped) – 10 ½ pieces",
+      "date": "",
+      "price": "81.29"
+    }
+  ],
+  "extracted_text": "Chaussettes 2420. Vous avez bien fait de vendre la caisse à 7 ,30 et vendre également que vous avez vendue à 7 ,85.\n\nBachir Aziz : Reçu la facture pour les trois chaussettes supplémentaires et a déjà encaissé le montant.\n\nReçu les trente crédits-notes pour le retour des trois caisses à différents clients.\n\nHussein Sami : Reçu le kifset et la facture pour la caisse n° 2420 S. et nous ferons le recouvrement.\n\nAhmed Abdel Baki : Reçu la police pour les dix-et-demi gilets, douze livres de coton, et confirme le recouvrement.\n\nRien à faire, c’est très calme, et tous attendent le commencement des autos. Dès qu’ils ont appris que Rachid est descendu, il a fort ennui ; Abdel veut que ce soit imprimé en trois coups.\n\nSabah Ferès : Je lui ai vendu et livré et vous prie de m’envoyer la facture pour 10 ½ gilets sport rayé 81 % à 29 …\n\nHussein Sami : Je lui ai vendu et vous prie de rechercher les réchésas : 3627, 1,5 ; 3629, 5 …\n\nGuigui Hafizal : N’a offert pour chaussettes civiles 8405 à 25.\n\nFlm : a offert pour la caisse neuve, crédit 394, 6,5, par la bâtisse arrivée le 9-6-26. Nous renseignerons.\n\nSous autre prix ce soir…\nRaichende",
+  "language": "fr",
+  "Translation_to_English": "Socks 2420. You were right to sell the case at 7.30 and also to sell the other one at 7.85.\n\nBachir Aziz: Invoice received for the three extra socks, and the amount has already been collected.\n\nReceived the thirty credit notes for the return of the three cases to various clients.\n\nHussein Sami: The kifset and the invoice for case No. 2420 S have been received and we will handle the collection.\n\nAhmed Abdel Baki: The policy for the ten-and-a-half waistcoats, twelve pounds of cotton, has been received and the collection is confirmed.\n\nNothing to do, it is very calm, and everyone is waiting for the start of the cars. As soon as they learned that Rachid went down, he became very annoyed; Abdel wants it printed in three copies.\n\nSabah Ferès: I have sold and delivered to him and ask you to send me the invoice for 10 ½ striped sport waistcoats at 81 % for 29 …\n\nHussein Sami: I have sold to him and ask you to look for the rechésas: 3627, 1.5; 3629, 5 …\n\nGuigui Hafizal: He did not bid for civilian socks 8405 at 25.\n\nFlm: Offered for the new case, credit 394, 6.5, by the building that arrived on 9-6-26. We will inform you.\n\nAt another price tonight…\nRaichende",
+  "date": "9 June 1926"
+}

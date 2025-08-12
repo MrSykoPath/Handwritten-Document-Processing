@@ -1,0 +1,28 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Mohammad Rachid Pasha Helmy",
+    "Abdullah Al-Khadr",
+    "Ibrahim Hosni Pasha",
+    "Ahmed Shah",
+    "Saad Ibrahim"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Cotton bale",
+      "date": "1936-05-16",
+      "price": "18,480.50"
+    }
+  ],
+  "extracted_text": "RACHID BEHNA\nNégociant\nAlexandrie – Le Caire\n\nرشيد بهنا\nصندوق البريد ١٩١٩ – تلغرافياً: بهنا\nتلفون ٤٤٤٨\nALEXANDRIE, le 16 MAI 1936\n\nجناب الأفندم سعادة ...........................................................\nبعد التحية، نشكر عواطفكم الدائمة، ونفيد علمكم أننا قد شحنّا لكم الكمية المطلوبة من بالة القطن، وقيمتها بمبلغ ١٨٤٨٠,٥٠.\n\nويضاف سبعة قروش على كل المائتين مقابل التحميص والمصاريف.\n\nقيمة الطلبية:\n١٥ - للنقل والتفريغ\n١٠ - لمصرف البنك\n\nيرجى إرسال القيمة المذكورة إلى حسابنا لدى:\nمحمد رشيد باشا حلمي .......... ٢٠٠٠\nعبد الله الخضر ............... ٤٠٠\nإبراهيم حسني باشا ............ ١٠٠٠\nأحمد شاه ..................... ١٥٠\nسعادة إبراهيم ................ ١١٠٠\nالمجموع ...................... ٧٥٥٨\n\nوتفضلوا بقبول فائق الاحترام.\nرشيد بهنا",
+  "language": "ar",
+  "Translation_to_English": "RACHID BEHNA\nMerchant\nAlexandria – Cairo\n\nPost Box 1919 – Telegraphic address: Behna – Telephone 4448\nAlexandria, 16 May 1936\n\nSir,\nAfter compliments, we thank you for your constant kindness and inform you that we have shipped to you the requested quantity of one bale of cotton, the value of which is 18,480.50.\n\nAn additional charge of seven piastres for every two hundred is due for roasting and other expenses.\n\nValue of the order:\n15 – for transport and unloading\n10 – for bank fees\n\nKindly remit the above amount to our account with:\nMohammad Rachid Pasha Helmy .......... 2,000\nAbdullah Al-Khadr .....................   400\nIbrahim Hosni Pasha ................... 1,000\nAhmed Shah .............................  150\nSaad Ibrahim .......................... 1,100\nTotal ................................. 7,558\n\nPlease accept our highest esteem.\nRachid Behna",
+  "date": "1936-05-16"
+}

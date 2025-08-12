@@ -1,0 +1,24 @@
+{
+  "Persons": [
+    "Rachid Benha",
+    "Youssef Mizrahi",
+    "Daoud",
+    "Sayed Reda",
+    "Khiyus Rizq"
+  ],
+  "Places": [
+    "Egypt"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "beans",
+      "date": "",
+      "price": "about 70 Egyptian pounds"
+    }
+  ],
+  "extracted_text": "مصر في ٧ يونيو\n\nحضرة الخواجة رشيد بك بنها\n\nبعد السلام، حضر عندي أمس داود المسلم، ما قال لي رضاه عليه الشريك المذكور، شعرت أنه لم يبع الفول للآخر، وأنه تركه عند رجل غني من المصدّرين اسمه (السيد خيويص رزق)، والآخر هو ينتظر حوالى سبعين جنيهاً، وهو يذكر أنه سيبيعهم في شهر إنجليزي.\n\nوعندي لمعروفكم إذا له عايز تنزلوا نقداً من هذا الفول الغالي فإني سامعكم، هيبقى مع إمام هذا الرجل يضمنكم ليس بائعاً، ستسددون سداد الباقي لسيد رضا.\n\nسيدي، عكسنا لا يسير خطه، وأخيراً لم أكمل منه شيء، لأني طلبت منه تسليمي إلى مبلغ القدر، ففهمت أنه غير موجود عنده حالياً، وأنه مكتوب معكم. إلى آخر الموال مع سلامي\n\nيوسف مزراحي",
+  "language": "ar",
+  "Translation_to_English": "Egypt, 7 June\n\nTo Mr. Rachid Benha,\n\nAfter greetings, Dawud the Muslim came to see me yesterday. According to what his partner Sayed Reda told me, I felt that he has not sold the beans to the other party and that he has left them with a wealthy exporter named Mr. Khiyus Rizq. He is expecting about seventy pounds and says he will sell them in an English month.\n\nIf you wish to take the beans for cash at the current high price, please let me know. This man will remain as guarantor for you and will not sell. You will then settle the remaining balance with Sayed Reda.\n\nSir, matters are not progressing, and in the end I could not get anything from him because I asked him to hand over the amount and realized that he does not have it at the moment. Everything is duly recorded with you. That is all; with my regards.\n\nYoussef Mizrahi",
+  "date": "7 June 1936"
+}

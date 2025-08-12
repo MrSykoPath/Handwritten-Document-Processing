@@ -1,0 +1,17 @@
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Credit Lyonnais"
+  ],
+  "commodities": [],
+  "extracted_text": "ALEXANDRIE\nRue de l'Église Maronite, N° 1\nTél. 44-46\nAdresse Télégraphique\n\"BEHNA, ALEXANDRIE\"\n\nRachid Behna\nNégociant\n\nLE CAIRE\nRue Neuve, N° 49\nTél. No 70-23\nP.R. 126\nAdresse Télégraphique\n\"ANHEB, LE CAIRE\"\n\nAlexandrie, le ______ 193_\nB.P. 1919\n\n٢ شعبان سنة ١٣٥٥\n13 MAI 1936\n\nحضرة أفخم التاجر المحترم\nبانكستيه\nبعد السلام، نفيدكم بأننا تلقينا خطابكم رقم أمس بخصوص حسابكم الذي لنا عليكم عن البضائع المذكورة ولم تصل قيمتها.\nيا حضرة اللباقة، ولزم علينا كشفها فبلغنا بها قيمتها فوراً ونحن شاكرين لحضرتكم جميل تعاونكم.\n\nشركتنا مسرورة دائماً بتوريد البضائع الجيدة ونرجو بهذه المناسبة شحن هذه البضاعة في أقرب فرصة على باخرة سريعة إلى الإسكندرية.\n\nمرسل الكتاب، استلمنا لكم اليوم شيكاً على بنك كريدي ليونيه وقد عملنا اللازم لصالحكم وسلمنا الإيصال.\n\nنرجو قبول فائق احترامنا.\n\nالمخلص\nرشيد بهنا",
+  "language": "ar",
+  "Translation_to_English": "ALEXANDRIA\nRue de l'Église Maronite, No. 1\nTel. 44-46\nTelegraphic address: \"BEHNA, ALEXANDRIA\"\n\nRachid Behna\nMerchant\n\nCAIRO\nRue Neuve, No. 49\nTel. 70-23\nP.R. 126\nTelegraphic address: \"ANHEB, CAIRO\"\n\nAlexandria, ____ 193_\nP.O. Box 1919\n\n2 Shaʿban 1355 AH\n13 May 1936\n\nHonourable esteemed merchant,\nBankastieh,\nAfter greetings, we inform you that we received your letter of yesterday regarding your account with us for the mentioned goods, and that their value has not yet been paid.\nIn order to clear the matter, we have calculated it and determined its value immediately, and we thank you for your kind cooperation.\n\nOur company is always pleased to supply quality goods, and on this occasion we request that you ship these goods at the earliest opportunity on a fast steamer to Alexandria.\n\nAs sender of this letter, we received today for you a cheque on Credit Lyonnais Bank, and we have carried out the necessary steps in your favour and handed over the receipt.\n\nPlease accept our highest regards.\n\nSincerely,\nRachid Behna",
+  "date": "13 May 1936"
+}

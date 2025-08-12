@@ -1,0 +1,37 @@
+{
+  "Persons": [
+    "Jean Kirsenn",
+    "Jenia Sakhr",
+    "Michael",
+    "Labbad",
+    "Muktar Guenfriz",
+    "Lina Moussalim"
+  ],
+  "Places": [
+    "Cairo"
+  ],
+  "companies": [
+    "Molasses Cables Factory"
+  ],
+  "commodities": [
+    {
+      "name": "vests",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "shoes",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "Japanese articles",
+      "date": "June",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Fabrique Câbles Mélasse, Demain j’apprendrai mes donner la commande de Samedi et j’espère qu’elle sera bonne.\n\nKirsenn Jean : Rien à livrer grande vitesse et la facture pour les 250 fr emballés 8405 et parviendra le recouvrement.\n\nRien également dans le colis, le paquet d’imprimés et dans le colis plein de grandes enveloppes.\n\nSakhr Jenia : Reçu la fiche pour le 10/9/38, départ 1915 livres de Raifi et enfin le recouvrement.\n\nRe Michael : Je lui ai confirmé sans engagement par le bateau arrivant le 9/6/38 une caisse ch. env. coût 311, 1 et 6,5.\n\nMarché : Allah comme vous dites au mois de juin sont meilleurs. Car nos concurrents sont dans le même cas que nous et Labbad aussi se plaint du marché et qu’il n’y a pas de bénéfices suffisants sur les articles japonais.\n\nGuenfriz Muktar : Je lui ai vendu et vous prie de m’expédier en urgence la facture pour 20 p. gilets.\n\nCaire 7/3/38 50 bl. Chaus. 840 N.M.O.P C 23.\n\nLina Moussalim : Je n’ai pas jour 3625-4/7/7 c. pour 8404 S c 22 net, à 1:35/7.\n\nJe vends le même article à Yara à 2 f. d’avoir une ristourne….. Nous vous prions en vue d’affaire bonne.",
+  "language": "fr",
+  "Translation_to_English": "Molasses Cables Factory, tomorrow I will place the Saturday order and I hope it will be good.\n\nJean Kirsenn: Nothing to deliver at high speed and the invoice for the 250 francs packed 8405 will arrive for collection.\n\nNothing either in the parcel, the package of printed matter and in the full parcel of large envelopes.\n\nJenia Sakhr: Received the order slip for 10/9/38, departure 1915 pounds of Raifi and finally the collection.\n\nRe Michael: I confirmed to him without commitment by the ship arriving on 9/6/38 a crate approx. cost 311, 1 and 6.5.\n\nMarket: Allah, as you say, in the month of June things are better. Because our competitors are in the same situation as us and Labbad also complains about the market and that there are not sufficient profits on Japanese articles.\n\nMuktar Guenfriz: I sold to him and ask you to urgently send me the invoice for 20 pieces of vests.\n\nCairo 7/3/38 50 blocks shoes 840 N.M.O.P C 23.\n\nLina Moussalim: I do not have day 3625-4/7/7 c. for 8404 S c 22 net, at 1:35/7.\n\nI sell the same item to Yara at 2 francs with a discount..... We ask you in view of good business.",
+  "date": "07/03/1938"
+}

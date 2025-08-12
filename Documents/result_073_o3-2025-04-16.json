@@ -1,0 +1,16 @@
+```json
+{
+  "Persons": [ "Hussein Laur" ],
+  "Places": [ "Le Caire" ],
+  "companies": [],
+  "commodities": [],
+  "extracted_text": "Hussein Laur\nJe lui ai vendu et transporté …\nde … expédier …\nLe Caire, 21-10-1875\n…",
+  "language": "fr",
+  "Translation_to_English": "Hussein Laur\nI sold and shipped to him …\nfrom … to be dispatched …\nCairo, 21-10-1875\n…",
+  "date": "1875-10-21"
+}
+```
+
+Notes:  
+1. The manuscript is faint and partially illegible; ellipses (…) mark sections that could not be confidently deciphered.  
+2. No clear references to companies or commodities were found in the visible text.

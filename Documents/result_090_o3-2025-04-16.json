@@ -1,0 +1,22 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Habib Bey"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Sugar",
+      "date": "28 May 1936",
+      "price": ""
+    }
+  ],
+  "extracted_text": "ALEXANDRIE\nRue de l'Eglise Maronite, N°1\nTél. P.M. 44-46\n\nTéléphone No. 2278\nAdresse Télégraphique: \"BENHA ALEXANDRIE\"\n\nRachid Behna\nNÉGOCIANT\n\nLE CAIRE\nRue Neuve, N°49\nTÉLEPH. No 50-723\nB.P. 120\nAdresse Télégraphique: \"ANHEB LE CAIRE\"\n\nAlexandrie, le … 193…\nB.P. 1919\n\n28 MAI 1936\n\nحضرة الفاضل حبيب بك الكريم،\nبعد التحية والسلام، تسلمت ردكم على حوالتكم رقم ١ المحترم، ونفيدكم أنه عندكم سند من الكمبيالات كاملاً ووضعنا صورته في المرسلة. ولما وصل من مبلغ سكر أمريكان لم يشحن لنا بعد. نرجو إرسال الحصص المقررة اليوم للكمية المطلوبة.\nنشكر سعيكم، وتفضلوا بقبول فائق الاحترام.\n\nخادمكم المخلص،\nرشيد بحنا",
+  "language": "ar",
+  "Translation_to_English": "Honorable Mr. Habib Bey,\nAfter greetings, we received your reply to your honorable draft No. 1 and inform you that you have a complete bill of exchange, a copy of which we have enclosed in the dispatch. Since the amount for American sugar has not yet been shipped to us, we ask you to send today the allotted shares for the required quantity.\nWe thank you for your efforts and kindly accept our highest respect.\n\nYour devoted servant,\nRachid Behna",
+  "date": "28 May 1936"
+}

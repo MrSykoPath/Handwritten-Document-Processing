@@ -1,0 +1,26 @@
+{
+  "Persons": ["Rachid Behna", "Zaki"],
+  "Places": ["Alexandria", "Cairo", "Japan"],
+  "companies": ["Cable Factory Nelson", "B.O."],
+  "commodities": [
+    {
+      "name": "oranges",
+      "date": "1936-06-08",
+      "price": "c/f (price not specified)"
+    },
+    {
+      "name": "rolls",
+      "date": "1936-06-08",
+      "price": "t/o (price not specified)"
+    },
+    {
+      "name": "socks for Ramadan",
+      "date": "1936-06-08",
+      "price": "not specified"
+    }
+  ],
+  "extracted_text": "Alexandrie, le 8 Juin 1936.\n\nMes chers Frères,\nVotre lettre en date du 6 c.t.\nJ’ai passé les encaissements ainsi\nque les versements dans mon livre suivant la lettre\narabe de Zaki.\n\nJ’estime que vous avez reçu une lettre de confirmation\ndéfinitive avec les encaissements de la semaine et\nj’estime que vous avez reçu le reçu de la B.O. ainsi\nque le compte et ses prélèvements. J’espère que\ncette semaine sera mieux comme encaissements.\nFabrique Cables Nelson. Demain vous recevrez\nla commande suivante :\n\n10.000 oranges, c/f.\n5.000 rouleaux, t/o.\nChaussettes pour Ramadan. Aucune nouvelle d’une\naugmentation des charges et notez le prix que\nle Japon nous a cité ; je trouve que les prix sont très\nofferts bons, et voyez, d’ici à 9-9 jours, il\nn’y aura pas d’augmentation. De la concurrence,\net nous ferons un pas d’acquisitions.",
+  "language": "fr",
+  "Translation_to_English": "Alexandria, 8 June 1936.\n\nMy dear brothers,\nYour letter dated the 6th of this month.\nI have entered the collections as well as the deposits in my ledger according to Zaki’s Arabic letter.\n\nI assume that you have received a final confirmation letter with this week’s collections and that you have received the receipt from the B.O. as well as the account and its deductions. I hope this week will be better for collections.\nCable Factory Nelson. Tomorrow you will receive the following order:\n\n10,000 oranges, c/f.\n5,000 rolls, t/o.\nSocks for Ramadan. No news of an increase in duties and note the price that Japan has quoted us; I find the prices very well offered, and, as you will see, within nine or so days there will be no increase. As for the competition, we will take a step in acquisitions.",
+  "date": "1936-06-08"
+}

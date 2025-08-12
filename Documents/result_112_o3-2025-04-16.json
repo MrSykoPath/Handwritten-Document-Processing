@@ -1,0 +1,31 @@
+{
+  "Persons": [
+    "Dikadjian",
+    "Labe",
+    "Michel",
+    "Isaac Nathouli"
+  ],
+  "Places": [
+    "Milan",
+    "Cairo"
+  ],
+  "companies": [
+    "Fabrique Labros"
+  ],
+  "commodities": [
+    {
+      "name": "red boxes",
+      "date": "",
+      "price": "10.-"
+    },
+    {
+      "name": "orange boxes",
+      "date": "",
+      "price": "18.-"
+    }
+  ],
+  "extracted_text": "Mon Dikadjian,\nLabe a été ce matin, et vraiment il voulait lui retrancher une avance de 1/20 à bon prix et vous l’acceptez de Marc. Labe va vous écrire, mais il n’a pas voulu mauvaise. J’attends de vos nouvelles.\nFabrique Labros Milan. Notez aussi content, au Michel a passé des machines stick à la fabrique pour ouvrir l’emballage interne et il faudra des roquettes. J’espère que vous avez reçu les 5 boîtes rouges.\nAujourd’hui ils ont passé la commande suivante :\n10.000 rouges   c 10.-\n10.000 oranges  c 18.-\nC’est qu’ils seront satisfaits de l’emballage et du fond des boîtes rouges …\nListe 829. Août 5500 ! J’espère que vous avez reçu la pièce, échantillons de Zarbat et j’attends demain d’autres échantillons.\nJ’adresse les 3 F. demain, dont 22 g toile 5 et 4, baille et dans sur la facture pour 3 fr. pour compléter les 10 …\nIsaac Nathouli : Reçu la facture pour les lots, pièces ? an. Acheté réf. 806, Aviation du Caire et originaux. Le remerciement.",
+  "language": "fr",
+  "Translation_to_English": "My Dikadjian,\nLabe was here this morning and really wanted to deduct an advance of 1/20 at a good price, and you accepted it from Marc. Labe will write to you, but he did not want to be unpleasant. I await your news.\nFactory Labros, Milan. Also note that Michel sent stick machines to the factory to open the internal packaging and rockets will be needed. I hope you received the 5 red boxes.\nToday they placed the following order:\n10,000 red at 10.-\n10,000 orange at 18.-\nThey will be satisfied with the packaging and with the bottom of the red boxes …\nList 829. August 5500! I hope you received the sample piece of Zarbat and I am waiting tomorrow for another sample.\nI am sending the 3 F. tomorrow, including 22 g of cloth 5 and 4, baille and dans on the invoice for 3 francs to complete the 10 …\nIsaac Nathouli: Received the invoice for the lots, pieces? Year. Bought ref. 806, Aviation of Cairo and the originals. Thank you.",
+  "date": ""
+}

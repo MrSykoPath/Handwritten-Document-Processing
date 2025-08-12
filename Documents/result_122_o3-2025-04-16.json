@@ -1,0 +1,34 @@
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandria",
+    "Port of Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Base sugar (regular white sugar)",
+      "date": "15 May 1936",
+      "price": "86 qirsh per quintal"
+    },
+    {
+      "name": "Halawa Special (confectionery)",
+      "date": "15 May 1936",
+      "price": "not stated"
+    },
+    {
+      "name": "Debicker sugar (refined loaf sugar)",
+      "date": "22 May 1936 (stated as next week)",
+      "price": "21 qirsh"
+    }
+  ],
+  "extracted_text": "بسم الله الرحمن الرحيم\n١٠ ربيع الثانى سنة ١٣٥٥\nبعد السلام وتقبيل الأيادى يا حضرة الأستاذ المحترم،\nيؤسفنى أننا لم نتلق منكم إلى الآن جواباً على برقيتنا المؤرخة فى ١٤ إبريل الماضى ولم يصلنا شىء من الكتب التى وعدتم بإرسالها على وجه السرعة.\nاليوم فقط وصلنا الكاتالوج و«حلاوة سبيشيال» وسكر الديل. المخزون من السكر القاعدة مثل الماء الأبيض الكمبو، وزنه الآن ١٤ قنطار وسعره المحلى ٨٦ قرش، ولدينا المشترى الذى سيشترى يوم الاثنين مستعد بزيادة ١٥٠٠ مليم، وقد أوقفنا البيع انتظاراً لردكم.\nالدبيكر سليم، والأسبوع القادم سعره ٢١ قرش.\nالقاطرات واردة منتظمة على الحدود ونرى أن الوقت مناسب جداً للطلب، ونرجو من حضرتكم الرد اليوم حتى نستطيع شحن البضاعة قبل نهاية الشهر.\nوتقبلوا منا فائق التحية والاحترام.\nأخوكم المخلص\nرشيد بهنا",
+  "language": "ar",
+  "Translation_to_English": "In the name of God, the Most Merciful, the Most Compassionate\n10 Rabiʿ al-Thani 1355 AH\nAfter greetings and kissing of hands, Honourable Sir,\nI regret that we have not yet received a reply to our telegram dated 14 April last, nor any of the documents you promised to send urgently.\nOnly today have we received the catalogue, the “Halawa Special”, and the base sugar. The stock of ordinary white sugar is like clear water; it now weighs 14 quintals and the local price is 86 qirsh. We have a buyer who will purchase it on Monday and is willing to pay an extra 1,500 milliemes; we have suspended the sale awaiting your answer.\nThe debicker sugar is sound, and next week its price will be 21 qirsh.\nRail-way consignments are arriving regularly at the border and we consider this a very suitable time for ordering. Kindly reply today so that we can ship the goods before the end of the month.\nPlease accept our highest greetings and respect.\nYour devoted servant,\nRachid Behna",
+  "date": "15 May 1936"
+}

@@ -11,11 +11,12 @@ from googleapiclient.http import MediaIoBaseDownload, MediaFileUpload
 from google.oauth2.service_account import Credentials
 import io
 import re
+from transformers import pipeline
 
 # Load environment variables from .env
 load_dotenv()
 
-def process_image_with_openai(image_path):
+def process_image_with_openai(image_path,AI_model="o3-2025-04-16"):
     """
     Process an image through preprocessing steps and then use OpenAI's OCR capabilities
     to extract and structure text data.
@@ -66,15 +67,15 @@ def process_image_with_openai(image_path):
     # Encode the preprocessed image
     encoded_image = encode_image(f"Documents/{preprocessed_path}")
 
-    if not os.path.exists(f"Documents/result_{base_name}.json"):
+    if not os.path.exists(f"Documents/result_{base_name}_{AI_model}.json"):
         response = client.responses.create(
-        model="gpt-4.1-2025-04-14",  # Use the latest model
+        model=AI_model,
         input=[
             {
                 "role": "user",
                 "content": [
                     {
-                        "type": "input_text", "text": "Can you extract the text from this image and provide it in a structured JSON format according to this schema: {\n\"Persons\": [],\n\"Places\": [],\n\"companies\": [],\n\"commodities\": [ { \"name\": \"string\", \"date\": \"string\", \"price\": \"string\" } ],\n\"extracted_text\": \"string\",\n\"language\": \"ar or fr\",\n\"Translation_to_English\": \"string\",\n\"date\": \"string\"\n}, make sure you do not abbreviate the names and write everything in full, and also provide the translation to English if the text is in Arabic or French. Also make the JSON attributes values in English if the text is in Arabic or French except extracted text attribute, since the Translation to english attribute exists.",
+                        "type": "input_text", "text": "Can you extract the text from this image and provide it in a structured JSON format according to this schema: {\n\"Persons\": [],\n\"Places\": [],\n\"companies\": [],\n\"commodities\": [ { \"name\": \"string\", \"date\": \"string\", \"price\": \"string\" } ],\n\"extracted_text\": \"string\",\n\"language\": \"ar or fr\",\n\"Translation_to_English\": \"string\",\n\"date\": \"string\"\n}, make sure you do not abbreviate the names and write everything in full, and also provide the translation to English if the text is in Arabic or French. Also make the JSON attributes values in English if the text is in Arabic or French except extracted text attribute, since the Translation to english attribute exists. There are names that occur often in these documents, like rachin benha and youssef mizrahi, so make sure you write them in full and do not abbreviate them.",
                     },
                     {
                         "type": "input_image",
@@ -93,8 +94,6 @@ def process_image_with_openai(image_path):
         return None
    
 
-
-
 # Google Drive API setup
 SCOPES = ['https://www.googleapis.com/auth/drive']
 CREDENTIALS_FILE = 'config/documentextraction-465311-6d37979e03e0.json'  # Path to your credentials file
@@ -106,7 +105,7 @@ def get_drive_service():
     return service
 
 # Download all images from the source folder, process, and upload results
-def process_drive_folder(source_folder_id, result_folder_id):
+def process_drive_folder(source_folder_id, result_folder_id, AI_model="o3-2025-04-16"):
     service = get_drive_service()
    # List all image files in the source folder (handle pagination)
     files = []
@@ -170,13 +169,13 @@ def process_drive_folder(source_folder_id, result_folder_id):
         ocr_result = process_image_with_openai(local_image_path)
         if ocr_result is not None:
             # Save result as JSON
-            result_filename = f"result_{os.path.splitext(file_name)[0]}.json"
+            result_filename = f"result_{os.path.splitext(file_name)[0]}_{AI_model}.json"
             result_path = os.path.join(documents_dir, result_filename)
             with open(result_path, 'w', encoding='utf-8') as f:
                 f.write(ocr_result)
         else:
             print(f"Result for {file_name} is already processed")
-            result_filename = f"result_{os.path.splitext(file_name)[0]}.json"
+            result_filename = f"result_{os.path.splitext(file_name)[0]}_{AI_model}.json"
             result_path = os.path.join(documents_dir, result_filename)
         # Upload result to result folder
         file_metadata = {

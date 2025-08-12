@@ -1,0 +1,31 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Mahmoud El Kheniny",
+    "Mohamed Abdel Ghani",
+    "Mohamed Ali El Ghani",
+    "Ibrahim Hassan Qassem",
+    "Said Abu Zakhem",
+    "Abdel Ghani Watani",
+    "Hanna Tanas",
+    "Isber Qayoom"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Alcohol",
+      "date": "30 May 1936",
+      "price": "Total mentioned 11 470 (currency not specified)"
+    }
+  ],
+  "extracted_text": "Rachid Behna\nNégociant\n\nALEXANDRIE\nRue de l’Eglise Maronite, Numéro 1\nTéléphone N° 22378\nAdresse Télégraphique : “BEHNA ALEXANDRIE”\n\nLE CAIRE\nRue Neuve, Numéro 49\nTéléphone N° 50-783\nAdresse Télégraphique : “ANEHBE LE CAIRE”\n\nالإسكندرية في ٣٠ مايو سنة ١٩٣٦\nحضرة المحترم السيد ………………\nبعد التحية نفيدكم بأننا شحننا لكم على حسابكم شحنة من الكحول كما يلي:\n× محمود الخنيني           ٦٠٠٠\n× محمد عبد الغني          ٧٠٠٠\n× محمد علي الغني          ١٠٠٠\n× إبراهيم حسن قاسم        ٨٠٠\n× سعيد أبو زخم            ١٠٠٠\n× عبد الغني وطني          ٢٥٠٠\n× حنا طاناس              ٥٤٠\n× إسبير قيوم              ٢٨٣٠\nالمجموع                   ١١٤٧٠\nتنزيل الجزيري وخالص          ٤١٦\nالباقي                     ١١٠٥٤\nونرجو من حضرتكم إرسال المبلغ المذكور أعلاه وهو ٨٧٠٠ فرنك في أقرب فرصة.\nوتفضلوا بقبول فائق الاحترام.\nرشيد بهنا",
+  "language": "ar",
+  "Translation_to_English": "Rachid Behna\nMerchant\n\nAlexandria\nRue de l’Eglise Maronite, No. 1\nTelephone No. 22378\nTelegraphic Address: “BEHNA ALEXANDRIE”\n\nCairo\nRue Neuve, No. 49\nTelephone No. 50-783\nTelegraphic Address: “ANEHBE LE CAIRE”\n\nAlexandria, 30 May 1936\nHonorable Sir ………..,\nAfter greetings, we inform you that we have shipped to you, at your expense, a consignment of alcohol as follows:\n- Mahmoud El Kheniny            6 000\n- Mohamed Abdel Ghani           7 000\n- Mohamed Ali El Ghani          1 000\n- Ibrahim Hassan Qassem           800\n- Said Abu Zakhem               1 000\n- Abdel Ghani Watani            2 500\n- Hanna Tanas                     540\n- Isber Qayoom                  2 830\nTotal                           11 470\nLess fees and charges              416\nBalance                         11 054\nWe kindly ask you to remit the above-mentioned sum of 8 700 francs at your earliest convenience.\nRespectfully,\nRachid Behna",
+  "date": "30 May 1936"
+}

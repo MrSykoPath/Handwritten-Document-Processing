@@ -1,0 +1,27 @@
+{
+  "Persons": [
+    "Hama Naouri",
+    "Samuel",
+    "M. Labrun",
+    "Youssein Laur",
+    "Ahmed Ali Bak",
+    "Tebourni Irs"
+  ],
+  "Places": [
+    "Kheïfet",
+    "Lali",
+    "Douane"
+  ],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "gilets",
+      "date": "26/05/1929",
+      "price": "1.40 F"
+    }
+  ],
+  "extracted_text": "Lettre. Il ne me reste que Hama Naouri, qui passera la revue des jets au courant de cette semaine. Encaissements. J'espère vous envoyer demain la facture Kohary Ali, ou encaissée aujourd'hui de Samuel. M. Labrun… qui a fourni à Lali, me donnera la réponse demain pour la douane des tabacs.\n\nYoussein Laur : Rien à Kheïfet, et la fiche pour les 50 y. gilets est 70 no 30 ? et en finissant le reconditionnement.\n\nStéria Dreck : Notez que vous n'étiez pas de l'idée de leur vendre les gilets 7/12 avant 1 fr. 40 et vous étiez parfaitement sûr ; mais quel malentendu ? c'est qui complique. Précisez d'aplomb. Leur cargaison du 26.5.29, il y avait 2 a ch. assorties, ont-elles tiré de la douane ou bien c'est une erreur dans la dépêche ?\n\nAhmed Ali Bak : J'ai à vendre à Rivière et veuillez me noter avec engagement 250 f. au compte 341 C 7.\n\nTebourni Irs : Je leur fais vendre et vous prie de me spécifier 25 y. gilets 2 cm. 84 / 55 / 66. –   Les autres parts emporté un avoir.     Très calme pour nous.\n\nBien à vous.\nNB",
+  "language": "fr",
+  "Translation_to_English": "Letter. I only have Hama Naouri left, who will go over the jets during the course of this week. Receipts. I hope to send you tomorrow the invoice of Kohary Ali, or collected today from Samuel. Mr. Labrun… who supplied to Lali, will give the answer tomorrow for the customs of the tobaccos.\n\nYoussein Laur: Nothing at Kheïfet, and the form for the 50 y. vests is 70 no 30? and finishing the repackaging.\n\nStéria Dreck: Note that you were not of the idea to sell them the vests 7/12 before 1 franc 40 and you were perfectly sure; but what misunderstanding? that is what complicates. Specify plainly. Their shipment of 26.5.29, there were 2 assorted crates, have they cleared customs or is it an error in the dispatch?\n\nAhmed Ali Bak: I have to sell at Rivière and please note me with commitment 250 francs on account 341 C 7.\n\nTebourni Irs: I am having them sold and kindly ask you to specify 25 y. vests 2 cm. 84/55/66. –  The other parts carried a credit.  Very calm for us.\n\nYours sincerely.\nNB",
+  "date": "26/05/1929"
+}

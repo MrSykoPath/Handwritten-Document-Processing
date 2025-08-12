@@ -1,0 +1,34 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Youssef Mizrahi",
+    "Joseph Mizrahi",
+    "Zaki"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l’Eglise Maronite",
+    "Rue Neuve",
+    "Egypt"
+  ],
+  "companies": [
+    "Compagnie Paine"
+  ],
+  "commodities": [
+    {
+      "name": "Japanese socks",
+      "date": "10 June 1936",
+      "price": ""
+    },
+    {
+      "name": "Children’s socks",
+      "date": "10 June 1936",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Alexandrie, le 10 Juin 1936\nTrès chers Frères,\nNotre lettre en date d’hier…\nCi-joint un reçu sur la B.O. de la Compagnie Paine pour la somme de 10 000 £ E, montant remis par Y. Mizrahi – Joseph Mizrahi.\nNous avons la lettre écrite de Zaki. Aujourd’hui Zaki est venu à son magasin et il a encaissé 7 000 £ E que j’espère nous envoyer demain.\nJ’espère que Yousef nous écrira au sujet de ses commandes concernant les Chaussettes Milanaises. Dès que la commande est arrivée et que vous m’avez dit d’en envoyer 5 000 boîtes rouges et 5 000 boîtes noires, et qu’aujourd’hui vous livrez le reste à 5 000 boîtes noires. J’espère vendredi nous envoyer une nouvelle commande : Chaussettes du Japon.\nJe vous ai écrit hier mon opinion à ce sujet et je crois que vous aurez été du même avis, car ces articles de chaussettes pour enfants sont très difficiles à être fabriqués en Égypte et je crois qu’il en faut. Et comme la qualité le paye, une augmentation se donnera.",
+  "language": "fr",
+  "Translation_to_English": "Alexandria, 10 June 1936\nDearest Brothers,\nOur letter dated yesterday…\nAttached is a receipt on the bill of exchange of the Compagnie Paine for the amount of £E 10,000, sum delivered by Youssef Mizrahi – Joseph Mizrahi.\nWe have the letter written by Zaki. Today Zaki came to his shop and cashed £E 7,000 which I hope he will send us tomorrow.\nI hope Youssef will write to us about his orders concerning the Milanese Socks. As soon as the order arrived you told me to ship 5,000 red boxes and 5,000 black boxes, and today you are delivering the remainder of 5,000 black boxes. I hope on Friday you will send us a new order: Japanese socks.\nI wrote to you yesterday my opinion on this matter and I believe you will agree, for these children’s socks items are very difficult to manufacture in Egypt and I think there is a need. And as the quality justifies it, a price increase will follow.",
+  "date": "10 June 1936"
+}

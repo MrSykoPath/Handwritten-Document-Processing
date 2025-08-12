@@ -1,0 +1,29 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Zaki",
+    "Youssef Mizrahi",
+    "Youssef Sabouni",
+    "Michel Gorghoura"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Rue de l'Eglise Maronite",
+    "Rue Neuve"
+  ],
+  "companies": [
+    "St. B. O."
+  ],
+  "commodities": [
+    {
+      "name": "tobacco",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Mes Chers Frères,\n\nVotre lettre en date d’hier.\n\nCompte-Service: Ce suit un bon sur la St. B. O. à la somme de £E6000. remis par Youssef Mizrahi.\n\nYoussef Mizrahi : j’ai passé dans mon livre les circonstances ainsi que les pièces suivant la Lettre Arabe de Zaki.\n\nZaki est passé au magasin aujourd’hui, mais ce Monsieur n’a pas touché d’argent ; l’intendance lui a dit qu’il n’y a de la petite monnaie ; mais elles sont dans le coffre. J’espère demain Zaki procurera de l’argent.\n\nDès la rose qui s’est, et j’ai en commission sitôt qu’il me causera au téléphone.\n\nL’ami Youssef Sabouni est invité pour avoir l’échantillon de tabac de Russie, veuillez m’en mettre une petite quantité dans une boîte et me l’envoyer.\n\nMichel Gorghoura s’est fait un chèque hier, mais il ne m’a pas demandé de l’argent. Je lui en donnerai ainsi que je le vois.",
+  "language": "fr",
+  "Translation_to_English": "My dear brothers,\n\nYour letter dated yesterday.\n\nService account: Here is a voucher on the St. B. O. for the amount of £E6000 delivered by Youssef Mizrahi.\n\nYoussef Mizrahi: I have entered in my book the circumstances as well as the documents following Zaki's Arabic letter.\n\nZaki dropped by the warehouse today, but this gentleman did not withdraw any money; the administration told him there was no small change, but it is in the safe. I hope Zaki will obtain the money tomorrow.\n\nRegarding the rose that has arrived, I have it on commission as soon as he talks to me on the telephone.\n\nOur friend Youssef Sabouni is invited to obtain the sample of tobacco from Russia; please put a small quantity in a box and send it to me.\n\nMichel Gorghoura wrote a cheque yesterday, but he did not ask me for money. I will give him some as soon as I see him.",
+  "date": "1936-06-24"
+}

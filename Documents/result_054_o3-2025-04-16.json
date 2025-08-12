@@ -1,0 +1,26 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Mr. Philip" 
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Jerusalem",
+    "Egypt"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "Chickpeas",
+      "date": "4 June 1936 (date of shipment mentioned)",
+      "price": ""
+    }
+  ],
+  "extracted_text": "ALEXANDRIE\nRue de l'Eglise Maronite, N° 1\nTéléph. 44-46\nTéléphone No. 22878\nAdresse Télégraphique : BEHNA ALEXANDRIE\n\nRachid Behna\nNÉGOCIANT\n\nLE CAIRE\nRue Neuve, N° 49\nTélèph N° 50-723\nP.O. 120\nAdresse Télégraphique : ANHEB LE CAIRE\n\nAlexandrie, le …… 193…\nB.P. 1919\n\nمصر في ٨ يونيو 193٦\n9 JUIN 1936\n\nحضرة سعادة فيليب أفندي المحترم\nبيت المقدس\n\nنشكر لكم ردكم على جوابنا الكريم المؤرخ في ٤ حزيران الحالي، وعلمنا أنكم شحنتم كمية الحمص المطلوبة، وقد وصلت إلينا صورة بوليصة الشحن، إلا أن المستندات الأصلية لم تصل بعد إلى أيدينا.\n\nولذا رجاؤنا من جانبكم الإسراع في إرسال بقية الطلبية حالما تمكنكم الظروف، لأن السوق عندنا في حاجة ماسة إليها، كما نرجو أن تعلمونا باسم السفينة وتاريخ الإبحار فوراً لنعمل اللازم لدى البنك.\n\nونلفت نظركم إلى أن التأمين الذي اتخذناه ينتهي في ١٨-٠٦-١٩٣٦، لذلك نأمل إتمام الشحن قبل هذا التاريخ.\n\nوتفضلوا بقبول فائق الاحترام.\n\nخادمكم المخلص\nرشيد بهنا",
+  "language": "ar",
+  "Translation_to_English": "Egypt, 8 June 1936\n\nHonourable Mr. Philip, Jerusalem,\n\nWe thank you for your esteemed letter dated 4 June, from which we learned that you have shipped the quantity of chickpeas we ordered and have sent us a copy of the bill of lading. The original documents, however, have not yet reached us.\n\nWe therefore kindly ask you to expedite the dispatch of the remainder of the order as soon as possible, because the local market is in urgent need of it. Please also inform us immediately of the steamer’s name and the sailing date so that we can make the necessary arrangements with the bank.\n\nPlease note that the insurance we have taken out expires on 18-06-1936, so we would appreciate the shipment being completed before that date.\n\nWith highest regards,\n\nYour faithful servant,\nRachid Behna",
+  "date": "9 June 1936"
+}

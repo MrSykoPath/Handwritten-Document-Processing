@@ -1,0 +1,31 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi",
+    "Samuel Youssef Salman"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna",
+    "Abou Farage & Sons"
+  ],
+  "commodities": [
+    {
+      "name": "Thread bale",
+      "date": "19 May 1936",
+      "price": "Not specified"
+    },
+    {
+      "name": "Attouns invoice",
+      "date": "19 May 1936",
+      "price": "L.E. 2000"
+    }
+  ],
+  "extracted_text": "ALEXANDRIE\nRue de l'Eglise Maronite, N°1\nTÉLÉPH. 44-40\nTéléphone N° 2276\nAdresse Télégraphique : \"BEHNA, ALEXANDRIE\"\n\nRachid Behna\n19 MAI 1936                NÉGOCIANT\n\nLE CAIRE\nRue Neuve, N° 49\nTÉLÉPH. N° 50-723\nB.P. 120\nAdresse Télégraphique :\n\"ANHEB LE CAIRE\"\n\nAlexandrie, le 19 Mai 1936.\n\nMon cher Frère,\n\nVotre lettre en date du 16 courant.\n\nJoseph Mizrahi.\n\nJ'ai noté dans mon livre les mouvements afférents à la lettre arabe de Hali que vous achetiez aujourd'hui sur les 50 % de Simmonder.\n\nJ'espère également que vous avez reçu l'état des encaissements de la fruitasserie.\n\nJe n'ai pas des nouvelles de lui aujourd'hui ; je vous écrirai en cas qu'il me téléphone plus tard.\n\nSamuel Youssef Salman. Il a payé ce matin le solde de l'affaire Disbrou ; il a demandé une balle de fil ; nous donnerons les détails dans la lettre prochaine.\n\nAbou Farage & Fils. Ils ont payé un à valoir sur la facture Attouns de L.E. 2000 et le prix a dit à Hali qu'il lui dirait plus tard pour l'ordinaire négocié. Je ne sais si elle a acheté de Khalil, on leur … Il dit ça pour la forme ; si au résultat ils donneront une lettre de dégagement nous interviendrons.",
+  "language": "fr",
+  "Translation_to_English": "ALEXANDRIA\nStreet of the Maronite Church, No. 1\nTEL. 44-40\nTelephone No. 2276\nTelegraphic address: \"BEHNA, ALEXANDRIA\"\n\nRachid Behna\n19 MAY 1936                MERCHANT\n\nCAIRO\nNew Street, No. 49\nTEL. No. 50-723\nP.O. Box 120\nTelegraphic address:\n\"ANHEB CAIRO\"\n\nAlexandria, 19 May 1936.\n\nMy dear Brother,\n\nYour letter dated the 16th inst.\n\nJoseph Mizrahi.\n\nI have entered in my book the movements relating to Hali’s Arabic letter that you are buying today at 50 % from Simmonder.\n\nI also hope that you have received the statement of the fruit-trade collections.\n\nI have no news from him today; I will write to you if he telephones me later.\n\nSamuel Youssef Salman. He paid this morning the balance of the Disbrou deal; he asked for a bale of thread; we will give the details in the next letter.\n\nAbou Farage & Sons. They have paid an advance on the Attouns invoice of L.E. 2000 and the broker told Hali that he would let him know later about the ordinary purchase. I do not know whether she bought from Khalil; they … He says that only for the record; if in the end they give a release letter we will intervene.",
+  "date": "19 May 1936"
+}

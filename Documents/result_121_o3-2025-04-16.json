@@ -1,0 +1,16 @@
+{
+  "Persons": [],
+  "Places": [],
+  "companies": [],
+  "commodities": [
+    {
+      "name": "Sugar",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Sucres. Encore calme et on attend la semaine prochaine; peut-être il y aurait une demande. Les deux dernières semaines passées, détaillé. Sous contrat. J’avis ce soir.",
+  "language": "fr",
+  "Translation_to_English": "Sugars. Still calm and we are waiting for next week; perhaps there will be some demand. The last two weeks gone, detailed. Under contract. I have given notice this evening.",
+  "date": ""
+}

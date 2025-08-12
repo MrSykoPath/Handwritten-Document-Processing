@@ -1,0 +1,24 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Youssef Mizrahi"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Rachid Behna"
+  ],
+  "commodities": [
+    {
+      "name": "imported pens",
+      "date": "27 May 1936",
+      "price": "500 piastres"
+    }
+  ],
+  "extracted_text": "نأر في ٢٩ مايو سنة ١٩٣٦\nأسكندرية\nحضرة الفاضل صديقنا المحترم\nبعد السلام، نرسل إليكم ردنا على جوابكم المؤرخ أمس.\nبخصوص طلبكم على القهوة المذكورة، وقد طلب يوسف مزراحي على الشونة مدة ستة شهور على الأقل من مستودع ستار بدمنهور أو ستوكهول الإنكليزي.\nصورة تأكيدية لما استلمناه لدينا واليوم نورد مائة قلم مستورد سعره ٥٠٠ قرش ورق.\nوردة اللفت: حضر لنا المهندس صفوت باشا وتسلمنا منه دفعتين.\nليس لدينا ورد بن يعمل شبيه له على السبيليمان، فإذا لزم الأمر عرفنا.\nأما شرط السولار فطلب الدم المذكور أن تستوردوا اثني عشر طرد سكر، كل طرد وزنه خمسون كيلوغرامًا، ونؤيد طلبكم بشروط واحدة وشروط بصرفه وأورده.\nوحيث إن البضاعة سلِّمت لنا الساعة الثامنة والنصف والمحول بلغ حد نهايته.\nالمطلوب تسليم البضاعة مستودع كذا على أنه شراء ثمانية آلاف وزن النتيجة.\nسعر السولار نوّار يكون جاهزًا للتسليم عليه نهارًا، وعندها يخلو الطريق.\nالخلاصة: توجد لجنة القاهرة بطريقة منفصلة.\nإلى أن يتم الاتفاق اليوم سنبلغ وصول الأمر بسرعة.\nوالسلام عليكم ورحمة الله.\nخادمكم وعبدكم\nرشيد بهنا",
+  "language": "ar",
+  "Translation_to_English": "Alexandria, 29 May 1936\nHonourable esteemed friend,\nAfter greetings, we send you our reply to your letter of yesterday.\nConcerning your request for the mentioned coffee, Youssef Mizrahi has asked that it remain in the warehouse for a period of at least six months, either in the Star warehouse at Damanhur or in the English stock-hold.\nAttached is a confirmation of what we have received, and today we are delivering one hundred imported pens at a price of 500 piastres cash.\nRegarding the turnip seed, Engineer Safwat Pasha visited us and we received two consignments from him. We do not have any coffee beans similar to the ‘Sibilman’ variety; if you need them please let us know.\nAs for the diesel clause, the mentioned order requires you to import twelve cases of sugar, each case weighing fifty kilograms. We approve your request under the same terms, with payment on delivery.\nThe goods were delivered to us at eight-thirty and the transfer has reached its limit. Delivery should be made to the specified warehouse as a purchase totalling eight thousand in weight.\nThe diesel price is fixed and will be ready for daytime delivery, after which the road will be clear.\nIn short, the Cairo committee is proceeding separately.\nUntil an agreement is reached today, we shall notify you immediately of any arrival.\nPeace be upon you.\nYour obedient servant,\nRachid Behna",
+  "date": "27 May 1936"
+}

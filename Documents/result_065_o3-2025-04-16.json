@@ -1,0 +1,26 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi",
+    "Zaki"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "Fabrique Cafés Mélangés",
+    "Yacoubian"
+  ],
+  "commodities": [
+    {
+      "name": "Oranges",
+      "date": "3 June 1936",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Le Caire, le 1/6/36\n\nMes chers Frères,\n\nVotre lettre en date d’hier.\n\nCe fût un reçu sur la B.O. de la Compagnie Guido, montant remis par Joseph Mizrahi.\n\nJoseph Mizrahi. J’espère qu’il vous a écrit. Zaki est passé ce matin au magasin et il a encaissé L£ 6.000 que j’espère vous les envoyer demain.\n\nJe n’ai aucune nouvelle de El Menaou, et s’il téléphone je vous écrirai à la fin de la lettre.\n\nFabrique Cafés Mélangés : j’étais même voir Kassem cet après-midi et il insiste qu’il a envoyé la commande de 1.000 boîtes oranges en date du 3 juin, il m’a montré la note de commande.\n\nYacoubian : nous avons ouvert des paquets de différentes qualités et nous les avons pesés et le procès a donné satisfaction ; même l’emballage inférieur du rouge et de l’orange venant des verts, ça date du 27-3-36, et nous renvoyons comme emballage intérieur. Notez que vous trouvez le même rupestre de “Verde” de l’orange ou du Vert.",
+  "language": "fr",
+  "Translation_to_English": "Cairo, 1 June 1936\n\nMy dear Brothers,\n\nYour letter dated yesterday.\n\nIt was a receipt on the B.O. of the Guido Company, amount handed over by Joseph Mizrahi.\n\nJoseph Mizrahi. I hope he has written to you. Zaki came to the store this morning and cashed L£ 6,000 which I hope to send you tomorrow.\n\nI have no news from El Menaou, and if he telephones I will write to you at the end of the letter.\n\nFabrique Cafés Mélangés: I even went to see Kassem this afternoon and he insists that he sent the order of 1,000 boxes of oranges dated 3 June; he showed me the order note.\n\nYacoubian: we opened packages of different qualities and weighed them and the test gave satisfaction; even the inferior packing of the red and orange coming from the greens, that dates from 27-3-36, and we are sending it back as inner packing. Note that you find the same \"Verde\" marking of the orange or of the Green.",
+  "date": "1 June 1936"
+}

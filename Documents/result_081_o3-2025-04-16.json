@@ -1,0 +1,35 @@
+{
+  "Persons": [
+    "Ahmed Abdo",
+    "Sakhar",
+    "Ahmed Abdel Bakri",
+    "Hussein Yasin"
+  ],
+  "Places": [
+    "Nagada",
+    "Cairo",
+    "Upper Egypt",
+    "Paris"
+  ],
+  "companies": [
+    "Commerce de Cabres – Ashar et Compagnie",
+    "Bally Wanfry",
+    "Fabrique Cabres Mélasse"
+  ],
+  "commodities": [
+    {
+      "name": "Molasses, 20 kg, quality 8 %",
+      "date": "",
+      "price": ""
+    },
+    {
+      "name": "Molasses, 25 kg, quality 8 %",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Note pour le Commerce de Cabres – Ashar et Cie : J’ai eu des renseignements que c’est Sakhar qui est chez Ahmed Abdo, et il fait des emballages et des paquets de Nagada ; mais, puisque Abdo le garantit bien, il n’y a aucune crainte, au contraire, il ne faut pas un franc.\nNote si je vous ai retourné les 5 effets acquis de la Bally Wanfry.\nAhmed Abdo : L’affaire arrive ; il m’a tenu et il m’a causé un espoir de la Société de Caire de Saïd, et votre lettre nous l’envoyons écrite directement. S’il s’agit de vente au comptant c’est bon ; au contraire, rien que ce ne soit pas bancant par Abdo. Aucun petit crédit à Paris d’ailleurs ne se rétablit.\nFabrique Cabres Mélasse : Note qu’ils vont se charger de demander les adresses pour les grossistes de la Haute Égypte.\nAhmed Abdel Bakri : Reçu la facture pour les 20 kg qualité 8 % livrés, on fera le recouvrement.\nHussein Yasin : Reçu le côté grande valeur civile sur la facture pour les 25 kg qualité 8 % et après l’arrivée, ça aura encore l’état civil.\nMarché : Il fallait, au commencement du jour ; le marché s’améliore et autant qu’il commence à faire très chaud, ce n’est vraiment pas encore la chose, et il faut y remédier ; marché en changement dans l’autorisation. 9.9.",
+  "language": "fr",
+  "Translation_to_English": "Note for the Cabres trade – Ashar and Company: I have learned that it is Sakhar who is with Ahmed Abdo, and he prepares the wrappings and packages from Nagada; but, since Abdo vouches for him, there is no worry, on the contrary, it does not cost a franc.\nNote whether I returned the 5 bills obtained from Bally Wanfry.\nAhmed Abdo: The deal is on the way; he held me to it and raised my hopes through the Cairo Saïd Company, and we are sending your letter directly. If it concerns a cash sale it is fine; otherwise, nothing that is not banked by Abdo. No small credit in Paris is restored, moreover.\nCabres Molasses Factory: Note that they will take care of requesting the addresses for the wholesalers of Upper Egypt.\nAhmed Abdel Bakri: Invoice received for the 20 kg, quality 8 % delivered; we will proceed with collection.\nHussein Yasin: Large-value entry received on the invoice for the 25 kg, quality 8 %; after arrival it will still bear the civil status.\nMarket: At the beginning of the day it had to be so; the market is improving and, as the weather is starting to get very hot, it is really not yet the right moment, and it must be remedied; market changing under the authorisation. 9.9.",
+  "date": ""
+}

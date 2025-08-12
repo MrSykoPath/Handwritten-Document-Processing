@@ -1,0 +1,27 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Rachid Semaan",
+    "Mohamed Katib"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Saudi Arabia",
+    "Egypt"
+  ],
+  "companies": [
+    "Rachid Behna (Merchant, Alexandria-Cairo)"
+  ],
+  "commodities": [
+    {
+      "name": "Sugar",
+      "date": "28 May 1936",
+      "price": "50"
+    }
+  ],
+  "extracted_text": "حضرة الخواجة رشيد سمعان المحترم\nبعد التحية نفيدكم بأننا تلقينا بواسطتكم خطابكم الكريم المؤرخ ٢٢ الجاري، غير أننا لم نتسلم حتى الآن رسم الفاتورة الخاصة بالبضاعة المرسلة إلينا برسم البيع بالعمولة.\nيا سيدى يا رشيد بهنا،\nمن حيث البضاعة السعودية حصلت لنا على فاتورة قابلة وطلب تسليم الرد منها إلى ٥٠ الجبال ونسخة أخرى وصلتنا على سبيلو.\nتكرار الأسئلة وصلت سلاماً لنا سليماً.\nأما سابقتها، فجرى شحنها للتحصيل على ذمة العمولة المطلوبة مبلغاً وقدره ٦٥٠، وعرفنا منكم أيضاً بأن ١٧ صندوق نقل المصري الوارد بالإسكندرية سيصرفون لكم فوراً على حسابهم المذكور.\nكما نرجو منكم أن تأخذوا لنا عندهم الميزان فصمتهم في رأس الثمن ذلك لأننا لا نعلم.\nليس عندي علم وأرجو إذا حصل أمر آخر أن تستشار بشأن تحويل الشنط.\nسنوافاكم نهائياً عند استلام الفاتورة وسنرفع لكم الحساب المالي.\nبالوقت أرسلوا لنا الكريم موجز عن فاتورة رقم ٢٤/٤٣ مبلغ ٩١٠.\nوتفضلوا بقبول فائق الاحترام.\nفضلاً لزمتم ودمتم\nمحمد كاتب",
+  "language": "ar",
+  "Translation_to_English": "Honourable Khawaja Rachid Semaan,\nGreetings. We inform you that we have received your esteemed letter dated the 22nd of the current month, but we have not yet received the draft invoice for the goods sent to us on a consignment basis.\nSir Rachid Behna,\nRegarding the Saudi goods, we received an acceptable invoice and a request to deliver the reply for 50 crates, and another copy reached us in the same manner.\nThe repeated questions reached us safely.\nAs for the previous shipment, it was dispatched for collection against the required commission in the amount of 650, and we were also informed by you that 17 Egyptian transport boxes arriving in Alexandria will be released to you immediately on the above-mentioned account.\nWe also ask you to obtain the weight for us from them, for we do not know their exact value.\nI have no further information, and if anything else occurs, please consult regarding the transfer of the bags.\nWe will advise you finally upon receipt of the invoice and will submit to you the financial account.\nIn the meantime, kindly send us a brief of invoice No. 24/43 for the amount of 910.\nPlease accept our highest respect.\nKindly command and remain.\nMohamed Katib",
+  "date": "28 May 1936"
+}

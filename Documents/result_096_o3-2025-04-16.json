@@ -1,0 +1,34 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi",
+    "Zaki",
+    "John Farag",
+    "Hassan Kheir",
+    "Amin Krikorian"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo"
+  ],
+  "companies": [
+    "John Farag & Sons",
+    "Blend Factory"
+  ],
+  "commodities": [
+    {
+      "name": "Cotton bales (115 bales mentioned as sold)",
+      "date": "22 May 1936",
+      "price": ""
+    },
+    {
+      "name": "Green dye (25 kilos)",
+      "date": "22 May 1936",
+      "price": ""
+    }
+  ],
+  "extracted_text": "Mes chers Frères,\n\nVotre lettre en date d’hier.\n\nSimple caisse : je joins un reçu sur la B.O. de la somme de L.E. 2 500, somme reçue de Joseph Mizrahi.\nJ’ai passé dans mon livre les encaissements suivants que tu ajouteras suivant la lettre d’Ente de Zaki.\n\nJustement, il vient de téléphoner disant qu’il a encaissé 712 285 et qu’il compte vous l’envoyer demain avec l’ordre qu’il a détruit. J’espère qu’il vous écrira longuement ; il a vendu, dit-il, 115 balles.\n\nJohn Farag & Fils. Zaki est passé chez eux et ils lui ont dit qu’ils attendent notre acceptation pour acheter un lot. Ils lui ont promis pour lundi un versement sur la propre Hassan Kheir.\n\nAmin Krikorian. Zaki a été chez lui aujourd’hui, mais il ne l’a pas trouvé ; j’espère que demain il le trouvera et encaissera le montant.\n\nFabrique (Société Mélange). Ils m’ont commandé 25 kilos verts et ils m’ont dit qu’ils espèrent lundi commander une forte quantité.",
+  "language": "fr",
+  "Translation_to_English": "My dear Brothers,\n\nYour letter dated yesterday.\n\nCash only: I am enclosing a receipt on the bill of exchange for the amount of £E 2,500, amount received from Joseph Mizrahi.\nI have entered in my book the following collections which you will add according to Zaki's letter of entry.\n\nJust now he called, saying that he has collected 712,285 and that he plans to send it to you tomorrow with the order he destroyed. I hope he will write to you at length; he has sold, he says, 115 bales.\n\nJohn Farag & Sons. Zaki went to see them and they told him that they are waiting for our approval to buy a lot. They promised him for Monday a payment on their own account Hassan Kheir.\n\nAmin Krikorian. Zaki went to see him today, but did not find him; I hope that tomorrow he will find him and collect the amount.\n\nFactory (Blend Company). They have ordered 25 green kilos from me and told me that they hope to order a large quantity on Monday.",
+  "date": "22 May 1936"
+}
