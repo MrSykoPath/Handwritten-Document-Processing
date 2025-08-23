@@ -1,0 +1,14 @@
+{
+  "Persons": ["Rachid Behna"],
+  "Places": ["London"],
+  "Companies": ["Kasson London"],
+  "Commodities": [
+    { "name": "chemises", "date": "", "price": "c 60" },
+    { "name": "chemises «Eden» (plan 72)", "date": "", "price": "c 66" },
+    { "name": "chaussettes (ajour 8 H.O.R.)", "date": "", "price": "c 25 (25)" }
+  ],
+  "Extracted_text": "RACHID BEHNA\n\nMarché: Il y a une petite demande sur certains articles, mais à part ça il ne faut pas compter à nos clients de chemises, écru en stock; chaque client veut se débarrasser de ce qu’il a, et il n’achète que l’article indispensable chez lui; ça devient un travail de mendiant, surtout que les négociants sont plus que le nombre des clients. Je suis vraiment ennuyé de vendre sur ce marché. Blanchir, coudre, filer, suspendre; et aucun résultat. Il y a une chose qu’on doit admettre: ce que nous n’avons pas nos approvisionnements, mais quand même nous avons des articles pour le marché:\nKasson London. Il est venu et il a payé 2 dollars, et bien à vendre.\n15 p. chemises … 71 c 60.\n«Eden» … plan 72 … c 66.\n… Je les ai vendus et vous prie de m’expédier.\n20 p. chaussettes à jour 8 H.O.R. c 25 (25).\nSous autre poste aujourd’hui —\nBien à vous.",
+  "Language": "fr",
+  "Translation_to_English": "Market: There is a small demand for certain items, but apart from that we should not count on our clients for shirts, ecru in stock; each client wants to get rid of what he has and buys only what is indispensable to him; it is becoming a beggar’s work, especially since merchants are more numerous than customers. I am really annoyed about selling in this market. Bleach, sew, spin, suspend; and no result. There is one thing we must admit: we do not have our supplies, but still we have items for the market: Kasson London. He came and paid 2 dollars and is good to sell. 15 pcs shirts … 71 c 60. “Eden” … plan 72 … at 66 c. … I sold them and ask you to send them. 20 pcs openwork socks 8 H.O.R. at 25 c (25). Under other cover today — Yours truly.",
+  "date": ""
+}

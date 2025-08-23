@@ -1,0 +1,21 @@
+{
+  "Persons": [],
+  "Places": [],
+  "Companies": [],
+  "Commodities": [
+    {
+      "name": "Chaussettes enfants",
+      "date": "",
+      "price": "341"
+    },
+    {
+      "name": "Chaussettes",
+      "date": "",
+      "price": "8400"
+    }
+  ],
+  "Extracted_text": "Samuel Youssaf … J’ai encaissé le solde de la facture … Monsieur est en voyage aujourd’hui, et Fath ira demain chez vous et il cherchera d’envoyer sur la parche brune…\nG. N. Labat. Il m’a laissé un chèque au 6 juillet de 2000. Prenez‑vous le chèque ou bien je le garde jusqu’à l’échéance ?\nMaurice Jahmia. Je l’ai vu aujourd’hui, et il m’a promis … à la Bourse … rendez‑vous.\nJacques Zriaki. … confirmé … commande … 30 caisses … 341 c. off.\nChaussettes enfants 341.\nAu cas où il n’y aurait pas de surprises dans les droits de douane, vous expédieriez … les caisses de 300 g chacun …\nChaussettes 8400. J’hésiterai d’ici la 1/2 m. comme éch., et j’espère ainsi je pourrai facilement placer les 2 autres.\n… 18/20. Nous … l’échantillon pour avoir une idée d’un devis ultime … en conséquence pour Ramadan.",
+  "Language": "fr",
+  "Translation_to_English": "Samuel Youssaf … I cashed the balance of the invoice … The gentleman is traveling today, and Fath will go to your place tomorrow and will try to send on the brown parchment…\nG. N. Labat. He left me a check dated 6 July for 2,000. Do you want the check or should I keep it until maturity?\nMaurice Jahmia. I saw him today, and he promised … at the Stock Exchange … appointment.\nJacques Zriaki. … confirmed … order … 30 cases … 341 c. offer.\nChildren’s socks 341.\nIf there are no surprises in the customs duties, you will ship … the boxes of 300 g each …\nSocks 8,400. I will wait for half a month as term, and I hope then I can easily place the other two.\n… 18/20. Please send the sample so we can have an idea for a final quote … accordingly for Ramadan.",
+  "date": "6 juillet"
+}

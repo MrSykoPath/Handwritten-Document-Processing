@@ -1,0 +1,19 @@
+{
+  "Persons": [],
+  "Places": [],
+  "Companies": [
+    "Sabat Frères",
+    "Tabacs Labat"
+  ],
+  "Commodities": [
+    {
+      "name": "Tabac",
+      "date": "6 juillet",
+      "price": "12 600"
+    }
+  ],
+  "Extracted_text": "Fabrique Tabacs [illisible]. Je vous ai écrit hier au sujet de la concurrence, et j’espère que vous serez libres et enverrez [illisible]. Nous avons une nouvelle [commande]. Aucune nouvelle encore d’une augmentation par la concurrence. G. N. Labat. Comme écrit hier je lui ai adressé un chèque du 6 juillet 12 600. Très [illisible]. Je n’ai pas encore reçu le colis, mais j’espère le recevoir demain, et je vous écrirai au sujet du [compte] du [dernier] envoi, avec la courbe [illisible] des prix courants. Maurice [illisible]. Je vous ai écrit hier et j’espère que ce monsieur est bien mon [correspondant]. Adressez-vous à lui à ce sujet. Reçu le billet et la facture pour les 250 [pièces], [illisible] enfants 9,02 et bonjour le [recouvrement]. Sabat Frères. Sur la facture pour les 10 kg [illisible] 81,25, [prière de faire] le récapitulatif. Vente Tabacs Labat. J’ai remarqué le changement du prix depuis [illisible]. Marché: baisse, ancienne vente, aucune demande de [nouvel] encaissement, ce n’est pas gai; [illisible]. Malheur que nous avons connu la [pénurie]. [signature illisible]",
+  "Language": "fr",
+  "Translation_to_English": "Tobacco factory [illegible]. I wrote to you yesterday about the competition, and I hope you will be free and will send [illegible]. We have a new [order]. Still no news of an increase by the competition. G. N. Labat. As written yesterday I sent him a check dated July 6 for 12,600. Very [illegible]. I have not yet received the parcel, but I hope to receive it tomorrow, and I will write to you about the [account] of the [last] shipment, with the [illegible] curve of current prices. Maurice [illegible]. I wrote to you yesterday and I hope this gentleman is indeed my [correspondent]. Address yourself to him on this subject. Received the note and the invoice for the 250 [pieces], [illegible] children 9.02 and hello to the [collection]. Sabat Brothers. On the invoice for the 10 kg [illegible] 81.25, please make the summary. Sale of Labat tobaccos. I noticed the change in price since [illegible]. Market: decline, prior sale, no demand for new collection, it is not cheerful; [illegible]. Misfortune that we have known the [shortage]. [illegible signature]",
+  "date": "6 juillet"
+}

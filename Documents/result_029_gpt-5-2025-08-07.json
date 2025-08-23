@@ -1,0 +1,24 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Zek Morcos",
+    "Gabriel Youssef Labban",
+    "Hassan Khedr",
+    "Victor Khoury"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Rue de l'Église Maronite No 1",
+    "Rue Neuve No 49",
+    "Syrie"
+  ],
+  "Companies": [
+    "Rachid Behna (Négociant)"
+  ],
+  "Commodities": [],
+  "Extracted_text": "ALEXANDRIE\nRue de l'Église Maronite, No 1\nTÉLÉPH. 44..\nAdresse télégraphique: BEHNA ALEXANDRIE\n\nLE CAIRE\nRue Neuve, No 49\nTÉLÉPH. No 50-723\nB.P. 120\nAdresse télégraphique: \"ANNEB LE CAIRE\"\n\nRachid Behna\nNégociant\n\nAlexandrie, le 15 Juin 1936\n\nTrès cher frère,\nVotre lettre en date du 13 [...] J'ai passé dans mon livre les recouvrements suivants [...] du Caire; j'espère qu'il nous a envoyé l'arrêt des encaissements de la semaine ainsi que ses commandes et j'attends vos nouvelles demain.\n[...] est passé remettre chez toi un message, mais il n'y a pas d'argent et Monsieur est en voyage; j'espère demain. Zek Morcos de Gabriel Youssef Labban. Tenez la facture et le billet à l'ordre Victor Khoury pour la salle Hassan Khedr [...] pour payer L.E. 2000; s'il n'a pas pris sous forme, le paiement du solde pour demain.\nDemain aux bureaux. [...] après que Kirich [...] se rendra en Syrie; il a demandé aujourd'hui à Zek à ce sujet et Zek a répondu qu'ils attendent la réponse d'Alexandrie.\n[signature]",
+  "Language": "fr",
+  "Translation_to_English": "ALEXANDRIA\nStreet of the Maronite Church, No. 1\nTelephone 44..\nTelegraphic address: BEHNA ALEXANDRIA\n\nCAIRO\nRue Neuve, No. 49\nTelephone No. 50-723\nP.O. Box 120\nTelegraphic address: \"ANNEB CAIRO\"\n\nRachid Behna\nTrader\n\nAlexandria, 15 June 1936\n\nVery dear brother,\nYour letter dated the 13th [...] I have entered in my book the following collections [...] from Cairo; I hope he has sent us the statement of this week’s receipts as well as his orders and I am awaiting your news tomorrow.\n[...] went by to deliver you a message, but there is no money and the gentleman is traveling; I hope tomorrow. Zek Morcos of Gabriel Youssef Labban. Here is the invoice and the promissory note to the order of Victor Khoury for the hall of Hassan Khedr [...] to pay L.E. 2000; if he has not taken it in that form, the payment of the balance is for tomorrow.\nTomorrow at the offices. [...] after Kirich will go to Syria; he asked Zek about this today and Zek replied that they are waiting for the answer from Alexandria.\n[signature]",
+  "date": "1936-06-15"
+}

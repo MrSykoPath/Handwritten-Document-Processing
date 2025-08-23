@@ -1,0 +1,20 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "رشيد بهنا"
+  ],
+  "Places": [
+    "Alexandria",
+    "Cairo",
+    "Rue de l'Eglise Maronite, No 1, Alexandria",
+    "Rue Neuve, No 49, Cairo"
+  ],
+  "Companies": [
+    "Rachid Behna"
+  ],
+  "Commodities": [],
+  "Extracted_text": "ALEXANDRIE\nRue de l'Eglise Maronite, No 1\nTéléphone No. 223/3\nAdresse Télégraphique: \"BEHNA, ALEXANDRIE\"\n\nLE CAIRE\nRue Neuve, No 49\nTéléphone No. 50-723\nP.B. 120\nAdresse Télégraphique: \"ANNEB, LE CAIRE\"\n\nRachid Behna\nNégociant\n\nAlexandrie, le — 193—\n\nختم: 19 JUIN 1936\nحرر في 18 يونيو 1936\nحضرة السيد المحترم\nبعد السلام ... [نص بخط اليد غير مقروء بالكامل] ... وتفضلوا بقبول فائق الاحترام.\nرشيد بهنا",
+  "Language": "ar",
+  "Translation_to_English": "ALEXANDRIA\nRue de l'Eglise Maronite, No. 1\nTelephone No. 223/3\nTelegraphic address: \"BEHNA, ALEXANDRIA\"\n\nCAIRO\nRue Neuve, No. 49\nTelephone No. 50-723\nP.O. Box 120\nTelegraphic address: \"ANNEB, CAIRO\"\n\nRachid Behna\nMerchant\n\nAlexandria, the — 193—\n\nStamp: 19 June 1936\nWritten on 18 June 1936\nTo the respected sir,\nAfter greetings ... [handwritten Arabic text partly illegible] ... Please accept my highest respect.\nRachid Behna",
+  "date": "1936-06-18"
+}

@@ -1,0 +1,16 @@
+{
+  "Persons": ["Monsieur Mikhail", "Rachid Behna"],
+  "Places": [],
+  "Companies": ["Rachid Behna"],
+  "Commodities": [
+    {
+      "name": "25 kg ch./HL 2620",
+      "date": "1902-09-25",
+      "price": "18.5 francs"
+    }
+  ],
+  "Extracted_text": "RACHID BEHNA\n\nMonsieur Mikhail. Reçu le ticket et la facture pour les 25 [kg] ch./HL 2420 et on fera le règlement.\nReçu la facture pour le 25 7bre 1902, livrées sur bateau et conforme le reconfirmement du marché.\nEncore calme, il n’y a pas moyen de trouver places de chemins de fer; partout il faut marcher. [illisible]\nJ’avais vu les clients de [illisible]; ne voudraient plus retourner les balles qu’ils ont en consignation, et ce sont eux qui profitent.\nJe vous prie de m’envoyer une facture: 4/12 [illisible] à 48 [f].\nMonsieur Mikhail, il lui a à vendre encore 25 kg ch./HL 2620 à f 18.5.\nVeuillez les expédier [illisible] pour ce soir.\n[signature]",
+  "Language": "fr",
+  "Translation_to_English": "Rachid Behna\n\nMister Mikhail. Received the ticket and the invoice for the 25 [kg] ch./HL 2420 and the payment will be made.\nReceived the invoice for 25 September 1902, delivered by boat and in accordance with the market confirmation.\nStill quiet; there is no way to find railway seats; everywhere one must walk. [illegible]\nI had seen the clients of [illegible]; they would no longer like to return the bales they have on consignment, and they are the ones who profit.\nPlease send me an invoice: 4/12 [illegible] at 48 [francs].\nMister Mikhail also has to sell another 25 kg ch./HL 2620 at 18.5 francs.\nPlease ship them [illegible] for tonight.\n[signature]",
+  "date": "1902-09-25"
+}

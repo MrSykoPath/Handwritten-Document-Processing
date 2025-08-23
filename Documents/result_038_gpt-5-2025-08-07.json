@@ -1,0 +1,26 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Zaki",
+    "Samuel Salomon",
+    "Joseph Salomon"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire"
+  ],
+  "Companies": [
+    "Rachid Behna"
+  ],
+  "Commodities": [
+    {
+      "name": "cigarettes américaines",
+      "date": "1936-06-12",
+      "price": "de 46.5 à 47.90"
+    }
+  ],
+  "Extracted_text": "ALEXANDRIE\nRue de l'Église Maronite, N° 1\nTÉL. P.H. 44.40\nAdresse télégraphique: BEHNA ALEXANDRIE\n\nLE CAIRE\nRue Neuve, N° 49\nTÉLÉPH. N° 50-723\nB.P. 120\nAdresse télégraphique: ANHEB LE CAIRE\n\nAlexandrie, le 12 Juin 1936\n\nTrès chers frères,\nVotre lettre m'est parvenue d'hier. [illisible]\n[illisible] Zaki [illisible]\nSamuel et Joseph Salomon vendent ses tabacs avec une augmentation. Les cigarettes américaines ont encore augmenté de 46.5 à 47.90. [illisible]\nJe vous tiendrai au courant. [illisible]\n",
+  "Language": "fr",
+  "Translation_to_English": "ALEXANDRIA\nStreet of the Maronite Church, No. 1\nTelephone P.H. 44.40\nTelegraphic address: BEHNA ALEXANDRIA\n\nCAIRO\nRue Neuve, No. 49\nTelephone No. 50-723\nP.O. Box 120\nTelegraphic address: ANHEB CAIRO\n\nAlexandria, 12 June 1936\n\nVery dear brothers,\nYour letter reached me yesterday. [illegible]\n[illegible] Zaki [illegible]\nSamuel and Joseph Salomon are selling their tobacco with an increase. American cigarettes have again risen from 46.5 to 47.90. [illegible]\nI will keep you informed. [illegible]\n",
+  "date": "1936-06-12"
+}

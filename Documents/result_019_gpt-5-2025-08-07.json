@@ -1,0 +1,31 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Monsieur Labat",
+    "Monsieur Sarr",
+    "Monsieur Soret"
+  ],
+  "Places": [
+    "Zaghouan"
+  ],
+  "Companies": [
+    "Messageries",
+    "Chemins de fer"
+  ],
+  "Commodities": [
+    {
+      "name": "boîtes rouges",
+      "date": "",
+      "price": "7 francs 10"
+    },
+    {
+      "name": "boîtes oranges",
+      "date": "",
+      "price": "7 francs 18"
+    }
+  ],
+  "Extracted_text": "RACHID BEHNA\n\nVeuillez les cartes encore soit:\nla Banque [illisible]\nMonsieur H. Labat\nMonsieur H. Sarr\nMonsieur J. Soret\n\nCe soir les Messieurs vous recevrez les 200 L... J'espère vous envoyer demain le règlement de la semaine.\n\nJe suis en vente et veuillez bien noter [illisible] vous convient.\n\nMerci: Il y a eu un petit mouvement à cause que les Messageries ont descendu pour le transport de Zaghouan, et les Chemins de fer ont fait une réduction, très tôt; mais encore j'ai une conviction que ça va bientôt, ça finira sûr service...\n\n[illisible] Les ouvriers [illisible] ne sont qu'ayant passé une commande de\n\n5000 boîtes rouges, à 7 f 10.\n5000 boîtes oranges, à 7 f 18.\n\net ils espèrent pour une autre commande [illisible]. [illisible] nous a dit qu'il est content [illisible]; aucune nouvelle d'une augmentation de la [illisible].",
+  "Language": "fr",
+  "Translation_to_English": "Rachid Behna\n\nPlease the cards again be: the bank [illegible], Mister H. Labat, Mister H. Sarr, Mister J. Soret.\n\nThis evening the gentlemen you will receive the 200 pounds... I hope to send you tomorrow the settlement for the week.\n\nI am in sales and please note [illegible] suits you.\n\nThanks: There was a small movement because the Messageries reduced for the transport from Zaghouan, and the railways made a reduction very early; but still I am convinced that soon this will end well in service...\n\n[illegible] The workers [illegible] have just placed an order for:\n\n5000 red boxes at 7 francs 10.\n5000 orange boxes at 7 francs 18.\n\nand they hope for another order [illegible]. [illegible] told us he is satisfied [illegible]; no news of an increase in [illegible].",
+  "date": ""
+}

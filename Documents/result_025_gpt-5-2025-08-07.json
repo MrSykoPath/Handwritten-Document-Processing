@@ -1,0 +1,26 @@
+{
+  "Persons": [
+    "Armand",
+    "Lefebvre Magloire",
+    "Napoléon Violand",
+    "Bruck Labat"
+  ],
+  "Places": [],
+  "Companies": [],
+  "Commodities": [
+    {
+      "name": "sucre blanc",
+      "date": "",
+      "price": "34 1/2 et 32,5"
+    },
+    {
+      "name": "café blanc",
+      "date": "",
+      "price": "34 1/2, 42 2/3 et 36"
+    }
+  ],
+  "Extracted_text": "Fabrique [illisible]. J'écris cet après-midi [illisible], mais nous avons aucune importation sur le marché; il ne se peut savoir. Il en reste [illisible] pour Venteté une bonne commande. Mauvaise [illisible]. J'en suis à la fin; vous pourrez arriver à un [illisible] et jeudi de vos nouvelles. Tout votre gouverneur aujourd'hui [illisible] a offert sur la marchandise le sucre blanc 34 1/2 et 32,5 avril [illisible] à 39.\nNotez que Armand [illisible] va en ville, plus et lorsque vous en aurez besoin, vous vous adressez chez Lefebvre Magloire.\nNapoléon Violand peut être en [illisible] la pièce destinée de 20 000 livres avec la [illisible] et [illisible] le recouvrement.\nBruck Labat. Je lui ai confirmé hier, nous [illisible] arrivages; au cas où rien ne convient, j’ai du café blanc 34 1/2, 42 2/3 et 36.\nMarché encouragé; hier encore nos acheteurs [illisible] que la situation s’arrange; pour nous, nous [illisible] tranquilles avec nos clients; n’est-ce pas?\nNote: je n’ai pas le dernier [illisible]; nous confirmons ce [illisible]. Les pièces [illisible] sont renvoyées.",
+  "Language": "fr",
+  "Translation_to_English": "Factory [illegible]. I am writing this afternoon [illegible], but we have no import on the market; it cannot be known. There remains [illegible] for Venteté a good order. Bad [illegible]. I am at the end; you could arrive at a [illegible] and Thursday your news. All your governor today [illegible] offered on the goods white sugar 34 1/2 and 32.5 April [illegible] at 39.\nNote that Armand [illegible] is going to town, and when you need it, you will address yourself to Lefebvre Magloire.\nNapoléon Violand may be [illegible] the piece intended for 20,000 pounds with the [illegible] and [illegible] the collection.\nBruck Labat. I confirmed to him yesterday, we [illegible] arrivals; in case nothing suits, I have white coffee at 34 1/2, 42 2/3 and 36.\nMarket encouraged; yesterday again our buyers [illegible] that the situation is improving; for us, we are [illegible] calm with our clients; is it not so?\nNote: I do not have the latest [illegible]; we confirm this [illegible]. The documents [illegible] are returned.",
+  "date": ""
+}

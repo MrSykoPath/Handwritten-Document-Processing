@@ -1,0 +1,19 @@
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Rue de l'Eglise Maronite Number 1",
+    "Rue Neuve Number 49"
+  ],
+  "Companies": [
+    "Rachid Behna Négociant"
+  ],
+  "Commodities": [],
+  "Extracted_text": "Rachid Behna\nNégociant\n\nALEXANDRIE\nRue de l'Eglise Maronite, No 1\nTéléph. No 44.48\nTéléphone No 2573\nAdresse Télégraphique \"BEHNA_ALEXANDRIE\"\n\nLE CAIRE\nRue Neuve, No 49\nTéléph. No 50.723\nB.P. 120\nAdresse Télégraphique \"ANNEB_LE CAIRE\"\n\nAlexandrie, le ——— 193—\nB.P. 1919\n\n17 JUIN 1936\n\nحضرة السيد المحترم،\nبعد السلام، بخصوص المبالغ الخاصة بحسابكم إننا استلمنا [غير واضح] ووصلنا صندوق واحد شحنته إلينا صباح اليوم الخميس وأبلغنا عنه على مباشر.\nما حصل لدينا على تواريخ:\nتاريخ ٢٥/٥/٣٦ — ٤٥٤٤\nتاريخ ٢٥/١٠/٣٥ — [غير واضح]\n[٨٨٨٩٥٠] — [٥٠]\nثم\nأرجو إرسال بيان رصيد حسابكم لغاية تاريخه. وصلتني فاتورة البضاعة الأخيرة رقم [٣٠٩] ووردتني سندات [غير واضح]. وقد عُرض عليّ [كريديتان/اعتمادان] [غير واضح]، والرجاء موافاتنا بكشف الالتزام لأن السهم صار كله [غير واضح]. نأمل تصفية الحساب وعودة رصيد على باكر. يرجى الرد على حامل كتابنا. وتفضلوا بقبول فائق الاحترام.\n\nالإمضاء: رشيد بهنا",
+  "Language": "ar",
+  "Translation_to_English": "Rachid Behna, Merchant.\n\nALEXANDRIA: Rue de l'Eglise Maronite, Number 1. Telephone 44.48 / 2573. Telegraph address: BEHNA_ALEXANDRIE.\nCAIRO: Rue Neuve, Number 49. Telephone 50.723. P.O. Box 120. Telegraph address: ANNEB_LE CAIRE.\nAlexandria, [blank], 193[ ].\nStamped: 17 June 1936.\n\nEsteemed Sir,\nAfter greetings, regarding the sums related to your account, we received [illegible], and one crate arrived which was shipped to us this morning, Thursday, and we were notified of it directly.\nWe have the following dates:\nDate 25/5/36 — 4544\nDate 25/10/35 — [illegible]\n[888950] — [50]\nThen: Please send a statement of your account balance up to this date. I received the invoice for the last goods, number [309], and received vouchers/receipts [illegible]. Two credits [illegible] were presented to me; please send us the obligation/commitment statement because the share is now entirely [illegible]. We hope to settle the account and have a balance returned by tomorrow. Please reply with the bearer of our letter. With highest regards.\n\nSignature: Rachid Behna.",
+  "date": "1936-06-17"
+}

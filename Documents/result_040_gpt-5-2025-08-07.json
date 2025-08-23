@@ -1,0 +1,14 @@
+{
+  "Persons": ["Rachid Behna"],
+  "Places": [],
+  "Companies": ["Rachid Behna"],
+  "Commodities": [
+    { "name": "Kérosène", "date": "", "price": "805; 841/50; 696" },
+    { "name": "Arachide", "date": "", "price": "" },
+    { "name": "Pêches", "date": "23 juin", "price": "" }
+  ],
+  "Extracted_text": "RACHID BEHNA\n\nCher Monsieur,\nVous me dites et apprenez que le gouvernement [illisible] n’augmentera pas; [il ne faut] pas de mettre en marche avec le four. Je vous ai écrit hier au sujet de Monsieur [illisible] et j’attends votre [bienveillante] [réponse]. Notez que le bateau qui est arrivé [illisible] est très lourd [illisible] et nous avons 2 c. 8400 et la 1000 [illisible] 18/25. Dites ce que vous voulez au juste [illisible] pour la [commande] à [illisible], [Baba Ismaël?]. Nous vous enverrons les pêches du [illisible]. Un envoi le 23 juin et nous avons 4 caisse ch. 841. J’attends les prix courants à votre convenance.\n\nKérosène: voir prix; ticket et la facture pour les [illisible] gels: 805; l’étal 841/50; [annuler] pour les [illisible] 696 et [envoyer] le recensement.\n\nLouis [illisible] [reparti] au second tirage.\n\nArachide: une chaleur à ouvrir; c’est un marché mort; rien. Et les encaissements sont encore [illisible]. Finir demain. Vous envoyez 458 [illisible] environ la fin de la semaine.\n\nFischbach: Je suis allé à [illisible]. Je remets la copie lettre pour fournir une enquête à [Zegai]; un sujet de sel qu’on fait entrer dans la cuisine. Alors il doit avoir gelé; le grand prix n’était pas là; mais, croyez‑moi, ça ne se paiera plus.",
+  "Language": "fr",
+  "Translation_to_English": "Rachid Behna\n\nDear Sir,\nYou tell me and inform me that the government [illegible] will not increase [illegible]; there is no need to start up the oven. I wrote to you yesterday about Mister [illegible] and I am waiting for your [kind] [reply]. Note that the ship that arrived [illegible] is very heavy [illegible] and we have 2 c. 8400 and the 1000 [illegible] 18/25. Tell me exactly what you want [illegible] for the [order] to [illegible], [Baba Ismaël?]. We will send you the peaches from [illegible]. A shipment on 23 June and we have 4 crates ch. 841. I am waiting for the current prices at your convenience.\n\nKerosene: see price; ticket and the invoice for the [illegible] cans: 805; the stall 841/50; cancel for the [illegible] 696 and send the statement.\n\nLouis [illegible] [returned] to the second drawing.\n\nPeanut: heat to open; it is a dead market; nothing. And the collections are still [illegible]. Finish tomorrow. Send 458 [illegible] around the end of the week.\n\nFischbach: I went to [illegible]. I am enclosing the copy letter to request an inquiry at [Zegai]; a matter of salt that is brought into the kitchen. Then it must have frozen; the high price was not there; but, believe me, it will no longer be paid.",
+  "date": "23 juin"
+}

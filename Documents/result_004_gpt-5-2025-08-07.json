@@ -1,0 +1,17 @@
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire"
+  ],
+  "Companies": [
+    "Rachid Behna"
+  ],
+  "Commodities": [],
+  "Extracted_text": "ALEXANDRIE Rue de l'Eglise Maronite, No 1 TELEPH. 44-40 Adresse Télégraphique \"BEHNA-ALEXANDRIE\"\nRachid Behna NÉGOCIANT\nAlexandrie, le ... B. P. 1919\n26 JUIN 1936\nLE CAIRE Rue Neuve, No 49 TELEPH. No 50-723 B. P. 120 Adresse Télégraphique \"ANHEB, LE CAIRE\"\n[نص عربي بخط اليد مؤرخ نحو 25–26 يونيو 1936. للأسف معظم السطور غير مقروءة بوضوح في الصورة. تظهر في الأسفل كلمات لاتينية ZENITH و MATAR مع أرقام 92 و 96 وغيرها.]",
+  "Language": "ar",
+  "Translation_to_English": "ALEXANDRIA Rue de l'Eglise Maronite, No. 1, Telephone 44-40, Telegraphic address \"BEHNA-ALEXANDRIA\". Rachid Behna, Trader. Alexandria, P.O. Box 1919. 26 June 1936. CAIRO Rue Neuve, No. 49, Telephone 50-723, P.O. Box 120, Telegraphic address \"ANHEB, CAIRO\". [Handwritten Arabic letter dated about 25–26 June 1936; most lines are not clearly legible in the image. At the bottom appear the Latin words ZENITH and MATAR with numbers 92 and 96, etc.]",
+  "date": "1936-06-26"
+}

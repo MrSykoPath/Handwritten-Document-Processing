@@ -1,0 +1,19 @@
+{
+  "Persons": [],
+  "Places": [],
+  "Companies": ["Soennecken"],
+  "Commodities": [
+    { "name": "Porte-plumes Réservoir", "date": "", "price": "" },
+    { "name": "Carnets à Anneaux Série 300/310", "date": "", "price": "" },
+    { "name": "Carnets à Anneaux Série 400/410", "date": "", "price": "" },
+    { "name": "Plumes Métalliques", "date": "", "price": "" },
+    { "name": "Calendrier Bloc-Notes No. 261", "date": "", "price": "" },
+    { "name": "Encriers", "date": "", "price": "" },
+    { "name": "Tampons-Buvards No. 85", "date": "", "price": "" },
+    { "name": "Supports pour Livres No. 9", "date": "", "price": "" }
+  ],
+  "Extracted_text": "SOENNECKEN\nARTICLES DE BUREAU\nSOENNECKEN\nPorte-plumes Réservoir\nSérie 300/310 Carnets à Anneaux\nSérie 400/410 Carnets à Anneaux\nPlumes Métalliques\nNo. 261 Calendrier Bloc-Notes\nEncriers\nNo. 85 Tampons-Buvards\nNo. 9 Supports pour Livres",
+  "Language": "fr",
+  "Translation_to_English": "SOENNECKEN\nOFFICE SUPPLIES\nSOENNECKEN\nFountain pens (reservoir pens)\nSeries 300/310 Ring-Books\nSeries 400/410 Ring-Books\nSteel nibs (metal pens)\nNo. 261 Memorandum desk calendar (block-notes calendar)\nInkwells\nNo. 85 Blotters\nNo. 9 Book supports",
+  "date": ""
+}

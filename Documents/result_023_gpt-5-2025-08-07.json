@@ -1,0 +1,29 @@
+{
+  "Persons": [
+    "Maurice Nathan",
+    "Hassan Cherif",
+    "Hussein Sani",
+    "Abdel Zaki",
+    "Enrique Mitraile"
+  ],
+  "Places": [
+    "Cuba"
+  ],
+  "Companies": [],
+  "Commodities": [
+    {
+      "name": "Vin",
+      "date": "",
+      "price": "f 122"
+    },
+    {
+      "name": "Sucre de Cuba",
+      "date": "",
+      "price": ""
+    }
+  ],
+  "Extracted_text": "Maurice Nathan. Il n’est pas au cours; en cas que je le verrai je lui dirai de passer vous rendre visite.\nSamuel … Laboun. Je vous ai écrit hier à ce sujet et j’attends vous lire au sujet des …\nZek vous écrive ce soir au sujet d’une commande de Hassan Cherif.\nHussein Sani. Pour le ticket et la facture pour les 50 … Le receveur reviendra.\nAbdel Zaki. Pour la fourche pour les 10 kg … contenus dans la caisse … et signera le recouvrement.\nHussein Sani. Je lui ai vendu et vous prie de m’expédier.\n14/6 – 25 fr …\nEnrique Mitraile. Il doit payer pour la caisse; coûtée 18/20; ce vin avons reçu à f 122; vous sortirez de la douane la dite caisse.\nMarché. Comme vous voyez par mes ventes, le marché est toujours calme et il n’y a rien à attendre d’une amélioration.\nJe ne vois pas de sucre de « Vente Cuba » en sortie; y a‑t‑il une raison?\nSans autre pour … bons salutations.",
+  "Language": "fr",
+  "Translation_to_English": "Maurice Nathan. He is not at the exchange; if I see him I will tell him to come and visit you.\nSamuel … Laboun. I wrote to you yesterday about this and I wait to hear from you about …\nZek writes to you this evening regarding an order from Hassan Cherif.\nHussein Sani. For the ticket and the invoice for the 50 … The receiver will return.\nAbdel Zaki. For the fork for the 10 kg … contained in the crate … and he will sign the collection.\nHussein Sani. I sold it to him and ask you to ship it to me.\n14/6 – 25 francs …\nEnrique Mitraile. He must pay for the crate; cost 18/20; this wine we received at 122 francs; you will clear the said crate from customs.\nMarket. As you can see from my sales, the market is still calm and there is nothing new to expect for an improvement.\nI do not see any sugar from “Cuba sale” going out; is there a reason?\nWith nothing further … best regards.",
+  "date": "14/06"
+}

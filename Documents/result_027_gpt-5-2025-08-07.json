@@ -1,0 +1,33 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi",
+    "Zaki",
+    "Nasif"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Rue de l'Église Maronite",
+    "Rue Neuve"
+  ],
+  "Companies": [
+    "Rachid Behna"
+  ],
+  "Commodities": [
+    {
+      "name": "billet à ordre",
+      "date": "1936-06-16",
+      "price": "L215"
+    },
+    {
+      "name": "payment to Zaki",
+      "date": "1936-06-16",
+      "price": "L60"
+    }
+  ],
+  "Extracted_text": "ALEXANDRIE — Rue de l'Église Maronite, No 1 — TÉLÉPH. No 44-40 — Adresse Télégraphique: BEHNA, ALEXANDRIE. Rachid Behna — Négociant. LE CAIRE — Rue Neuve, No 49 — TÉLÉPH. No 50-723 — B. P. 120 — Adresse Télégraphique: … LE CAIRE. Alexandrie, le 16 Juin 1936. Mes chers frères, Votre lettre en date d’hier. Joseph Mizrahi. Notez que vous avez reçu de lui le tiers du billet à ordre de L215.– et qu’il sort en … 1936.9. J’ai passé dans mon livre les deux factures surtout la lettre arabe de Zaki. Zaki a passé au magasin, et il a aussi reçu L60.– que j’espère vous envoyer demain. J’espère qu’il ne vous a écrit et que vous avez reçu les commandes. En cas qu’il me téléphone je vous ferai savoir à la fin de la lettre. … Fabrique … J’espère, comme je l’ai écrit hier, que durant la semaine ils vous enverront une bonne commande. Aucune nouvelle sur le marché au sujet de la décision de la banque; j’irai demain de nouveau pour voir Nasif et comprendre ce qui arrive au marché; je vous tiendrai au courant.",
+  "Language": "fr",
+  "Translation_to_English": "ALEXANDRIA — Street of the Maronite Church, No. 1 — Telephone No. 44-40 — Telegraphic address: BEHNA, ALEXANDRIA. Rachid Behna — Merchant. CAIRO — Rue Neuve, No. 49 — Telephone No. 50-723 — P.O. Box 120 — Telegraphic address: … CAIRO. Alexandria, 16 June 1936. My dear brothers, Your letter dated yesterday. Joseph Mizrahi. Note that you have received from him the third of the promissory note of L215, and that it falls due … 1936.9. I have entered in my book the two invoices, especially the Arabic letter from Zaki. Zaki stopped by the shop and also received L60, which I hope to send you tomorrow. I hope he has written to you and that you have received the orders. If he telephones me I will let you know at the end of the letter. … factory … I hope, as I wrote yesterday, that during the week they will send you a good order. No news on the market regarding the bank’s decision; I will go again tomorrow to see Nasif and understand what is happening in the market; I will keep you informed.",
+  "date": "1936-06-16"
+}

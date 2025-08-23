@@ -1,0 +1,17 @@
+{
+  "Persons": [],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Rue de l’Eglise Maronite",
+    "Rue Neuve"
+  ],
+  "Companies": [
+    "Rachid Behna"
+  ],
+  "Commodities": [],
+  "Extracted_text": "Alexandrie\nRue de l’Eglise Maronite, numéro 1\nTéléphone 44-40\nAdresse télégraphique: BENNA-ALEXANDRIE\n\nLe Caire\nRue Neuve, numéro 249\nTéléphone numéro 50-723\nBoîte postale 120\nAdresse télégraphique: BENNA-LE CAIRE\n\nRachid Behna\nNégociant\n\nAlexandrie, le 24 juin 1936\n\nMes chers frères,\n[texte manuscrit largement illisible; quelques mots lisibles: « vous dites », « maintenant », « je », « espère », « vous envoyer », « adresse », « Monsieur », « copie », « maison »].",
+  "Language": "fr",
+  "Translation_to_English": "Alexandria\nStreet of the Maronite Church, number 1\nTelephone 44-40\nTelegraphic address: BENNA-ALEXANDRIA\n\nCairo\nNew Street, number 249\nTelephone number 50-723\nPost office box 120\nTelegraphic address: BENNA-CAIRO\n\nRachid Behna\nMerchant\n\nAlexandria, 24 June 1936\n\nMy dear brothers,\n[handwritten text largely illegible; a few readable words: “you say,” “now,” “I,” “hope,” “to send you,” “address,” “Mister,” “copy,” “house”].",
+  "date": "24 juin 1936"
+}

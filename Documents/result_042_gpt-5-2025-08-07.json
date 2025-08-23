@@ -1,0 +1,23 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Muhammad Abd Al-Hamid",
+    "Muhammad Al-Mutawalli",
+    "Muhammad Al-Siyoufi",
+    "Awad Anwar"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Rue de l'Eglise Maronite",
+    "Rue Neuve"
+  ],
+  "Companies": [
+    "Rachid Behna"
+  ],
+  "Commodities": [],
+  "Extracted_text": "Rachid Behna\nNégociant\n\nALEXANDRIE\nRue de l'Eglise Maronite, No 1\nTéléphone No. 22578\nTéléph. 44.460\nAdresse Télégraphique: BEHNA ALEXANDRIE\n\nLE CAIRE\nRue Neuve, No 49\nTéléph. No 50-723\nB.P. 120\nAdresse Télégraphique: ANHEB LE CAIRE\n\nAlexandrie, le ........ 193..\nB.P. 1919\n13 Juin 1936\n\nالجمعة 12 يونيو 1936\nحضرة الأفندم [غير واضح]\nبعد السلام نذكركم بأننا قابضون على حسابكم [غير واضح]\nبرسم [غير واضح] وقد صرفنا منها [غير واضح] لأجل ثابت العلم باستلام\nوقد حضرت علينا يا حضرة [غير واضح] شيك بمبلغ [غير واضح]\n[سطر غير واضح]\nنرجو تحرير جوابكم الكريم\nقائمة أسماء ومبالغ (بالجنيه المصري):\nاسكندر [غير واضح] — ٩٥٨٫٠\nمحمد عبد الحميد — ٢٠٠٠\nمحمد المتولي — ٦٤٦٫٥\nمحمد السيوفي وعوض أنور — ٢٥٠\n[أسماء أخرى غير واضحة]\nالمجموع — ١٢٨٧٥ [غير واضح]\nوتقبلوا فائق الاحترام.",
+  "Language": "ar",
+  "Translation_to_English": "Rachid Behna, merchant.\nAlexandria: Rue de l'Eglise Maronite No. 1. Telephone No. 22578, 44.460. Telegraphic address: BEHNA ALEXANDRIE.\nCairo: Rue Neuve No. 49. Telephone No. 50-723. P.O. Box 120. Telegraphic address: ANHEB LE CAIRE.\nAlexandria, 13 June 1936.\n\nFriday, 12 June 1936.\nSir, after greetings, we inform you that we have received on your account [unclear]. For [unclear] we have disbursed [unclear] and this serves as acknowledgment of receipt. A check for the amount of [unclear] has been presented. Please send your esteemed reply.\nList of names and amounts (in Egyptian pounds): Iskandar [unclear] — 958.0; Muhammad Abd Al-Hamid — 2000; Muhammad Al‑Mutawalli — 646.5; Muhammad Al‑Siyoufi and Awad Anwar — 250; [other names unclear]. Total — 12,875 [unclear]. With highest respect.",
+  "date": "1936-06-13"
+}

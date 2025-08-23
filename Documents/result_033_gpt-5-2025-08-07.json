@@ -1,0 +1,19 @@
+{
+  "Persons": [
+    "Rachid Behna"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Rue de l'Eglise Maronite No 1",
+    "Rue Neuve No 49"
+  ],
+  "Companies": [
+    "Rachid Behna"
+  ],
+  "Commodities": [],
+  "Extracted_text": "Rachid Behna\nNégociant\n\nALEXANDRIE\nRue de l'Eglise Maronite, No 1\nTéléphone No. 2.378\nAdresse Télégraphique: \"BEHNA ALEXANDRIE\"\n\nLE CAIRE\nRue Neuve, No 49\nTéléphone No. 50-723\nB. P. 120\nAdresse Télégraphique: \"ANHEB LE CAIRE\"\n\nAlexandrie, le ______ 193_\n\n16 JUIN 1936\n\n[نص عربي بخط اليد، جزء كبير منه غير مقروء بوضوح في الصورة]\n",
+  "Language": "ar",
+  "Translation_to_English": "Rachid Behna\nMerchant\n\nAlexandria\nStreet of the Maronite Church, Number 1\nTelephone Number 2.378\nTelegraphic address: \"BEHNA ALEXANDRIE\"\n\nCairo\nNew Street, Number 49\nTelephone Number 50-723\nP.O. Box 120\nTelegraphic address: \"ANHEB LE CAIRE\"\n\nAlexandria, the ____ 193_\n\n16 June 1936\n\n[Handwritten Arabic letter; most of the content is not clearly legible in the image]\n",
+  "date": "1936-06-16"
+}

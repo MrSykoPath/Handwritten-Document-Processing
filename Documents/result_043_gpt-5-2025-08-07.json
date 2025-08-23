@@ -1,0 +1,32 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Joseph Mizrahi"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire",
+    "Milazzo"
+  ],
+  "Companies": [
+    "Rachid Behna (Négociant)",
+    "Banque du Caire",
+    "Fabrique Câbles Milazzo"
+  ],
+  "Commodities": [
+    {
+      "name": "Clous de girofle (cloves)",
+      "date": "1936-06-21",
+      "price": "Augmentation de 15–20 piastres par kilo"
+    },
+    {
+      "name": "Oranges",
+      "date": "1936-06-21",
+      "price": "Non précisé (livraison de 5000 kilos mentionnée)"
+    }
+  ],
+  "Extracted_text": "ALEXANDRIE\nRue de l'Église Maronite, N° 1\nTÉLÉPH. 44-40\nAdresse Télégraphique: BEHNA ALEXANDRIE\n\nLE CAIRE\nRue Neuve, N° 49\nTÉLÉPH. N° 60-723\nB.P. 120\nAdresse Télégraphique: BEHNA LE CAIRE\n\nRachid Behna\nNégociant\n\nAlexandrie, le 21 Juin 1936.\n\nTrès chers frères,\n\nVotre lettre en date d'hier.\n\nJe vous envoie un reçu sur la B.O. de la Banque du Caire pour la somme de £E 7000, montant remis par Joseph Mizrahi, Fabrique Câbles Milazzo. Notez que Costarelli viendra demain pour prendre livraison des 5000 kilos d'oranges restant de la commande de mardi. J'espère cependant vous envoyer la confirmation de l'envoi de jeudi.\n\nJoseph Mizrahi: j'ai porté dans mon livre les deux manquants, suivant la lettre arabe de Fekri.\n\nNotez que vous n'avez rien dédouané, Lata; à cause de son magasin cet après‑midi L.30, que j'espère vous envoyer demain.\n\nIl y a eu une augmentation depuis ce matin de 15 à 20 P.T. par kilo de clous de girofle. C'est entendu; pour Milazzo on peut augmenter le prix ou diminuer du poids. J'espère que vous ne serez pas lésés par cette augmentation. J'attends de vos nouvelles et j'espère qu'elles seront bonnes.",
+  "Language": "fr",
+  "Translation_to_English": "Alexandria, 21 June 1936.\n\nDearest brothers,\n\nYour letter dated yesterday.\n\nI am sending you a receipt on the Bank of Cairo for the sum of £E 7000, an amount handed over by Joseph Mizrahi, Cable Factory Milazzo. Note that Costarelli will come tomorrow to take delivery of the remaining 5,000 kilos of oranges from Tuesday’s order. I hope, however, to send you confirmation of Thursday’s shipment.\n\nJoseph Mizrahi: I have entered in my book the two missing items, according to Fekri’s Arabic letter.\n\nNote that you have cleared nothing, Lata; because of his warehouse this afternoon £E 30, which I hope to send you tomorrow.\n\nThere has been since this morning an increase of 15 to 20 piastres per kilo of cloves. Agreed; for Milazzo one can either raise the price or reduce the weight. I hope you will not be harmed by this increase. I await your news and hope it will be good.",
+  "date": "1936-06-21"
+}

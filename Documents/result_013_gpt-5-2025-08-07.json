@@ -1,0 +1,27 @@
+{
+  "Persons": [
+    "Rachid Behna",
+    "Zaki",
+    "Joseph",
+    "Cantarelli"
+  ],
+  "Places": [
+    "Alexandrie",
+    "Le Caire"
+  ],
+  "Companies": [
+    "Rachid Behna",
+    "Fabrique Calhas Mélasses"
+  ],
+  "Commodities": [
+    {
+      "name": "Mélasse",
+      "date": "1936-06-22",
+      "price": ""
+    }
+  ],
+  "Extracted_text": "Alexandrie Rue de l'Eglise Maronite, N° 1 Téléph. 44-46 Adresse Télégraphique: \"Behna, Alexandrie\" — Le Caire Rue Neuve, N° 49 Téléph. N° 50-723 B.P. 120 Adresse Télégraphique: \"Ahmed, Le Caire\" — Rachid Behna Négociant.\nAlexandrie, le 22 Juin 1936.\nMes chers frères,\nVotre lettre en date du 20 [ct]. Joseph [illisible]. J'ai passé dans mon livre des encaissements d'hier sur les 6 factures suivant la lettre arabe de Zaki.\nJ'attends vous lire demain au sujet de [illisible] personnellement à la P.O.\nReçu la copie de votre lettre concernant les réclamations des balles aux expéditeurs.\nZaki a passé chez moi; mais il n'y a d'argent [illisible]. J'espère que demain il trouvera au poste de [illisible] partir aujourd'hui nuit de son voyage.\nFabrique Calhas Mélasses. J'étais cet après-midi chez Cantarelli et demain vous recevrez une commande de 10.000 rouges et 418.\nEncore aucune nouvelle de la banque et les autres pour une augmentation des prix; on attend à ce qu'ils commencent, ou à augmenter le prix, ou bien à retarder les fonds. Je vous écrirai [bientôt] qu'il y aura quelque chose.",
+  "Language": "fr",
+  "Translation_to_English": "Alexandria Street of the Maronite Church, No. 1, Telephone 44-46, Telegraph address: \"Behna, Alexandria\" — Cairo New Street, No. 49, Telephone No. 50-723, P.O. Box 120, Telegraph address: \"Ahmed, Cairo\" — Rachid Behna, merchant.\nAlexandria, 22 June 1936.\nMy dear brothers,\nYour letter dated the 20th [current]. Joseph [illegible]. I have entered in my book yesterday’s receipts on the six invoices according to Zaki’s Arabic letter.\nI await your news tomorrow regarding [illegible], personally at the post office.\nReceived the copy of your letter concerning the claims for the bales from the shippers.\nZaki passed by my place; but there is no money [illegible]. I hope that tomorrow he will find it at the post [office] and leave tonight on his trip.\nMolasses factory. I was this afternoon at Cantarelli’s and tomorrow you will receive an order for 10,000 red [items] and 418.\nStill no news from the bank and the others about a price increase; we are waiting for them to begin, either to raise the price or else to delay the funds. I will write to you [soon] that there will be something.",
+  "date": "1936-06-22"
+}

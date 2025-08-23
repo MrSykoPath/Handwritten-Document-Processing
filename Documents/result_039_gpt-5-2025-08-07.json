@@ -1,0 +1,23 @@
+{
+  "Persons": [
+    "Samuel Joseph Salomon",
+    "Vassilioti",
+    "Zachariou"
+  ],
+  "Places": [
+    "Alexandrie"
+  ],
+  "Companies": [
+    "Contrelli"
+  ],
+  "Commodities": [
+    { "name": "Mélasse", "date": "", "price": "" },
+    { "name": "Tabac", "date": "", "price": "" },
+    { "name": "Cigarettes égyptiennes", "date": "", "price": "" },
+    { "name": "Cigarettes américaines", "date": "", "price": "" }
+  ],
+  "Extracted_text": "Fabrique Cabas Mélasse, dites que vous avez livré et envoyé les 5000 boîtes rouges. Aujourd’hui, il s’est passé pour une commande de 5000 boîtes rouges. Je suis chez Contrelli et j’ai causé longuement avec Vassilioti; ils m’ont dit qu’au marché aujourd’hui il n’y a pas d’augmentation sur la mélasse ni sur la cigarette égyptienne; il y en a sur les tabacs en gros ainsi que sur les cigarettes américaines. Ils sont de l’idée de nous envoyer; pour nous conformer, laissez‑vous aux prix qu’on donne au marché; puis nous cela comme les autres. Ils n’ont pas l’idée de réduire les prix, car la consommation est faible; il faut conserver les fonds, quitte à augmenter les prix dans l’avenir; ils m’ont assuré. Il faut voir ce que Contrelli à Alexandrie pense faire, et puis avec Zachariou faire de leur mieux dans votre intérêt commun; et dites qu’ils auront des nouvelles sur ce que la concurrence fera; ils m’écriront. Samuel Joseph Salomon. Il vous écrira… vous accorde… Moi, quant aux biseaux, il vous a écrit hier à ce sujet.",
+  "Language": "fr",
+  "Translation_to_English": "Molasses factory, say that you have delivered and sent the 5,000 red boxes. Today there was an order for 5,000 red boxes. I am at Contrelli’s and spoke at length with Vassilioti; they told me that on today’s market there is no increase on molasses or Egyptian cigarettes; there is on bulk tobacco as well as on American cigarettes. They are inclined to send us; to comply, stay with the prices given on the market; then we will do like the others. They do not intend to reduce prices because consumption is weak; funds must be preserved, even if prices are raised in the future; they assured me. We must see what Contrelli in Alexandria intends to do, and then with Zachariou do their best in your common interest; and they said they will send news about what the competition will do; they will write to me. Samuel Joseph Salomon. He will write to you… agrees… As for the bevels, he wrote to you yesterday on this subject.",
+  "date": ""
+}
