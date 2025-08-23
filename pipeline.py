@@ -92,7 +92,7 @@ def process_image_with_openai(image_path, ai_model, api_key):
 # GOOGLE DRIVE
 # -------------------------
 SCOPES = ['https://www.googleapis.com/auth/drive']
-CREDENTIALS_FILE = 'config/documentextraction-465311-6d37979e03e0.json'
+CREDENTIALS_FILE = '/etc/secrets/documentextraction-465311-6d37979e03e0.json'
 
 def get_drive_service():
     creds = Credentials.from_service_account_file(CREDENTIALS_FILE, scopes=SCOPES)
