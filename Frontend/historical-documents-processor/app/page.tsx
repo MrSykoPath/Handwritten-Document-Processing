@@ -1,5 +1,6 @@
 "use client";
 import { Input } from "@heroui/input";
+import { Alert } from "@heroui/alert";
 import { title, subtitle } from "@/components/primitives";
 import { useState } from "react";
 import { RequestType } from "@/components/request_type";
@@ -14,20 +15,31 @@ export default function Home() {
     ai_model_name: null,
     api_key: null,
   });
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
-  const API_URL: string = "http://127.0.0.1:5000";
+  const API_URL: string =
+    "https://handwritten-document-processing.onrender.com";
 
   //Test first
   const onSubmit = async () => {
-    console.log("Request Data:", request);
-    axios
-      .post(`${API_URL}/run-pipeline`, request)
-      .then((response) => {
-        console.log("Response Data:", response.data);
-      })
-      .catch((error) => {
-        console.error("Error fetching data:", error);
-      });
+    setError(null);
+    setLoading(true);
+    try {
+      const response = await axios.post(`${API_URL}/run-pipeline`, request);
+      console.log("Response Data:", response.data);
+    } catch (err: any) {
+      let message = "An unexpected error occurred.";
+      if (err.response && err.response.data && err.response.data.error) {
+        message = err.response.data.error;
+      } else if (err.message) {
+        message = err.message;
+      }
+      setError(message);
+      console.error("Error fetching data:", err);
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
@@ -52,6 +64,50 @@ export default function Home() {
             For the AUC library
           </span>
         </div>
+        {error && (
+          <div className="w-8/12 mx-auto mb-2">
+            <Alert
+              color="danger"
+              variant="bordered"
+              title="Error"
+              onClose={() => setError(null)}
+            >
+              {error}
+            </Alert>
+          </div>
+        )}
+        {loading && (
+          <div className="w-8/12 mx-auto mb-2">
+            <Alert color="primary" variant="bordered" title="Processing...">
+              <div className="flex items-center gap-2">
+                <svg
+                  className="animate-spin h-5 w-5 text-blue-500"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                >
+                  <circle
+                    className="opacity-25"
+                    cx="12"
+                    cy="12"
+                    r="10"
+                    stroke="currentColor"
+                    strokeWidth="4"
+                  ></circle>
+                  <path
+                    className="opacity-75"
+                    fill="currentColor"
+                    d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"
+                  ></path>
+                </svg>
+                <span>
+                  This may take several minutes (or up to an hour) to complete.
+                  Please do not close this page.
+                </span>
+              </div>
+            </Alert>
+          </div>
+        )}
         <div className="flex flex-col items-center gap-4 mt-9">
           <div className="w-8/12 mx-auto hover:w-9/12 transition-all duration-300">
             <Input
@@ -121,7 +177,9 @@ export default function Home() {
           </div>
           <div className="w-8/12 mx-auto hover:w-9/12 transition-all duration-300">
             <ButtonGroup>
-              <Button onPress={onSubmit}>Submit</Button>
+              <Button onPress={onSubmit} isLoading={loading}>
+                Submit
+              </Button>
               <Button
                 variant="faded"
                 onPress={() =>

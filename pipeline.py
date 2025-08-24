@@ -175,7 +175,7 @@ def process_drive_folder(source_folder_id, result_folder_id, ai_model, api_key):
 
         print(f"Processing {file_name}...")
 
-        # Download image
+         # Download image
         try:
             fh = io.BytesIO()
             request = service.files().get_media(fileId=file_id)
@@ -188,6 +188,7 @@ def process_drive_folder(source_folder_id, result_folder_id, ai_model, api_key):
             local_image_path = os.path.join(documents_dir, file_name)
             with open(local_image_path, 'wb') as f:
                 f.write(fh.read())
+            fh.close()  # <-- Ensure BytesIO is closed
         except Exception as e:
             print(f"Failed to download {file_name}: {e}")
             summary["errors"] += 1
@@ -220,12 +221,18 @@ def process_drive_folder(source_folder_id, result_folder_id, ai_model, api_key):
             print(f"Upload failed for {result_filename}: {e}")
             summary["errors"] += 1
 
-        # Clean up local files
+         # Clean up local files
         try:
             os.remove(local_image_path)
             os.remove(result_path)
         except PermissionError:
-            print(f"Could not delete temp files for {file_name}")
+            import time
+            time.sleep(0.5)  # Wait a bit and try again
+            try:
+                os.remove(local_image_path)
+                os.remove(result_path)
+            except Exception as e:
+                print(f"Could not delete temp files for {file_name}: {e}")
 
         summary["processed"] += 1
 
